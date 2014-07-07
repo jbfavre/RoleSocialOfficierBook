@@ -1,5 +1,3 @@
-![Lyautey à Madagascar (1899)](../3-images/Lyautey_Madagascar_1899.jpg)
-
 # Préface
 
 1891 — Lyautey est depuis deux ans capitaine, commandant le 1er escadron du 4e chasseurs à cheval à Saint—Germain—en—Laye. Il a trente-six ans. C’est l’époque du Ralliement. Avec sa flamme habituelle, il se mêle au mouvement d’union, à cette «Période de bonnes volontés » dont le pape Léon XIII vient de donner le signal. Pour Lyautey, la préoccupation du devoir social n’est pas neuve. A Saint—Cyr, il a noté la forte impression rapportée d’une conférence sociale. «Notre rôle est sacré» écrit-il ensuite avec ferveur. Plus tard, à Florence, méditant sur le destin d’un seigneur de la Renaissance dont il possède le portrait «L’épée au côté, la main posée sur un livre », il envie ce jeune capitaine. Un beau guerrier, songe—t—il, mais sans doute éclairé et instruit, et qui, sûrement, employait ses loisirs, entre deux combats, à deviser des affaires de la République. À tout instant, sous sa plume, reviennent les phrases qui témoignent de sa hantise; rapprocher les êtres, les unir au sein de la société.  
@@ -72,4 +70,4 @@ Donc, Lyautey avait raison et les officiers qui l’ont suivi et donné le meill
 Paris 15 mars 1946
 A. Juin
 
-![Signature du général Juin](../3-images/signature_préface.jpg)
+![Signature du général Juin](../3-images/signature_preface.jpg)
