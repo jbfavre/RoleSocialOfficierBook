@@ -1,22 +1,10 @@
-# Jud Allan
+# Du rôle social de l'officier
 
-Ce dépôt accueille le travail de reconstitution du livre « Jud Allan »
-de Paul d'Ivoi.
+Ce dépôt accueille le travail de reconstitution du livre « Du rôle social
+de l'officier » de Hubert Lyautey.
 
 Cet ouvrage, qui est dans le domaine public, a été numérisé dans le local
-de [La Quadrature du Net](1) le 26 octobre 2013 à l'aide du book scanner.
-
-Compte tenu de leur taille & nombre, les photos résultants de l'opération
-de numérisation seront prochainement disponibles sur les réseaux P2P.
-
-## Le livre
-
-« Jud Allan, roi des _lads_ » a été écrit par [Paul d'Ivoi](2)
-en 1909. Il fait partie des [Voyages excentriques](3)
-qui comptent 21 volumes.
-
-L'édition qui a été utilisée pour la numérisation date de 1932. Elle a
-été publiée par les éditions « Boivin et Cie » à Paris.
+de [La Quadrature du Net](1) le 2 juillet 2014 à l'aide du book scanner.
 
 ## Post-production
 
@@ -119,7 +107,7 @@ Par exemple, ce – texte d'incise – s'écrit:
 
     `U+00A0``U+2013``U+00A0`texte d'incise`U+00A0``U+2013``U+00A0`
 
-[Tiret sur Wikipédia](4)
+[Tiret sur Wikipédia](2)
 
 ### Guillemets & apostrophes
 
@@ -138,7 +126,7 @@ Enfin, pour les apostrophes, la version informatique ' doit également
 
 Il existe également ‘, code `U+2018` mais on préférera en général la première.
 
-[Guillemet sur Wikipédia](5)
+[Guillemet sur Wikipédia](3)
 
 ### Points de suspension
 
@@ -163,8 +151,6 @@ ponctuation suivants:
 En général, on préférera les espaces fines, sauf avant les signes : ou les guillemets où les 2 sont acceptées.
 
 [1]: http://www.laquadrature.net/fr
-[2]: https://fr.wikipedia.org/wiki/Paul_d%27Ivoi
-[3]: https://fr.wikipedia.org/wiki/Paul_d%27Ivoi#Les_Voyages_excentriques
-[4]: http://fr.wikipedia.org/wiki/Tiret
-[5]: http://fr.wikipedia.org/wiki/Guillemets
+[2]: http://fr.wikipedia.org/wiki/Tiret
+[3]: http://fr.wikipedia.org/wiki/Guillemets
 
