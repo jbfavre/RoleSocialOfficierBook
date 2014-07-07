@@ -1,4 +1,4 @@
-# Du Rôle colonial de l'armée
+# Du rôle colonial de l'armée
 
 Le titre de cette étude : _Du rôle colonial de l’armée_, éveillera peut—être la pensée qu’il s’agit d'un plaidoyer exclusif en faveur du régime militaire aux colonies.  
 C’est au devant de cette pensée, la plus éloignée qu’il se puisse de notre esprit, que nous voudrions aller tout d’abord.
