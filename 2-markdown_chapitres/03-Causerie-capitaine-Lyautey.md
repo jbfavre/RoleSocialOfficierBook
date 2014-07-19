@@ -1,5 +1,4 @@
-# Causerie du capitaine Lyautey aux cadres du 1^er^ escadron du 4^ème^
-# Chasseurs
+# Causerie du capitaine Lyautey aux cadres du 1^er^ escadron du 4^ème^ Chasseurs
 
 ## De la méthode d’instruction
 

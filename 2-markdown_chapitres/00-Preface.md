@@ -394,4 +394,4 @@ salut dans la paix traversée d’inquiétude où nous entrons.
 
 Paris 15 mars 1946 A. Juin
 
-![Signature du général Juin](../3—images/signature_preface.jpg)
+![Signature du général Juin](../3-images/signature_preface.jpg)
