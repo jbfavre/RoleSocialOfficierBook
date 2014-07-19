@@ -74,16 +74,16 @@ moindre « esprit de bouton », d’exposer à grands traits la façon dont 
 général Galliéni a entendu et appliqué, après d’illustres prédécesseurs dont il
 a développé les principes et les méthodes, l’utilisation coloniale de l’armée.
 
-*** I ***
+## 1
 
 Voyons d’abord dans ses grandes lignes l’emploi de la force armée pour la
 _conquête_, tel que l’entend, avec le général Galliéni et quelques—uns de nos
 chefs coloniaux, l’école qui procède d’eux, — car c’est une école.  Ce mode
-d’emploi exclut autant que possible [^2—1] la _colonne_ proprement dite et y
+d’emploi exclut autant que possible [^2-1] la _colonne_ proprement dite et y
 substitue la méthode d’_occupation progressive_. Cette méthode peut se formuler
 ainsi :
 
-[^2—1] Nous disons « autant que possible » : car il doit être formellement
+[^2-1]: Nous disons « autant que possible » : car il doit être formellement
 entendu qu’il n’y a ici rien d’absolu. — Il est évident qu’il y a nombre de cas
 dans les guerres coloniales où l’expédition militaire s’impose, sous sa forme
 classique et traditionnelle : au début d’une conquête, quand il faut atteindre
@@ -109,7 +109,7 @@ puissamment organisées, plus militairement menées. Et le cas échéant, c’es
 cette _ultima ration_ qu’il faut recourir sans hésiter. Nous y reviendrons.
 
 > L’occupation militaire consiste moins en opérations militaires qu’en une
-> organisation qui « marche ».
+  organisation qui « marche ».
 
 Le système repose sur trois organes essentiels : le _territoire_, le _cercle_,
 le _secteur_.  
@@ -184,51 +184,54 @@ fut—elle à l’origine peu sympathique aux chercheurs d’aventures.
 Déjà, elle avait été présentée et défendue dans un rapport adressé en 1895 par
 le général commandant en chef le corps d’occupation au gouverneur général de
 l’Indochine; il convient ici de citer un passage de ce document :  
+
 > Je vous demande la permission de préciser cette méthode et de répondre une
-> fois pour toutes à la plus spécieuse des objections qui lui sont couramment
-> opposées et qui se formule ainsi :  
-> _Cette méthode donne des résultats illusoires parce qu’elle ne détruit pas
-> les bandes, les refoule simplement à l’extérieur, d’où elles reviennent, à
-> moins qu’elle ne les rejette dans les territoires voisins de ceux où elle est
-> appliquée. L’œuvre est donc sans cesse à recommencer._  
-> J’estime que ce raisonnement part d’une fausse appréciation des conditions de
-> formation et d’établissement des bandes pirates.  
-> En premier lieu, l’expérience du passé démontre qu’on arrive rarement, sinon
-> jamais, à la destruction par la force d’une bande pirate. Dans la chasse à
-> courre que représente la poursuite d’une bande déterminée, tous les avantages
-> restent du côté de l’adversaire avec une évidence telle qu’il est superflu de
-> la détailler ici ; et un résultat toujours partiel ne s’obtient qu’au prix de
-> fatigues, de pertes, de dépenses, qui ne sont certes pas compensées par le
-> succès.  
-> En second lieu, il ne faut pas perdre de vue que le « pirate » est, si je
-> puis m’exprimer ainsi, « une plante qui ne pousse qu’en certains terrains »,
-> et que la méthode la plus sûre, c’est de lui rendre le terrain réfractaire.  
-> Il n’y a pas de pirates dans les pays complètement organisés; en revanche, il
-> y en a, même en Europe, sous d’autres noms, dans les pays tels que la
-> Turquie, la Grèce, l’Italie du Sud, qui n’offrent qu’une voirie incomplète,
-> une organisation administrative rudimentaire, ou une population clairsemée.
-> Si j’ose continuer ma comparaison, je dirai que, lorsqu’il s’agit de mettre
-> en culture une partie d’un terrain envahi par les herbes sauvages, il ne
-> suffit pas d’arracher celles—ci sous peine de recommencer le lendemain, mais
-> qu’il faut, après y avoir passé la charrue, isoler le sol conquis, l’enclore,
-> puis y semer le bon grain qui, seul, le rendra réfractaire à l’ivraie. De
-> même de la terre livrée à la piraterie : l’occupation armée, avec ou sans
-> combat, y passe le soc; l’établissement d’une ceinture militaire l’enclôt et
-> l’isole; enfin la reconstitution de la population, son armement,
-> l’installation des marchés et des cultures, le percement des routes, y
-> sèment le bon grain et rendent la région conquise réfractaire au pirate, si
-> même ce n’est ce dernier qui, transformé, coopère à cette évolution.
+  fois pour toutes à la plus spécieuse des objections qui lui sont couramment
+  opposées et qui se formule ainsi :  
+  _Cette méthode donne des résultats illusoires parce qu’elle ne détruit pas
+  les bandes, les refoule simplement à l’extérieur, d’où elles reviennent, à
+  moins qu’elle ne les rejette dans les territoires voisins de ceux où elle est
+  appliquée. L’œuvre est donc sans cesse à recommencer._  
+  J’estime que ce raisonnement part d’une fausse appréciation des conditions de
+  formation et d’établissement des bandes pirates.  
+  En premier lieu, l’expérience du passé démontre qu’on arrive rarement, sinon
+  jamais, à la destruction par la force d’une bande pirate. Dans la chasse à
+  courre que représente la poursuite d’une bande déterminée, tous les avantages
+  restent du côté de l’adversaire avec une évidence telle qu’il est superflu de
+  la détailler ici ; et un résultat toujours partiel ne s’obtient qu’au prix de
+  fatigues, de pertes, de dépenses, qui ne sont certes pas compensées par le
+  succès.  
+  En second lieu, il ne faut pas perdre de vue que le « pirate » est, si je
+  puis m’exprimer ainsi, « une plante qui ne pousse qu’en certains terrains »,
+  et que la méthode la plus sûre, c’est de lui rendre le terrain réfractaire.  
+  Il n’y a pas de pirates dans les pays complètement organisés; en revanche, il
+  y en a, même en Europe, sous d’autres noms, dans les pays tels que la
+  Turquie, la Grèce, l’Italie du Sud, qui n’offrent qu’une voirie incomplète,
+  une organisation administrative rudimentaire, ou une population clairsemée.
+  Si j’ose continuer ma comparaison, je dirai que, lorsqu’il s’agit de mettre
+  en culture une partie d’un terrain envahi par les herbes sauvages, il ne
+  suffit pas d’arracher celles—ci sous peine de recommencer le lendemain, mais
+  qu’il faut, après y avoir passé la charrue, isoler le sol conquis, l’enclore,
+  puis y semer le bon grain qui, seul, le rendra réfractaire à l’ivraie. De
+  même de la terre livrée à la piraterie : l’occupation armée, avec ou sans
+  combat, y passe le soc; l’établissement d’une ceinture militaire l’enclôt et
+  l’isole; enfin la reconstitution de la population, son armement,
+  l’installation des marchés et des cultures, le percement des routes, y
+  sèment le bon grain et rendent la région conquise réfractaire au pirate, si
+  même ce n’est ce dernier qui, transformé, coopère à cette évolution.
 
 En exposant cette méthode à M. le gouverneur général Rousseau, le général
 Duchemin, commandant en chef le corps d’occupation, trouvait à qui parler. Rien
 ne le prouve mieux que le passage suivant d’une lettre où, à son tour, M.
 Rousseau donnait au gouvernement métropolitain les grandes lignes du système
 tel qu’il était appliqué au Tonkin :  
+
 > La mission que remplit aujourd’hui notre corps d’occupation consiste avant
-> tout à assurer la protection de la frontière et à procéder à la
-> reconstruction sociale et à la remise en valeur de la haute région du Tonkin,
-> organisée en territoires militaires, les expéditions et l’emploi de la force
-> passant au dernier plan.  
+  tout à assurer la protection de la frontière et à procéder à la
+  reconstruction sociale et à la remise en valeur de la haute région du Tonkin,
+  organisée en territoires militaires, les expéditions et l’emploi de la force
+  passant au dernier plan.  
+
 En arrière de la frontière existe une vaste région ravagée par vingt ans de
 piraterie, terrain vague qui constitue un danger constant s’il reste à l’état
 inorganique, véritable matelas. de protection au contraire s’il se reconstitue,
@@ -298,46 +301,51 @@ seuls lui donneront sa viande, il les gaspille ? que ses habitants seront ses
 aides, ses collaborateurs de demain, il les maltraite ? Non. Du reste, les
 traits généraux de cette politique ont été magistralement exposés dans les
 instructions fondamentales du général Galliéni, en date du 22 mai 1898 :  
+
 > Le meilleur moyen pour arriver à la pacification dans notre nouvelle colonie
-> est d’employer l’action combinée de la force et de la politique. Il faut nous
-> rappeler que dans les luttes coloniales nous ne devons détruire qu’à la
-> dernière extrémité et, dans ce cas encore, ne détruire que pour mieux bâtir.
-> Toujours nous devons ménager le pays et les habitants, puisque celui—là est
-> destiné à recevoir nos entreprises de colonisation future et que ceux—ci
-> seront nos principaux agents et collaborateurs pour mener à bien nos
-> entreprises. Chaque fois que les incidents de guerre obligent l’un de nos
-> officiers coloniaux à agir contre un village ou un centre habité, il ne doit
-> pas perdre de vue que son premier soin, la soumission des habitants obtenue,
-> sera de reconstruire le village, d’y créer un marché, d’y établir une école.
-> C’est de l’action combinée de la politique et de la force que doit résulter
-> la pacification du pays et l’organisation à lui donner plus tard.  
-> L’action politique est de beaucoup la plus importante. Elle tire sa plus grande
-> force de l’organisation du pays et de ses habitants.  
-> Au fur et à mesure que la pacification s’affirme, le pays se cultive, les
-> marchés se rouvrent, le commerce reprend. Le rôle du soldat passe au second
-> plan. Celui de l’administrateur commence. Il faut d’une part étudier et
-> satisfaire les besoins sociaux des populations soumises; favoriser d’autre
-> part, l’extension de la colonisation qui va mettre en valeur les richesses
-> naturelles du sol, ouvrir les débouchés au commerce européen.
+  est d’employer l’action combinée de la force et de la politique. Il faut nous
+  rappeler que dans les luttes coloniales nous ne devons détruire qu’à la
+  dernière extrémité et, dans ce cas encore, ne détruire que pour mieux bâtir.
+  Toujours nous devons ménager le pays et les habitants, puisque celui—là est
+  destiné à recevoir nos entreprises de colonisation future et que ceux—ci
+  seront nos principaux agents et collaborateurs pour mener à bien nos
+  entreprises. Chaque fois que les incidents de guerre obligent l’un de nos
+  officiers coloniaux à agir contre un village ou un centre habité, il ne doit
+  pas perdre de vue que son premier soin, la soumission des habitants obtenue,
+  sera de reconstruire le village, d’y créer un marché, d’y établir une école.
+  C’est de l’action combinée de la politique et de la force que doit résulter
+  la pacification du pays et l’organisation à lui donner plus tard.  
+  L’action politique est de beaucoup la plus importante. Elle tire sa plus grande
+  force de l’organisation du pays et de ses habitants.  
+  Au fur et à mesure que la pacification s’affirme, le pays se cultive, les
+  marchés se rouvrent, le commerce reprend. Le rôle du soldat passe au second
+  plan. Celui de l’administrateur commence. Il faut d’une part étudier et
+  satisfaire les besoins sociaux des populations soumises; favoriser d’autre
+  part, l’extension de la colonisation qui va mettre en valeur les richesses
+  naturelles du sol, ouvrir les débouchés au commerce européen.
 
 Et pour terminer ces citations par cette dernière qui en résume l’esprit :  
+
 > Les commandants territoriaux devront comprendre leur rôle administratif de la
-> façon la moins formaliste. Des règlements, surtout aux colonies et en matière
-> économique, ne posent jamais que des formules générales prévues par un
-> ensemble de cas, mais inapplicables souvent au cas particulier.
+  façon la moins formaliste. Des règlements, surtout aux colonies et en matière
+  économique, ne posent jamais que des formules générales prévues par un
+  ensemble de cas, mais inapplicables souvent au cas particulier.
+
 _Nos administrateurs et officiers doivent défendre au nom du bon sens les
 intérêts qui leur sont confiés et non les combattre au nom du règlement_.
 
-*** II ***
+## 2
 
 Voilà pour la première période : conquête, occupation, pacification.  
 Voyons ce que devient la méthode, en quoi consiste le rôle colonial de l’armée
 dans la période suivante, dans la vie normale du pays pacifié.
 
 Ici encore, il n’y a qu’à laisser la parole aux ins— tructions du 22 mai 1898 :  
+
 > Le soldat se montre d’abord soldat, ainsi qu’il est nécessaire pour en
-> imposer aux populations encore insoumises; puis la paix obtenue, il dépose
-> les armes, il devient administrateur…  
+  imposer aux populations encore insoumises; puis la paix obtenue, il dépose
+  les armes, il devient administrateur…  
+
 Ces fonctions administratives semblent incompatibles, au premier abord, avec
 l’idée qu’on se fait du militaire dans certains milieux. C’est là cependant le
 véritable rôle de l’officier colonial et de ses dévoués et intelligents
@@ -485,18 +493,19 @@ exploitation du sol ». C’est ainsi qu’à Madagascar, des postes de tirail
 hovas, établis sur de grandes voies de communication, traversant des régions
 désertes, ont été transformés en villages militaires avec concession de terres
 en toute propriété, afin d’y créer des noyaux de repeuplement et des centres de
-ressources [^2—2].
+ressources [^2-2].
 
-[^2—2] Décision du général Galliéni, du 20 janvier 1898, affectant une
-compagnie de tirailleurs malgaches à la route de Majunga :  
-> …Considérant qu’il est utile de repeupler une route d’étapes importante en
-> y créant des ressources pour les voyageurs et que cet essai de colonisation
-> militaire, déjà expérimentée avec succès dans d’autres colonies françaises et
-> étrangères, est particulièrement intéressant au point de vue du repeuplement
-> des parties actuellement désertes de l’île ; Considérant que cette
-> organisation, en créant des intérêts à la troupe contribue à l’amélioration
-> de son état physique et moral dans des régions éloignées de tout centre de
-> population… décide…
+[^2-2]: Décision du général Galliéni, du 20 janvier 1898, affectant une
+compagnie de tirailleurs malgaches à la route de Majunga :
+
+    > …Considérant qu’il est utile de repeupler une route d’étapes importante en
+      y créant des ressources pour les voyageurs et que cet essai de colonisation
+      militaire, déjà expérimentée avec succès dans d’autres colonies françaises et
+      étrangères, est particulièrement intéressant au point de vue du repeuplement
+      des parties actuellement désertes de l’île ; Considérant que cette
+      organisation, en créant des intérêts à la troupe contribue à l’amélioration
+      de son état physique et moral dans des régions éloignées de tout centre de
+      population… décide…
 
 On s’élève souvent contre la charge onéreuse que présente pour la métropole
 l’entretien des corps d’occupation. On admet d’ailleurs que le moment ne semble
@@ -549,11 +558,12 @@ plus belle tenue, correct, ganté, comme pour le bal, et tandis que, évoquant
 avec lui le souvenir de ses camarades de la cavalerie où il eût pu entrer, et
 des brillantes garnisons suburbaines, je ne pouvais m’empêcher de remarquer et
 sa vie sévère loin des choses familières et aimées, et sa belle humeur :  
+
 > Mais, fit—il vivement, je ne m’ennuie pas un instant : avec le soin de mes
-> hommes, la reconstitution de ces rizières à peine reprises à la piraterie,
-> mes briqueteries, mes constructions, mon marché, mes règlements de,comptes
-> avec le poste chinois d’en face, la topographie de la région, mes journées
-> sont trop courtes !
+  hommes, la reconstitution de ces rizières à peine reprises à la piraterie,
+  mes briqueteries, mes constructions, mon marché, mes règlements de,comptes
+  avec le poste chinois d’en face, la topographie de la région, mes journées
+  sont trop courtes !
 
 Un an après, presque jour pour jour, sur la haute rivière Claire, dans les
 grands combats livrés par le colonel Vallière, et si heureusement terminés,
@@ -599,7 +609,7 @@ qui a trempé ses lèvres à cette coupe en garde à jamais le goût ! Quel plus
 noble emploi pour la force armée, avec celui de défendre le sol natal, que de
 préparer, d’assurer et de développer de telles conquêtes ?
 
-*** III ***
+## 3
 
 Mais pour une telle œuvre, il faut une armée coloniale, qui soit vraiment _une
 armée coloniale_ et non pas seulement de l’_armée aux colonies_, ce qui n’est

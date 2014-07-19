@@ -3,14 +3,14 @@
 ![Lyautey à Madagascar (1899)](../3-images/Lyautey_Madagascar_1899.jpg)
 
 > Le service militaire universel jouera un rôle décisif dans notre
-> reconstitution sociale. Le legs de la défaite, le lourd présent de l’ennemi,
-> peut être l’instrument de notre rédemption. Nous ne sentons aujourd’hui que
-> ses charges : j’en attends des bénéfices incalculables : fusion des
-> dissidences politiques, restauration de l’esprit de sacrifice dans les classes
-> aisées; de l’esprit de discipline dans les classes populaires, bref toutes les
-> vertus qui repoussent toujours à l’ombre du drapeau.  
-(E.—M. de Vogüé. Remarques sur l’exposition du centenaire. Plon—Nourrit, 1889,
-p. 282).
+  reconstitution sociale. Le legs de la défaite, le lourd présent de l’ennemi,
+  peut être l’instrument de notre rédemption. Nous ne sentons aujourd’hui que
+  ses charges : j’en attends des bénéfices incalculables : fusion des
+  dissidences politiques, restauration de l’esprit de sacrifice dans les classes
+  aisées; de l’esprit de discipline dans les classes populaires, bref toutes les
+  vertus qui repoussent toujours à l’ombre du drapeau.  
+  (E.—M. de Vogüé. Remarques sur l’exposition du centenaire.
+  Plon—Nourrit, 1889, p. 282).
 
 Les hommes que leurs occupations ou leur vocation mettent en contact avec la
 jeunesse cultivée s’accordent à signaler, dans la génération qui naît à la Vie

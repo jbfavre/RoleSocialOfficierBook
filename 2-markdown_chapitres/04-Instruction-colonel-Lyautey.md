@@ -93,7 +93,8 @@ Ce rôle était du reste déjà tracé en quelques lignes par l’article 557 du
 Règlement que je rappelle ici :
 
 > Dans certaines circonstances, le combat à pied peut être employé contre une
-> colonne d’infanterie en marche.  
+  colonne d’infanterie en marche.
+
 L’attaque est dirigée de préférence sur les flancs et autant que possible par
 surprise. Le feu est ouvert par salves à grande distance ; il doit être aussi
 violent que possible.  
