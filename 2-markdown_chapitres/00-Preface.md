@@ -1,8 +1,8 @@
 # Préface du général Juin
 
-1891 – Lyautey est depuis deux ans capitaine, commandant le 1er escadron du 4e
+1891 – Lyautey est depuis deux ans capitaine, commandant le 1^er^ escadron du 4^ème^
 chasseurs à cheval à Saint-Germain-en-Laye. Il a trente-six ans. C’est l’époque
-du Ralliement. Avec sa flamme habituelle, il se mêle au mouvement d’union, à
+du *Ralliement*. Avec sa flamme habituelle, il se mêle au mouvement d’union, à
 cette « Période de bonnes volontés » dont le pape Léon XIII vient de donner le
 signal. Pour Lyautey, la préoccupation du devoir social n’est pas neuve. À
 Saint-Cyr, il a noté la forte impression rapportée d’une conférence sociale.
@@ -179,7 +179,7 @@ nécessairement répondre par une mobilisation totale. C’est à la nation tout
 entière qu’il appartient désormais de se dresser et de se tendre dans l’effort
 de conservation, et l’on ne saurait concevoir, dans ces conditions, que son
 armée ne fût pas « nationale ».  
-Au reste, la III^e République, entrée résolument dans cette voie après 1870, a
+Au reste, la III^ème^ République, entrée résolument dans cette voie après 1870, a
 pu, au lendemain de la première guerre mondiale, s’enorgueillir de l’armée
 qu’elle avait créée et qui avait triomphé en raison précisément de son caractère
 national.  
@@ -240,7 +240,7 @@ l’instruction et l’éducation qui les préparent à leur noble tâche. L’a
 moderne exige une formation technique qui passe de loin la sommaire culture
 scientifique autrefois suffisante. Le devoir social impose une préparation
 morale conçue dans la ferveur, dispensée dans l’enthousiasme. La gaieté n’en
-sera point exclue. Mais elle répudiera tout-scepticisme. Elle se libérera de
+sera point exclue. Mais elle répudiera tout scepticisme. Elle se libérera de
 l’excès de sens critique qui empoisonne aujourd’hui les réactions de trop de
 jeunes Français et les porte insensiblement à la sécheresse de cœur et à
 l’inaction. Elle sera basée sur le respect et sur la confiance : respect de la
@@ -257,7 +257,7 @@ sol, de parti à parti, de classe à classe, substituer la recherche pacifique e
 féconde des problèmes posés par la révolution économique et industrielle de ce
 temps; marcher; non plus la revendication ou la répression au poing, mais la
 main dans la main, dans la large voie du progrès social… Question non pas
-vieille comme le monde, ajoutait-il, mais posée d’hier, dans son acuité* ».
+vieille comme le monde*, ajoutait-il, *mais posée d’hier, dans son acuité* ».
 
 On se rappellera que ces lignes sont écrites en 1891. Elles témoignent chez leur
 auteur d’une maturité de pensée singulière. En quelques mots d’une trempe
@@ -294,7 +294,7 @@ fonction militaire.
 
 Il était inévitable qu’une telle doctrine parût audacieuse et heurtât les
 consciences, en apposant les notions de liberté et de discipline. Nous savons du
-reste, que des temps troublés peuvent survenir ou il est plus difficile de
+reste, que des temps troublés peuvent survenir où il est plus difficile de
 connaître son devoir que de le suivre. Comment alors mêler l’officier aux
 conflits d’idées qui opposent dans une démocratie les citoyens les uns aux
 autres sans risquer de diviser l’armée elle-même aux heures des grandes
