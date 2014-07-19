@@ -31,7 +31,7 @@ jamais seul, mais toujours entouré de l’équipe jeune, allègre et confiante 
 laquelle il ne peut vivre.  
 En 1891, dans l’armée, encore si profondément marquée par nos revers, de telles
 idées étonnent par leur audacieuse nouveauté. C’est alors que des amis, comme
-E.—M. de Vogüé, engagent le capitaine Lyautey à faire un exposé écrit de
+E.—M. de Vogüé, engagent le capitaine Lyautey à faire un exposé écrit de
 l’action qu’il mène journellement. L’article parait dans la *Revue des
 Deux-Mondes* du 15 mars 1891. Son retentissement, dans les milieux intellectuels
 surtout, est considérable.  

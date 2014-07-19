@@ -160,7 +160,7 @@ comporte, ne soit pas à la merci d’un choix arbitraire, d’un « tour de s
 à ce que, en un mot, il échoie toujours au _right man_. Aussi a—t—on formulé
 le vœu que, dans la future armée coloniale, la désignation des cadres destinés
 au double commande— ment militaire et territorial fût entourée de garanties
-spéciales. Un des derniers gouverneurs généraux de l’Indo—Chine, M. Rousseau,
+spéciales. Un des derniers gouverneurs généraux de l’Indo—Chine, M. Rousseau,
 avait vivement senti cette nécessité et, quand la mort l’a surpris
 prématurément, il se proposait d’étudier, de concert avec l’autorité militaire,
 les mesures nécessaires pour assurer à ce cadre une fixité relative et un
@@ -219,7 +219,7 @@ l’Indochine; il convient ici de citer un passage de ce document :
 > sèment le bon grain et rendent la région conquise réfractaire au pirate, si
 > même ce n’est ce dernier qui, transformé, coopère à cette évolution.
 
-En exposant cette méthode à M. le gouverneur général Rousseau, le général
+En exposant cette méthode à M. le gouverneur général Rousseau, le général
 Duchemin, commandant en chef le corps d’occupation, trouvait à qui parler. Rien
 ne le prouve mieux que le passage suivant d’une lettre où, à son tour, M.
 Rousseau donnait au gouvernement métropolitain les grandes lignes du système
@@ -478,7 +478,7 @@ Sans remplir le même rôle, certaines troupes indigènes peuvent être, elles
 aussi, largement utilisées. C’est ainsi que dans le Haut Tonkin, les postes de
 tirailleurs tonkinois autour desquels se groupaient leurs familles, ont été,
 dans les régions dévastées par la piraterie, les premiers agents de
-reconstitution locale. Ils y ont formé, comme l’indiquait la lettre de M. le
+reconstitution locale. Ils y ont formé, comme l’indiquait la lettre de M. le
 gouverneur général Rousseau, précédemment citée, « une population provisoire à
 l’abri de laquelle se reconstituaient la population réelle et la remise en
 exploitation du sol ». C’est ainsi qu’à Madagascar, des postes de tirailleurs

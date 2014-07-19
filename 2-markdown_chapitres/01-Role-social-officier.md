@@ -9,7 +9,7 @@
 > dissidences politiques, restauration de l’esprit de sacrifice dans les classes
 > aisées; de l’esprit de discipline dans les classes populaires, bref toutes les
 > vertus qui repoussent toujours à l’ombre du drapeau.  
-(E.-M. de Vogüé. Remarques sur l’exposition du centenaire. Plon—Nourrit, 1889,
+(E.-M. de Vogüé. Remarques sur l’exposition du centenaire. Plon—Nourrit, 1889,
 p. 282).
 
 Les hommes que leurs occupations ou leur vocation mettent en contact avec la
@@ -24,7 +24,7 @@ sortir de la critique ou de la spéculation sereines pour en venir à l’action
 rude et féconde.  
 Pour ne citer que quelques noms parmi les guides écoutés de la jeunesse, trois
 hommes, éloignés d’origine et d’esprit, mais que bien de nobles traits
-rapprochent, M. Albert de Mun, M. Melchior de Vogüé, M. Ernest Lavisse, ont
+rapprochent, M. Albert de Mun, M. Melchior de Vogüé, M. Ernest Lavisse, ont
 reconnu cette bonne volonté, ce besoin de groupement pour une action commune, et
 s’efforcent de le féconder.  
 Le premier, pénétré de la gravité croissante de la question ouvrière et
@@ -41,7 +41,7 @@ elle, il lui enseigne le patriotisme actif, l’union généreuse, le devoir soc
 ; il s’adresse avant tout aux futurs professeurs par qui son influence s’étendra
 sur la jeunesse de demain.
 
-Entre les deux, M. de Vogüé à qui, d’une part, son nom et ses origines, d’autre
+Entre les deux, M. de Vogüé à qui, d’une part, son nom et ses origines, d’autre
 part son talent d’écrivain et son sens très vif des grandeurs de notre temps
 donnent accès dans tous les camps (puisque camps il y a, hélas) s’est fait une
 large place. Se dégageant des questions de parti qui, dès le berceau scindent
@@ -608,7 +608,7 @@ trouverait pas un seul fusil, même de bois ».
 Chez nous, où il n’existe pas d’établissements spéciaux de cet ordre, tout
 collège est aujourd’hui, dans quelque mesure, une « école de cadets », et tout
 maître peut avec profit s’inspirer de la figure si attachante et si suggestive
-du capitaine baron von D…, que M. Weiss nous présente quelques pages plus loin
+du capitaine baron von D…, que M. Weiss nous présente quelques pages plus loin
 ^[J.-J. WEISS. - Au Pays du Rhin, p. 199.].
 
 Nous n’insisterons pas. Nous ne pouvons entrer ici dans le détail des moyens
