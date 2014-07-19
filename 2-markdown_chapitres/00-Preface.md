@@ -3,12 +3,12 @@
 1891 — Lyautey est depuis deux ans capitaine, commandant le 1er escadron du 4e
 chasseurs à cheval à Saint—Germain—en—Laye. Il a trente-six ans. C’est l’époque
 du Ralliement. Avec sa flamme habituelle, il se mêle au mouvement d’union, à
-cette «Période de bonnes volontés » dont le pape Léon XIII vient de donner le
+cette « Période de bonnes volontés » dont le pape Léon XIII vient de donner le
 signal. Pour Lyautey, la préoccupation du devoir social n’est pas neuve. A
 Saint—Cyr, il a noté la forte impression rapportée d’une conférence sociale.
-«Notre rôle est sacré» écrit-il ensuite avec ferveur. Plus tard, à Florence,
+« Notre rôle est sacré » écrit-il ensuite avec ferveur. Plus tard, à Florence,
 méditant sur le destin d’un seigneur de la Renaissance dont il possède le
-portrait «L’épée au côté, la main posée sur un livre », il envie ce jeune
+portrait « L’épée au côté, la main posée sur un livre », il envie ce jeune
 capitaine. Un beau guerrier, songe—t—il, mais sans doute éclairé et instruit, et
 qui, sûrement, employait ses loisirs, entre deux combats, à deviser des affaires
 de la République. À tout instant, sous sa plume, reviennent les phrases qui
@@ -24,8 +24,8 @@ famille, il transforme d’abord le réfectoire en un cercle, un cercle dont
 l’administration sera confiée à une commission élue par les hommes. D’autres
 initiatives non moins hardies, au risque d’ébranler les bases du sacro—saint
 règlement, viennent modifier l’instruction, dont les caractères seront
-l’entrain, l’intérêt, la gaîté. «Pas de formations en rang continuelles, mais un
-ralliement perpétuel derrière le guide ». Tout Lyautey est là. C’est avec les
+l’entrain, l’intérêt, la gaîté. « Pas de formations en rang continuelles, mais un
+ralliement perpétuel derrière le guide ». Tout Lyautey est là. C’est avec les
 mêmes mots directs, avec le même accent joyeux qu’il travaillera toute sa vie,
 jamais seul, mais toujours entouré de l’équipe jeune, allègre et confiante sans
 laquelle il ne peut vivre.  
@@ -37,7 +37,7 @@ Deux-Mondes* du 15 mars 1891. Son retentissement, dans les milieux intellectuels
 surtout, est considérable.  
 Je viens de le relire. Une foi ardente s’en dégage, sous le style volontairement
 froid et contenu. J’évoque, à mon tour, la silhouette mince du capitaine de
-cavalerie Hubert Lyautey, « le sabre au côté et la main posée sur un livre ».
+cavalerie Hubert Lyautey, « le sabre au côté et la main posée sur un livre ».
 C’est déjà le Lyautey avide d’action et tout frémissant d’idées et d’espoirs
 généreux que je devais rencontrer plus tard au Maroc — mais un Lyautey encore au
 stade des virtualités et en quête de son destin.  
@@ -62,7 +62,7 @@ suffire. Ils ne voient dans les idées de Lyautey qu’originalité d’esprit e
 prêts à s’apitoyer sur le cas de ce jeune et brillant officier de l’ancien corps
 d’État—Major, qui paraît s’être dévoyé.  
 Lyautey en a conscience et, réfractaire, il s’évade. Toute sa vie, il aura des
-mots amers contre les « Kriegspielards » incapables de rien saisir au-delà du
+mots amers contre les « Kriegspielards » incapables de rien saisir au-delà du
 cercle étroit des thèmes tactiques et des règlements militaires où ils se sont
 enfermés.
 
@@ -78,8 +78,8 @@ de splendides gerbes, trop rouges hélas du sang des sacrifices qui rassemblaien
 officiers et soldats, Saint—Cyriens en gants blancs et jeunes instituteurs ou
 agrégés aux opinions parfois très avancées, ouvriers, savants, paysans,
 écrivains et poètes.  
-La troupe a bien vu ses chefs « partager sans atténuation ses privations et ses
-fatigues ». Et « la confiance, la gratitude, la sollicitude affectueuse » et
+La troupe a bien vu ses chefs « partager sans atténuation ses privations et ses
+fatigues ». Et « la confiance, la gratitude, la sollicitude affectueuse » et
 réciproque que Lyautey appelait de toute sa conviction, n’ont certes point
 manqué au rendez-vous sur les champs de bataille, preuve qu’elles n’étaient
 point absentes au quartier ou à la caserne.  
@@ -167,7 +167,7 @@ Devant de tels dangers, parades et ripostes seront fonction des martingales plus
 ou moins connues de l’ennemi et des armes que nous aurons forgées. D’où un
 effort constant de recherche et de mise en condition de façon à pouvoir
 disposer, le moment venu, de l’instrument militaire le plus adéquat.  
-Cette armée future sera—t—elle « de métier » ou « populaire » ? Ce sont là, en
+Cette armée future sera—t—elle « de métier » ou « populaire » ? Ce sont là, en
 vérité, des expressions qui ont perdu tout leur sens après la douloureuse
 épreuve que nous venons de subir. Quand la guerre revêt les aspects que nous lui
 avons connus et qu’elle devient réellement totale en faisant le plein des
@@ -178,7 +178,7 @@ profondeurs les plus intimes et les plus reculées de la nation, il faut
 nécessairement répondre par une mobilisation totale. C’est à la nation tout
 entière qu’il appartient désormais de se dresser et de se tendre dans l’effort
 de conservation, et l’on ne saurait concevoir, dans ces conditions, que son
-armée ne fût pas « nationale ».  
+armée ne fût pas « nationale ».  
 Au reste, la III^e République, entrée résolument dans cette voie après 1870, a
 pu, au lendemain de la première guerre mondiale, s’enorgueillir de l’armée
 qu’elle avait créée et qui avait triomphé en raison précisément de son caractère
@@ -251,13 +251,13 @@ latentes au fond du tempérament français.
 ***
 
 C’est seulement à ce prix que nos officiers pourront aborder la seconde partie
-de la mission, d’intérêt général celle-là, que leur assignait Lyautey : « *à
+de la mission, d’intérêt général celle-là, que leur assignait Lyautey : « *à
 l’état de guerre haineuse et violente qui sépare stérilement les enfants du même
 sol, de parti à parti, de classe à classe, substituer la recherche pacifique et
 féconde des problèmes posés par la révolution économique et industrielle de ce
 temps; marcher; non plus la revendication ou la répression au poing, mais la
 main dans la main, dans la large voie du progrès social… Question non pas
-vieille comme le monde, ajoutait-il, mais posée d’hier, dans son acuité* ».
+vieille comme le monde, ajoutait-il, mais posée d’hier, dans son acuité* ».
 
 On se rappellera que ces lignes sont écrites en 1891. Elles témoignent chez leur
 auteur d’une maturité de pensée singulière. En quelques mots d’une trempe
@@ -282,8 +282,8 @@ illimitée de la production, que le régime qui s’éteint serait incapable
 d’organiser une juste répartition de ces richesses fabuleuses. Il savait que des
 convulsions graves pourraient naître de ces antagonismes. Combien de fois
 n’a-t-il pas lancé son cri d’alarme, estimant qu’il était temps encore de
-discipliner notre vie nationale, de la réformer, afin de « *rendre l’homme enfin
-réfractaire aux excitations de la lutte des classes* ».  
+discipliner notre vie nationale, de la réformer, afin de « *rendre l’homme enfin
+réfractaire aux excitations de la lutte des classes* ».  
 Cet appel qu’il adressait particulièrement à ses pairs, il a été entendu et
 compris à l’intérieur de l’armée, en vue de l’utilisation de l’armée. Mais
 Lyautey avait demandé davantage. Il aurait voulu que le bénéfice de l’éducation

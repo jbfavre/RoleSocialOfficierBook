@@ -50,7 +50,7 @@ il s’est placé sur le terrain commun de l’action sociale. A tous les privil
 de l’intelligence, de l’éducation, de la fortune, il rappelle que leurs premiers
 devoirs sont envers les humbles et les déshérités et convie les bonnes volontés
 de tous partis, de toutes confessions, de toutes philosophies, à communier dans
-la « religion de la souffrance humaine ».  
+la « religion de la souffrance humaine ».  
 Tous, ils ont réveillé dans cette jeunesse le sens de l’action; tous, sans
 l’entendre peut-être de la même manière, ont placé au premier rang le devoir
 social. En montrant la grandeur du but, ils n’ont pas dissimulé les épreuves du
@@ -77,7 +77,7 @@ futurs industriels, futurs patrons, futurs professeurs, à qui s’adressent ces
 protagonistes du devoir social, chacun de ces groupes n’agira que sur un nombre
 restreint d’individus et leur ensemble même ne peut rencontrer la totalité des
 travailleurs tant s’en faut.  
-N’existe—t—il donc pas un « cadre », dans l’acception militaire du terme,
+N’existe—t—il donc pas un « cadre », dans l’acception militaire du terme,
 capable par nature d’exercer une action plus étendue que les autres et, si ce
 cadre existe, n’est—il pas le premier à pénétrer de la nécessité et de l’urgence
 du devoir social ?  
@@ -101,7 +101,7 @@ intégral, service de quarante mois, volontariat de plus en plus restreint,
 congés de plus en plus étendus — a préparé le régime actuel ; mais, entre le
 dernier contingent d’une année où le remplacement épargnait le service à tout ce
 qui avait quelque culture et ce contingent de 1890 qui, du licencié à
-l’illettré, va comprendre tous les intermédiaires, la « matière-soldat » si l’on
+l’illettré, va comprendre tous les intermédiaires, la « matière-soldat » si l’on
 peut dire, a radicalement changé. À ce soldat nouveau, il faut logiquement un
 officier nouveau. C’est celui dont nous allons essayer de tracer la mission et
 c’est à ce point de vue initial qu’il faudra constamment se reporter pour ne pas
@@ -139,10 +139,10 @@ réaction s’est produite en faveur des exercices du corps, ni quelle large pla
 ils ont prise dans les préoccupations des maîtres, mais c’est là un mouvement
 trop récent encore pour qu’il ne reste pas quelque chose des anciens préjugés.  
 C’est aussi la légende, plus répandue qu’on ne pense dans certains milieux, qui
-fait de tout officier un « traîneur de sabre» et un « soudard » inapte à toute
+fait de tout officier un « traîneur de sabre» et un « soudard » inapte à toute
 conception élevée de l’ordre intellectuel et moral, légende d’ailleurs aussi
 soigneusement que criminellement entretenue par la plume et le crayon, et
-odieusement personnifiée dans le type populaire du « colonel Ramollot ».  
+odieusement personnifiée dans le type populaire du « colonel Ramollot ».  
 C’est enfin qu’on ne se rend pas compte des conditions qui, depuis vingt ans,
 ont modifié radicalement le recrutement et la constitution du corps d’officiers
 et singulièrement accru sa valeur intellectuelle. Avant la guerre,
@@ -225,7 +225,7 @@ l’exercice professionnel pour garder le temps de se préparer à ses hautes
 destinées. Chez ceux que l’École de guerre ne prend pas, l’objectif des
 ambitieux ou le lot involontaire de ceux qu’on distingue, ce sont, dans les
 grades inférieurs, les fonctions, les missions spéciales, ce que le troupier
-désigne d’un mot énergique, « les embuscades ». Ceux enfin qui restent dans la
+désigne d’un mot énergique, « les embuscades ». Ceux enfin qui restent dans la
 troupe, au spectacle de la hâte que chacun éprouve à s’en esquiver et de
 l’honneur et des avantages réservés à ceux qui en sont sortis, sont médiocrement
 préparés à envisager la mission qu’on leur a laissée par pis-aller, comme la
@@ -290,12 +290,12 @@ que ses hommes ; nous pourrions citer nombre de jeunes officiers qui se piquen
 (et en cela il faut grandement les louer) de connaître à fond les trente-cinq
 chevaux dont ils ont la direction, les moindres particularités de leur nature,
 de leur tempérament, de leurs origines, de leur caractère, mais qui semblent
-tout fiers d’ajouter ensuite : « Quant à mes hommes, je ne puis pas retenir
-leurs noms, c’est un genre de mémoire qui me manque ». Et s’il ne s’agissait que
+tout fiers d’ajouter ensuite : « Quant à mes hommes, je ne puis pas retenir
+leurs noms, c’est un genre de mémoire qui me manque ». Et s’il ne s’agissait que
 des noms ! Mais, allez leur demander de vous donner sur ces hommes, sans même
 les nommer, à la vue, le dixième des renseignements qu’ils vous ont donnés sur
 leurs montures, et vous verrez ce que vous en tirerez, à moins qu’ils ne
-concluent par un : « Du reste, ce sont des brutes » qui coupe court à tout. Et,
+concluent par un : « Du reste, ce sont des brutes » qui coupe court à tout. Et,
 ce qu’il faut proclamer, c’est que cette ignorance ne résulte pas, comme ils
 affectent de le dire et voudraient le faire croire, d’une structure spéciale de
 leurs cerveaux, favorable aux notions et aux images hippiques et rebelle aux
@@ -456,7 +456,7 @@ même routine, il leur semble que rien n’ait changé : ils sont disposés à
 de décadence ce qui est évolution, à comparer des choses qui ne sont pas
 comparables et à se placer, pour juger d’un présent qui contient des germes
 inconnus, au point de vue d’un passé irrémédiablement mort. — Prendre son parti
-de l’abandon du « vieux bateau » sur lequel on a fait sa première traversée et
+de l’abandon du « vieux bateau » sur lequel on a fait sa première traversée et
 dont on porte encore l’enseigne, pour se mettre énergiquement, avec les jeunes,
 à la construction du bâtiment, aux engins inconnus de votre jeunesse, qui
 portera les générations nouvelles, qu’y a-t-il de plus rare et de plus difficile
@@ -469,7 +469,7 @@ insuffisants, se sont singulièrement compliquées et nous apportent un surcroî
 de peine, de fatigues et d’études qui ne nous porte pas à l’indulgence. Et puis,
 aux anciens, qu’on aille donc parler de ce rôle de l’officier plus grand en paix
 qu’en guerre : s’ils sont, voilà trente ans, entrés au service, c’était pour
-batailler; le reste, c’est de la « littérature ». Il n’y a guère de ce côté que
+batailler; le reste, c’est de la « littérature ». Il n’y a guère de ce côté que
 des coups de boutoir à recevoir et, mon Dieu, nous nous en consolerons, car ceux
 qu’il importe de convaincre, ce sont ceux-là surtout dont le grade comporte le
 contact direct et journalier avec le soldat, les capitaines, les lieutenants :
@@ -503,7 +503,7 @@ C’est là, dans l’ordre militaire, que doit se porter tout l’effert, en ag
 d’abord sur le personnel des écoles, dont le choix devrait s’inspirer d’un
 esprit tout nouveau. Aux officiers qu’on y appelle, qu’il soit demandé, avant
 tout, d’être des convaincus et des persuasifs, osons dire le mot, des apôtres
-doués au plus haut point de la faculté d’allumer le « feu sacré » dans les
+doués au plus haut point de la faculté d’allumer le « feu sacré » dans les
 jeunes âmes : ces âmes de vingt ans prêtes pour les impressions profondes,
 qu’une étincelle peut enflammer pour la vie, mais qu’aussi le scepticisme des
 premiers chefs rencontrés peut refroidir pour jamais. C’est, dans l’armée, un
@@ -523,7 +523,7 @@ qui crée chaque année les centaines d’officiers nécessaires aux contingents
 actuels, et y a-t-il des récompenses trop grandes pour celui qui réussit à une
 telle tâche ? Ne saurait-on même concevoir, pour le chef qui aurait ainsi donné,
 dans la direction d’une des plus grandes écoles militaires, des preuves
-éclatantes de ses aptitudes, la création d’une sorte de « grande maîtrise » des
+éclatantes de ses aptitudes, la création d’une sorte de « grande maîtrise » des
 écoles militaires ? Restant en dehors des questions didactiques, il serait avant
 tout l’arbitre du choix et de l’emploi du personnel, qu’il connaîtrait de longue
 date et sur l’esprit duquel il exercerait une action et un contrôle incessants.
@@ -560,7 +560,7 @@ maudire cette épreuve qui les arrache à leurs études, à leurs habitudes, à 
 goûts, et devant laquelle les plus modérés n’ont guère eu jusqu’ici que le mot
 de résignation, il leur convient de saisir cette occasion précieuse de se mêler
 intimement au peuple, d’éprouver leur trempe à ce rude contact et de jeter dans
-ce microcosme qu’est toute et « unité » militaire les semences fécondes de la
+ce microcosme qu’est toute et « unité » militaire les semences fécondes de la
 solidarité, de la réconciliation, de l’effort en commun.
 
 L’épiscopat catholique ne s’y est pas trompé, et ses exhortations récentes aux
@@ -568,9 +568,9 @@ séminaristes appelés sous les drapeaux sont unanimement pénétrées de l’es
 que leur séjour à la chambrée, s’ils en acceptent gaiement les nécessités les
 plus rudes, les plus grossières en apparence, sera profitable aux idées qu’ils
 servent.  
-À son exemple, enflammez les jeunes hommes dont vous avez charge « à cette heure
+À son exemple, enflammez les jeunes hommes dont vous avez charge « à cette heure
 propice où, regardant vers la vie, ils s’y font précéder par des projets et par
-des rêves » ^[E. LAVISSE. — Discours aux étudiants en Sorbonne du 3 novembre
+des rêves » ^[E. LAVISSE. — Discours aux étudiants en Sorbonne du 3 novembre
 1887.] en leur montrant dans le service obligatoire, non plus la corvée brutale
 et stérile, mais le plus vaste champ d’action sociale.  
 Apprenez—leur aussi que sur les ruines des hiérarchies disparues, la nécessité
@@ -590,7 +590,7 @@ la lettre de la profession des armes, si facilement et si rapidement apprise et,
 partant, si inutile à enseigner d’avance, et l’esprit de cette profession, tel
 que nous voudrions avoir réussi à le faire entendre. — Cette distinction, M.
 J.—J. Weiss, visitant il y a quelques années une école de cadets allemande,
-l’avait bien justement observée : « Ce qui est l’objet propre de l’école,
+l’avait bien justement observée : « Ce qui est l’objet propre de l’école,
 remarquait-il ^[J.-J. WEISS. — _Au Pays du Rhin_, p. 189 (Charpenlier, 1886)],
 ce n’est pas, comme on pourrait le croire, d’enseigner aux cadets la technique,
 même simplement rudimentaire du métier de soldat, c’est de bien pénétrer
@@ -603,10 +603,10 @@ Paris et dans nos départements, on voit maintenant les élèves des écoles
 primaires défiler et évoluer par les rues, l’arme sur l’épaule. À O…, parmi
 ces adolescents qui contiennent dans leurs rangs de futurs colonels, de futurs
 généraux de brigade et de division, de futurs commandants d’armée, on ne
-trouverait pas un seul fusil, même de bois ».
+trouverait pas un seul fusil, même de bois ».
 
 Chez nous, où il n’existe pas d’établissements spéciaux de cet ordre, tout
-collège est aujourd’hui, dans quelque mesure, une « école de cadets », et tout
+collège est aujourd’hui, dans quelque mesure, une « école de cadets », et tout
 maître peut avec profit s’inspirer de la figure si attachante et si suggestive
 du capitaine baron von D…, que M. Weiss nous présente quelques pages plus loin
 ^[J.-J. WEISS. - Au Pays du Rhin, p. 199.].

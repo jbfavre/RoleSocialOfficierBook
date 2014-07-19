@@ -15,7 +15,7 @@ Du reste, si cinq années d’expériences coloniales nous ont appris quelque
 chose, c’est, à coup sûr, le plus complet éclectisme quant à l’_étiquette_ du
 régime.  
 Le besoin des formules théoriques et l’amour des systèmes étant un des apanages
-de nos compatriotes, il suffit que la conversation s’ouvre entre « coloniaux »
+de nos compatriotes, il suffit que la conversation s’ouvre entre « coloniaux »
 d’habits différents, pour aboutir presque toujours à une discussion passionnée
 sur les mérites respectifs du régime militaire ou du régime civil.  
 Or, il ne nous semble pas que la question se pose sous la forme d’un dilemme.
@@ -25,12 +25,12 @@ questions de personnes, chacun tirant argument à l’appui de sa thèse du
 gouverneur X… ou du gouverneur Y…; et ainsi, sans le vouloir, adversaires
 et partisans de chacun des deux systèmes apportent leur témoignage à la formule
 de notre choix. Et, en effet, c’est qu’aux colonies, c’est bien moins la
-question de l’étiquette du régime qui importe que celle des « hommes ». C’est
+question de l’étiquette du régime qui importe que celle des « hommes ». C’est
 que, si, dans la métropole, les administrations, traditionnellement organisées,
 fonctionnent automatiquement et peuvent à la rigueur se passer d’hommes, —
 quelque temps, — aux colonies, au contraire, où l’imprévu est la règle et où la
 décision est la nécessité quotidienne, une formule domine toutes les autres,
-c’est « the right man in the right place ».  
+c’est « the right man in the right place ».  
 Or l’habit ne fait pas le… _right man_. Et, que l’habit du chef soit civil ou
 militaire, la chose est indifférente une fois l’homme bien choisi, — pour cette
 raison qu’il n’y a pas deux manières (j’entends bonnes) d’exercer le
@@ -48,7 +48,7 @@ Et quelles sont les qualités qui doivent distinguer entre toutes
 l’administrateur colonial ?  
 Est-ce seulement la connaissance méticuleuse des décrets et circulaires, le
 souci scrupuleux de leur stricte application, est-ce le fétichisme du _tchin_,
-qui existe ailleurs qu’en Russie, l’état d’âme « fonctionnaire », en un mot ?
+qui existe ailleurs qu’en Russie, l’état d’âme « fonctionnaire », en un mot ?
 Ou bien est—ce l’initiative, la soif des responsabilités, l’appel constant au
 bon sens, la passion du mieux, l’interprétation la plus large, la plus libérale
 des règlements et la volonté d’en subordonner la lettre à l’esprit ? Et
@@ -70,7 +70,7 @@ restent au premier tournant, mais des autres résulte un être spécial qui n’
 plus ni le _militaire_, ni le _civil_, mais qui est tout simplement le
 _colonial_.  
 Et c’est à ce titre qu’il nous sera permis, sans être suspect d’y apporter le
-moindre « esprit de bouton », d’exposer à grands traits la façon dont le
+moindre « esprit de bouton », d’exposer à grands traits la façon dont le
 général Galliéni a entendu et appliqué, après d’illustres prédécesseurs dont il
 a développé les principes et les méthodes, l’utilisation coloniale de l’armée.
 
@@ -83,7 +83,7 @@ d’emploi exclut autant que possible [^2-1] la _colonne_ proprement dite et y
 substitue la méthode d’_occupation progressive_. Cette méthode peut se formuler
 ainsi :
 
-[^2-1] Nous disons « autant que possible » : car il doit être formellement
+[^2-1] Nous disons « autant que possible » : car il doit être formellement
 entendu qu’il n’y a ici rien d’absolu. — Il est évident qu’il y a nombre de cas
 dans les guerres coloniales où l’expédition militaire s’impose, sous sa forme
 classique et traditionnelle : au début d’une conquête, quand il faut atteindre
@@ -109,7 +109,7 @@ puissamment organisées, plus militairement menées. Et le cas échéant, c’es
 cette _ultima ration_ qu’il faut recourir sans hésiter. Nous y reviendrons.
 
 > L’occupation militaire consiste moins en opérations militaires qu’en une
-> organisation qui « marche ».
+> organisation qui « marche ».
 
 Le système repose sur trois organes essentiels : le _territoire_, le _cercle_,
 le _secteur_.  
@@ -156,8 +156,8 @@ garnison. Le second est tout préparé pour recevoir les officiers à qui le rô
 d’administrateur ne convient pas ou qui ne conviennent pas à ce rôle.
 Néanmoins, il y a un intérêt de premier ordre à ce que, le commandement
 territorial, avec les hautes responsabilités politiques et morales qu’il
-comporte, ne soit pas à la merci d’un choix arbitraire, d’un « tour de service
-», à ce que, en un mot, il échoie toujours au _right man_. Aussi a—t—on formulé
+comporte, ne soit pas à la merci d’un choix arbitraire, d’un « tour de service »,
+à ce que, en un mot, il échoie toujours au _right man_. Aussi a—t—on formulé
 le vœu que, dans la future armée coloniale, la désignation des cadres destinés
 au double commande— ment militaire et territorial fût entourée de garanties
 spéciales. Un des derniers gouverneurs généraux de l’Indo—Chine, M. Rousseau,
@@ -170,8 +170,8 @@ L’un des caractères essentiels de cette organisation, telle que nous l’avon
 spécialement appliquer par le général Galliéni, c’est qu’elle ne suit pas
 l’occupation du pays, mais la précède.  
 Aussitôt l’occupation d’un territoire nouveau résolue pour des raisons
-politiques ou administratives, nous ne l’avons jamais vue procéder « par
-colonne en coup de lance » contre un objectif plus ou moins militaire, le souci
+politiques ou administratives, nous ne l’avons jamais vue procéder « par
+colonne en coup de lance » contre un objectif plus ou moins militaire, le souci
 de l’organisation restant réservé jusqu’à l’issue de l’opération; au contraire,
 tous les éléments de l’occupation définitive et de l’organisation sont assurés
 d’avance; chaque chef d’unité, chaque soldat sait que le pays qui va lui échoir
@@ -179,7 +179,7 @@ sera celui où il restera, et chefs et troupes sont formés en conséquence. Et
 ainsi l’occupation successive dépose les unités sur le sol comme des couches
 sédimentaires. C’est bien une _organisation qui marche_.  
 C’est une méthode sans grands coups d’éclat, plutôt de cheminements que
-d’assauts, qui n’aboutit qu’exceptionnellement à une « grosse affaire »; aussi
+d’assauts, qui n’aboutit qu’exceptionnellement à une « grosse affaire »; aussi
 fut-elle à l’origine peu sympathique aux chercheurs d’aventures.  
 Déjà, elle avait été présentée et défendue dans un rapport adressé en 1895 par
 le général commandant en chef le corps d’occupation au gouverneur général de
@@ -200,8 +200,8 @@ l’Indochine; il convient ici de citer un passage de ce document :
 > la détailler ici ; et un résultat toujours partiel ne s’obtient qu’au prix de
 > fatigues, de pertes, de dépenses, qui ne sont certes pas compensées par le
 > succès.  
-> En second lieu, il ne faut pas perdre de vue que le « pirate » est, si je
-> puis m’exprimer ainsi, « une plante qui ne pousse qu’en certains terrains »,
+> En second lieu, il ne faut pas perdre de vue que le « pirate » est, si je
+> puis m’exprimer ainsi, « une plante qui ne pousse qu’en certains terrains »,
 > et que la méthode la plus sûre, c’est de lui rendre le terrain réfractaire.  
 > Il n’y a pas de pirates dans les pays complètement organisés; en revanche, il
 > y en a, même en Europe, sous d’autres noms, dans les pays tels que la
@@ -240,9 +240,9 @@ pratiquée sous l’impulsion du général Duchemin. Cette méthode consiste à
 couvrir le pays d’un réseau serré de secteurs à chacun desquels correspondent
 des unités militaires réparties en postes, constituant autant de noyaux de
 réorganisation locale sous la direction d’un personnel essentiellement dévoué
-et intègre et formant ainsi une « population provisoire » à l’abri de laquelle
+et intègre et formant ainsi une « population provisoire » à l’abri de laquelle
 se reconstituent la population réelle et 1a remise en exploitation du sol.  
-« Certains territoires témoignent déjà de l’efficacité de cette méthode
+« Certains territoires témoignent déjà de l’efficacité de cette méthode
 l’évidence des résultats qui y ont été obtenus est une des choses qui m’ont le
 plus frappé à mon arrivée au Tonkin. Cette méthode a fait ses preuves; hors
 d’elle, il n’y a, vis-à-vis de la piraterie, que compromissions louches ou
@@ -261,9 +261,9 @@ Mais, si au contraire, toute troupe rejetée dans un pays neuf est celle qui
 doit y séjourner, y habiter, le coloniser; si son chef est celui qui doit le
 susciter, quelle différence! Et nous aboutissons alors à cette formule qui,
 prenant une bien autre portée, ne s’applique plus seulement à des actions de
-détail, mais peut s’appliquer à toute guerre de conquête coloniale. « Une
+détail, mais peut s’appliquer à toute guerre de conquête coloniale. « Une
 expédition coloniale devrait toujours être dirigée par le chef désigné pour
-être le premier administrateur du pays après la conquête ».  
+être le premier administrateur du pays après la conquête ».  
 Oh ! c’est qu’alors la route qu’on poursuit, le pays qu’on traverse vous
 apparaissent sous un tout autre angle !  
 Qu’on excuse ici un souvenir personnel. Dans une de mes premières expéditions,
@@ -271,17 +271,17 @@ Qu’on excuse ici un souvenir personnel. Dans une de mes premières expédition
 présents avait débuté sous l’un des chefs qui avaient laissé au Tonkin la trace
 la plus profonde, le colonel P…, et dans mon zèle de débutant, je ne voulais
 pas laisser échapper cette occasion d’apprendre quelque chose sur sa méthode et
-sur son œuvre. « Oh ! me fut-il répondu, le colonel P…, j’ai marché avec lui.
+sur son œuvre. « Oh ! me fut-il répondu, le colonel P…, j’ai marché avec lui.
 Au combat, il se préoccupait bien moins de l’enlèvement du repaire que du
-marché qu’il y établirait le lendemain ». Sans le vouloir, ce jeune homme, qui
+marché qu’il y établirait le lendemain ». Sans le vouloir, ce jeune homme, qui
 croyait faire une critique, avait trouvé la formule de la guerre coloniale,
 _car lorsqu’en prenant un repaire, on pense surtout au marché qu’on y établira
 le lendemain, on ne le prend pas de la même façon_.
 
 Et lorsqu’on conquiert avec cet état d’esprit, certains mots ne gardent plus
 exclusivement leur signification militaire :  
-La route alors, n’est plus seulement « la ligne d’opérations », la « route
-d’invasion », mais la voie de pénétration commerciale de demain. Tel plateau,
+La route alors, n’est plus seulement « la ligne d’opérations », la « route
+d’invasion », mais la voie de pénétration commerciale de demain. Tel plateau,
 aux bonnes communications, aux abords faciles, ne vaut plus seulement comme
 position stratégique ou tactique, mais comme centre de relations économiques,
 comme emplacement d’un marché prochain, et tout s’y fait en conséquence. Telle
@@ -446,7 +446,7 @@ graduellement à sa libération, qui coïncide avec le moment où il entre de pl
 pied dans la période de rendement utile de son exploitation. Plusieurs de ces
 tentatives ont déjà eu plein succès sur le plateau central.  
 C’est la tradition du maréchal Bugeaud, mais modifiée sur un point essentiel.
-Il ne s’agit plus ici de « villages militaires », où les travaux de la vie
+Il ne s’agit plus ici de « villages militaires », où les travaux de la vie
 rurale ou de la vie domestique étaient réglés au son du tambour : ceux-ci, au
 contraire, ont le stimulant de l’initiative, de l’intérêt personnel et de la
 responsabilité individuelle.  
@@ -479,9 +479,9 @@ aussi, largement utilisées. C’est ainsi que dans le Haut Tonkin, les postes d
 tirailleurs tonkinois autour desquels se groupaient leurs familles, ont été,
 dans les régions dévastées par la piraterie, les premiers agents de
 reconstitution locale. Ils y ont formé, comme l’indiquait la lettre de M. le
-gouverneur général Rousseau, précédemment citée, « une population provisoire à
+gouverneur général Rousseau, précédemment citée, « une population provisoire à
 l’abri de laquelle se reconstituaient la population réelle et la remise en
-exploitation du sol ». C’est ainsi qu’à Madagascar, des postes de tirailleurs
+exploitation du sol ». C’est ainsi qu’à Madagascar, des postes de tirailleurs
 hovas, établis sur de grandes voies de communication, traversant des régions
 désertes, ont été transformés en villages militaires avec concession de terres
 en toute propriété, afin d’y créer des noyaux de repeuplement et des centres de
@@ -532,12 +532,12 @@ Ce qu’il faut voir, c’est l’ensemble et le résultat.
 
 Reste la grande objection, celle à laquelle ont déjà répondu les instructions
 du 22 mai 1898 du général Galliéni, celle que les opposants ne cessent
-d’invoquer, le cliché de la « démilitarisation ». On l’applique aussi bien aux
+d’invoquer, le cliché de la « démilitarisation ». On l’applique aussi bien aux
 officiers qu’aux soldats attelés à la besogne coloniale.  
 D’abord, jamais on ne nous fera admettre qu’un mode d’emploi qui met en œuvre
 quotidiennement, à toute heure, toutes les facultés viriles : initiative,
 responsabilité, jugement, lutte contre les hommes et les éléments,
-démilitarise… Il « décaporalise » peut-être, ce qui n’est pas la même chose.  
+démilitarise… Il « décaporalise » peut-être, ce qui n’est pas la même chose.  
 Je me rappelle, à mon arrivée au Tonkin, tout proche de la douce vie de la
 métropole, encore accoutumé au confortable superflu qui devient un nécessaire,
 quelle impression me fit, à ma première tournée avec le colonel Galliéni sur la
@@ -630,8 +630,8 @@ beaucoup redouter les gens qui viennent aux colonies pour y rééditer
 Austerlitz, — d’abord les colonies ne comportent pas Austerlitz, — et puis, ils
 sont mal préparés aux besognes patientes, ingrates et obscures qui sont la
 tâche quotidienne, la seule féconde de l’officier colonial. Ce sera aux
-règlements d’application qu’il appartiendra d’assurer la constitution d’une «
-milice sacrée »,— qui fera, elle aussi, son engagement décennal.
+règlements d’application qu’il appartiendra d’assurer la constitution d’une
+« milice sacrée »,— qui fera, elle aussi, son engagement décennal.
 
 Ce qu’il faut souhaiter, c’est que des dispositions nouvelles abolissent la
 rigidité des tours de départ. On sait que mécaniquement, automatiquement, tout
@@ -683,7 +683,7 @@ Et cela est évident, puisque les deux armées n’ont pas le même rôle, point
 serait besoin d’armée coloniale, il suffirait d’_armée aux colonies_.  
 Il faut avoir été aux colonies pour savoir que le plus vrai mérite y réside
 dans les labeurs qui trouvent ici le plus difficilement leur sanction. Il n’est
-pas bon que le motif trop exclusif de récompense soit le « fait de guerre ».  
+pas bon que le motif trop exclusif de récompense soit le « fait de guerre ».  
 On comprendra sans qu’il soit besoin d’insister.
 
 Croit-on qu’il faille nulle part une plus grande dépense d’énergie,
@@ -747,9 +747,9 @@ le même ressort, le même rebondissement sous la mauvaise fortune, la même bel
 humeur. Ah ! la belle pâte d’hommes !  
 À l’un des derniers repas officiels que nous fîmes à Madagascar, un consul
 étranger, notre voisin, nous demanda de qui était le charmant dessin qui
-illustrait notre « menu ». « C’est l’œuvre d’un sous-officier. Ils font donc
+illustrait notre « menu ». « C’est l’œuvre d’un sous-officier. Ils font donc
 tout, vos sous-officiers ? Je les ai vus contremaîtres, instituteurs,
-agronomes, guerriers, ils sont donc bons à tout ! »  
+agronomes, guerriers, ils sont donc bons à tout ! »  
 Oui, ils sont bons à tout et tous les autres aussi, soldats, colons, qui
 portent par le monde les inépuisables ressources de notre race. Attachés à
 l’œuvre locale, dégagés des mauvais bruits de la métropole, exaltés par le

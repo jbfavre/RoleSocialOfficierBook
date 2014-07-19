@@ -11,8 +11,8 @@ _Instruction à cheval_. — Ce qui doit distinguer avant tout notre cavalier
 léger, c’est la gaîté, l’entrain et l’allant.  
 Si le manège et la progression la plus méthodique sont indispensables pour
 _apprendre_ à monter à cheval, du moins faut-il constamment y réagir contre
-l’ennui et la monotonie et, selon la parole d’un de nos chefs, « tuer le
-marasme ». Que donc, de très bonne heure, le galop et le saut soient la joie de
+l’ennui et la monotonie et, selon la parole d’un de nos chefs, « tuer le
+marasme ». Que donc, de très bonne heure, le galop et le saut soient la joie de
 la séance et non pas l’effroi. Que, dès que les recrues sont débrouillées,
 assises et mises en confiance, on les distraie par les séances extérieures, des
 marches en harde, le terrain varié, avec les rênes longues, les encolures
@@ -207,8 +207,8 @@ dans l’instruction individuelle que dans l’instruction d’ensemble, on acti
 certainement les résultats de l’instruction, parce qu’on répondra ainsi au
 _besoin de comprendre_, caractéristique de notre troupier, qui est le moins
 passif et le moins machinal du monde, et c’est une faute impardonnable de ne
-pas chercher à tirer parti de sa valeur individuelle. Selon un mot si juste : «
-Le soldat français veut toujours comprendre sa manœuvre ».  
+pas chercher à tirer parti de sa valeur individuelle. Selon un mot si juste :
+« Le soldat français veut toujours comprendre sa manœuvre ».  
 
 Tout doit tendre à combattre le machinalisme. Dans le même ordre d’idées, tout
 instructeur doit, au commencement de chaque semaine ou de chaque quinzaine,
