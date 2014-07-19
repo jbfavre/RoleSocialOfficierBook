@@ -1,6 +1,6 @@
 # Instruction du colonel Lyautey aux officiers du 14^ème^ Hussards
 
-## Caractère général à donner à l'instruction du régiment
+## Caractère général à donner à l’instruction du régiment
 
 Sans entrer dans aucune des prescriptions de détail qui auront leur place au
 cours de cette instruction et qui sont d’ailleurs données par les règlements,
@@ -8,7 +8,7 @@ le colonel croit utile d’indiquer le caractère général qu’il entend voir 
 à l‘instruction.
 
 _Instruction à cheval_. — Ce qui doit distinguer avant tout notre cavalier
-léger, c'est la gaîté, l’entrain et l'allant.  
+léger, c’est la gaîté, l’entrain et l’allant.  
 Si le manège et la progression la plus méthodique sont indispensables pour
 _apprendre_ à monter à cheval, du moins faut-il constamment y réagir contre
 l’ennui et la monotonie et, selon la parole d’un de nos chefs, « tuer le
@@ -46,7 +46,7 @@ dressage, c’est _l’homogénéité_. Le meilleur n’est pas celui qui prése
 lot de chevaux phénomènes et un lot de chevaux médiocres ou manqués, mais une
 bonne moyenne où aucun sujet ne reste en arrière et où les moindres résistances
 sont corrigées dès le début. Ce dont il faut avant tout convaincre les
-cavaliers qui y sont affectés, c'est que c’est en f... la paix le plus possible
+cavaliers qui y sont affectés, c’est que c’est en f... la paix le plus possible
 à leurs chevaux qu’ils les dresseront le mieux.
 
 _Service en campagne_. — Le service en campagne fera l’objet d’observations
@@ -97,7 +97,7 @@ Règlement que je rappelle ici :
 L’attaque est dirigée de préférence sur les flancs et autant que possible par
 surprise. Le feu est ouvert par salves à grande distance ; il doit être aussi
 violent que possible.  
-Lorsque les tirailleurs ont obligé l'adversaire à répondre à leur attaque, ils
+Lorsque les tirailleurs ont obligé l’adversaire à répondre à leur attaque, ils
 rompent le combat et remontent rapidement à cheval, pour renouveler s’il y a
 lieu, cette opération sur un autre point.
 
@@ -168,7 +168,7 @@ et il faudra de plus en plus tout lui apprendre. Elles doivent avoir comme base
 la _leçon de choses_. Le cheval doit s’apprendre sur le cheval, l’arme sur
 l’arme, le terrain sur le terrain, et non pas dans les manuels autour des lits.
 Toute lecture doit être proscrite, l’instructeur ne se servant que de termes
-simples et usuels, les variant jusqu’à ce qu'il soit sûr d’avoir été compris,
+simples et usuels, les variant jusqu’à ce qu’il soit sûr d’avoir été compris,
 en s’adressant au _bon sens_ et à l’observation et non pas à la _mémoire_ et en
 se mettant dans la peau d’un gars de village qui explique une histoire à un
 autre gars de village. La plupart des hommes interrogés ne savent que des mots
@@ -213,7 +213,7 @@ Le soldat français veut toujours comprendre sa manœuvre ».
 Tout doit tendre à combattre le machinalisme. Dans le même ordre d’idées, tout
 instructeur doit, au commencement de chaque semaine ou de chaque quinzaine,
 établir une progression large et élastique, non seulement pour son usage, mais
-surtout pour ses gradés à qui il la communique. C’est le seul moyen d'éviter le
+surtout pour ses gradés à qui il la communique. C’est le seul moyen d’éviter le
 travail dans le vague, de donner à l’instruction de la méthode et de la
 précision, et aussi de pouvoir s’absenter impunément.  
 En outre il doit faire fréquemment, à l’issue du travail, une critique avec ses

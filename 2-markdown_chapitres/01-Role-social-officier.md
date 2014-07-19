@@ -1,4 +1,4 @@
-# Du rôle social de l'officier dans le service militaire universel
+# Du rôle social de l’officier dans le service militaire universel
 
 ![Lyautey à Madagascar (1899)](../3-images/Lyautey_Madagascar_1899.jpg)
 
@@ -8,7 +8,7 @@
 > ses charges : j’en attends des bénéfices incalculables : fusion des
 > dissidences politiques, restauration de l’esprit de sacrifice dans les classes
 > aisées; de l’esprit de discipline dans les classes populaires, bref toutes les
-> vertus qui repoussent toujours à l'ombre du drapeau.  
+> vertus qui repoussent toujours à l’ombre du drapeau.  
 (E.-M. de Vogüé. Remarques sur l’exposition du centenaire. Plon—Nourrit, 1889,
 p. 282).
 
@@ -23,7 +23,7 @@ rôles que ceux d’analystes et d’expérimentateurs et qu’il est peut-être
 sortir de la critique ou de la spéculation sereines pour en venir à l’action
 rude et féconde.  
 Pour ne citer que quelques noms parmi les guides écoutés de la jeunesse, trois
-hommes, éloignés d’origine et d’esprit, mais 'que bien de nobles traits
+hommes, éloignés d’origine et d’esprit, mais que bien de nobles traits
 rapprochent, M. Albert de Mun, M. Melchior de Vogüé, M. Ernest Lavisse, ont
 reconnu cette bonne volonté, ce besoin de groupement pour une action commune, et
 s’efforcent de le féconder.  
@@ -123,7 +123,7 @@ tout autre, il fut animé de l’amour personnel des humbles, pénétré des dev
 nouveaux qui s’imposent à tous les dirigeants sociaux, convaincu de son rôle
 d’éducateur, résolu, sans rien modifier _à la lettre_ des fonctions qu’il
 exerce, à les vivifier par _l’esprit_ de sa mission ?  
-Et pourtant, il est le seul à qui l'on ne songe pas. Ceux qui poussent la
+Et pourtant, il est le seul à qui l’on ne songe pas. Ceux qui poussent la
 jeunesse dans les voies de l’action sociale ne prononcent pas son nom; on ne
 semble pas imaginer qu’on puisse utiliser cette force puissante; on ne se
 demande pas si le mouvement qui secoue la génération nouvelle ne pourrait être
@@ -225,7 +225,7 @@ l’exercice professionnel pour garder le temps de se préparer à ses hautes
 destinées. Chez ceux que l’École de guerre ne prend pas, l’objectif des
 ambitieux ou le lot involontaire de ceux qu’on distingue, ce sont, dans les
 grades inférieurs, les fonctions, les missions spéciales, ce que le troupier
-désigne d'un mot énergique, « les embuscades ». Ceux enfin qui restent dans la
+désigne d’un mot énergique, « les embuscades ». Ceux enfin qui restent dans la
 troupe, au spectacle de la hâte que chacun éprouve à s’en esquiver et de
 l’honneur et des avantages réservés à ceux qui en sont sortis, sont médiocrement
 préparés à envisager la mission qu’on leur a laissée par pis-aller, comme la
@@ -233,7 +233,7 @@ plus haute et la plus importante de leur état. Pour les officiers qui sortent
 des rangs, leur école a été avant tout la pratique : comme ils ont été traités,
 ils traitent ; ils sont tout naturellement amenés à appliquer les procédés qu’on
 leur a appliqués à eux-mêmes. Chez certains encore, se réclamant d’une fausse
-anglomanie, il est de mode de s'envelopper devant ses inférieurs d’une morgue
+anglomanie, il est de mode de s’envelopper devant ses inférieurs d’une morgue
 impassible et d’une indifférence impénétrable, ce qui n’est pas, à coup sûr, le
 moyen d’attirer et de retenir la confiance.
 
@@ -326,7 +326,7 @@ de leur recrutement, écrivant dans les localités, s’informant de leurs famil
 de leurs antécédents, de leurs aptitudes, de leurs ambitions. Avant même d’avoir
 parlé à aucun d’eux, ce travail souterrain, pour ainsi dire, lui avait donné une
 première notion de leur physionomie morale : les occasions d’entrer en relations
-s'offraient ensuite d’elles-mêmes ; les temps de repos pendant la manœuvre, si
+s’offraient ensuite d’elles-mêmes ; les temps de repos pendant la manœuvre, si
 avantageusement employés à cette communication individuelle, au lieu de se
 passer en bavardages entre collègues ou en temps de galop sur la piste voisine ;
 — les marches; — dans la cavalerie, les longues heures de pansage, que
@@ -416,13 +416,13 @@ première fois. Et quel feu! Le feu le plus meurtrier lancé d’une distance
 inconnue par une main invisible, — la guerre la plus terrible sans
 aguerrissement préparatoire. Ah! devant une telle violence faite à tous les
 instincts naturels, l’instruction professionnelle, la discipline matérielle, les
-moyens répressifs feront triste figure si l'officier n’a pas d’autre secret au
+moyens répressifs feront triste figure si l’officier n’a pas d’autre secret au
 service de son autorité et si son regard, sa parole, son cœur n’ont pas su, dès
 le premier jour de leur rencontre, trouver le chemin de ces yeux, de ces
 oreilles, de ces cœurs d’enfants soumis brusquement à l’horreur d’une telle
 épreuve.  
 Chez l’officier : c’est dès la paix, qui est en somme devenue l’état normal,
-l’introduction dans sa vie d'un élément du plus haut, du plus passionnant
+l’introduction dans sa vie d’un élément du plus haut, du plus passionnant
 intérêt. Convenons-en : l’officier ne se bat plus, pas plus souvent du moins que
 tout autre citoyen. Une ou deux fois dans sa carrière, et c’est tout. Si donc
 l’on s’en tient à la vieille notion (et nous en sommes encore imbus) de l’état
@@ -476,7 +476,7 @@ contact direct et journalier avec le soldat, les capitaines, les lieutenants :
 les jeunes officiers d’aujourd’hui et plus encore les jeunes officiers de
 demain.
 
-C’est à ce point que nous en voulions venir : que c'est moins dans l’armée qu’il
+C’est à ce point que nous en voulions venir : que c’est moins dans l’armée qu’il
 faut agir qu’au seuil de l’armée, dans les écoles militaires, dans les écoles
 préparatoires, dans les collèges, dans l’éducation.  
 De ce côté, presque tout reste à faire. Dans les écoles militaires notamment, le
@@ -500,14 +500,14 @@ lieu de courir à travers des examens ininterrompus à la conquête du bouton de
 mandarin, y aurait-il si grand mal !
 
 C’est là, dans l’ordre militaire, que doit se porter tout l’effert, en agissant
-d'abord sur le personnel des écoles, dont le choix devrait s’inspirer d'un
+d’abord sur le personnel des écoles, dont le choix devrait s’inspirer d’un
 esprit tout nouveau. Aux officiers qu’on y appelle, qu’il soit demandé, avant
 tout, d’être des convaincus et des persuasifs, osons dire le mot, des apôtres
 doués au plus haut point de la faculté d’allumer le « feu sacré » dans les
 jeunes âmes : ces âmes de vingt ans prêtes pour les impressions profondes,
-qu’une étincelle peut enflammer pour la vie, mais qu'aussi le scepticisme des
+qu’une étincelle peut enflammer pour la vie, mais qu’aussi le scepticisme des
 premiers chefs rencontrés peut refroidir pour jamais. C’est, dans l’armée, un
-fait constaté que l’officier garde toute sa vie l'empreinte ineffaçable de ses
+fait constaté que l’officier garde toute sa vie l’empreinte ineffaçable de ses
 premiers instructeurs de l’école, et qu’on reconnaît à travers les grades les
 générations formées par tel ou tel.  
 Et si, des instructeurs subalternes, on remonte aux chefs des grandes écoles
@@ -522,7 +522,7 @@ l’âme de l’armée une action, latente peut—être, mais plus profonde, que
 qui crée chaque année les centaines d’officiers nécessaires aux contingents
 actuels, et y a-t-il des récompenses trop grandes pour celui qui réussit à une
 telle tâche ? Ne saurait-on même concevoir, pour le chef qui aurait ainsi donné,
-dans la direction d'une des plus grandes écoles militaires, des preuves
+dans la direction d’une des plus grandes écoles militaires, des preuves
 éclatantes de ses aptitudes, la création d’une sorte de « grande maîtrise » des
 écoles militaires ? Restant en dehors des questions didactiques, il serait avant
 tout l’arbitre du choix et de l’emploi du personnel, qu’il connaîtrait de longue
@@ -541,7 +541,7 @@ regrets stériles, ont l’œil largement ouvert sur l’avenir et cherchent, ch
 suivant son esprit propre, à en interpréter les inéluctables nécessités; à tous
 ceux, parents ou maîtres, qui, par profession ou par vacation, ont charge d’une
 parcelle de l’éducation nationale.  
-Notre vœu, c'est que dans toute éducation vous introduisiez le facteur de cette
+Notre vœu, c’est que dans toute éducation vous introduisiez le facteur de cette
 idée nouvelle qu’à l’obligation légale du service militaire correspond
 l’obligation morale de lui faire produire les conséquences les plus salutaires
 au point de vue social. Certes, la guerre est un terrible mal; mais si longtemps
@@ -560,7 +560,7 @@ maudire cette épreuve qui les arrache à leurs études, à leurs habitudes, à 
 goûts, et devant laquelle les plus modérés n’ont guère eu jusqu’ici que le mot
 de résignation, il leur convient de saisir cette occasion précieuse de se mêler
 intimement au peuple, d’éprouver leur trempe à ce rude contact et de jeter dans
-ce microcosme qu'est toute et « unité » militaire les semences fécondes de la
+ce microcosme qu’est toute et « unité » militaire les semences fécondes de la
 solidarité, de la réconciliation, de l’effort en commun.
 
 L’épiscopat catholique ne s’y est pas trompé, et ses exhortations récentes aux
@@ -574,7 +574,7 @@ des rêves » ^[E. LAVISSE. — Discours aux étudiants en Sorbonne du 3 novembr
 1887.] en leur montrant dans le service obligatoire, non plus la corvée brutale
 et stérile, mais le plus vaste champ d’action sociale.  
 Apprenez—leur aussi que sur les ruines des hiérarchies disparues, la nécessité
-sociale de la discipline, du respect et de l’abnégation ne cessera pas d'être, —
+sociale de la discipline, du respect et de l’abnégation ne cessera pas d’être, —
 et que l’armée sera toujours la meilleure, sinon la seule école, où
 s’apprendront ces vertus.  
 Tout professeur de collège, aujourd’hui, a la certitude que si, parmi ses
@@ -594,7 +594,7 @@ l’avait bien justement observée : « Ce qui est l’objet propre de l’éc
 remarquait-il ^[J.-J. WEISS. — _Au Pays du Rhin_, p. 189 (Charpenlier, 1886)],
 ce n’est pas, comme on pourrait le croire, d’enseigner aux cadets la technique,
 même simplement rudimentaire du métier de soldat, c’est de bien pénétrer
-l’éducation civile qu'on leur donne, l’instruction générale littéraire et
+l’éducation civile qu’on leur donne, l’instruction générale littéraire et
 scientifique qu’ils reçoivent, de la pensée spéciale qu’ils auront l’honneur de
 passer leur vie, sous les armes, au service de la Patrie ;... c’est de
 développer chez eux l’esprit militaire et l’esprit officier en même temps et par
@@ -628,7 +628,7 @@ conviction que l’obligation du service militaire, au lieu de se présenter com
 un arrêt déplorable dans le développement commencé, doit devenir le complément
 salutaire de toute éducation.  
 En ce temps et en ce pays divisés, n’y a-t—il pas là, du moins, un vaste terrain
-où peuvent s'efforcer en commun, sans acceptation de confessions religieuses,
+où peuvent s’efforcer en commun, sans acceptation de confessions religieuses,
 d’écoles philosophiques, ni de partis politiques, tous ceux qui ont le même
 amour de la patrie, le même souci de ses destinées, la même lassitude des
 formules, le même sentiment des devoirs sociaux imposés par une culture
@@ -644,7 +644,7 @@ donc la société tout entière.
 Ce corps, par son recrutement, sa culture, est parfaitement apte à remplir ce
 rôle.  
 Il ne le remplit qu’imparfaitement, parce que, s’il y est apte, il n’y est
-nullement préparé, et que l'idée de sa mission sociale ne tient presque aucune
+nullement préparé, et que l’idée de sa mission sociale ne tient presque aucune
 place, ni dans son éducation, ni dans l’exercice de sa profession.
 
 C’est cette idée qu’il est urgent de répandre, et tout d’abord chez les guides

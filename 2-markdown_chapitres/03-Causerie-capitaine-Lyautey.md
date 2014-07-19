@@ -1,7 +1,7 @@
 # Causerie du capitaine Lyautey aux cadres du 1^er^ escadron du 4^ème^
 # Chasseurs
 
-## De la méthode d'instruction
+## De la méthode d’instruction
 
 Les premiers caractères qu’il est indispensable de donner à l’instruction c’est
 l’allant, l’entrain, l’intérêt, la _gaîté_.
@@ -48,8 +48,8 @@ Le premier objet de la méthode c’est donc de les _désosser_, assouplir n’e
 pas assez fort ; et c’est à cela que tendent tous les exercices préliminaires :
 boxe, bâton, voltige. Rien n’est plus ridicule que de les voir entamer par
 certains au bout de deux à trois mois.  
-C’est 1e lendemain de l’arrivée des recrues qu'il faut leur donner des bâtons,
-pour leur briser l'arti— culation du poignet, cette articulation lourdement
+C’est 1e lendemain de l’arrivée des recrues qu’il faut leur donner des bâtons,
+pour leur briser l’articulation du poignet, cette articulation lourdement
 accoutumée à la charrue ou à la bêche et à qui l’on va demander de faire
 tournoyer un sabre, de jouer avec des rênes.  De même de la boxe, pour
 assouplir le coude, l’épaule, le jarret, l’articulation de la cuisse, qu’il va
@@ -183,7 +183,7 @@ On m’a souvent répondu : « Pourvu qu’ils sachent le faire ! » C’est u
 Tout cavalier léger doit devenir non seulement un homme de rang mais un
 éclaireur, un patrouilleur, c’est—à-dire un _rendeur comptes_. Il n’est pas
 d’arme où il soit plus essentiel de rompre l’homme à se rendre compte et à
-rendre compte de ce qu’il a vu et fait, et si vous ne l'y avez pas brisé pour
+rendre compte de ce qu’il a vu et fait, et si vous ne l’y avez pas brisé pour
 les choses élémentaires, il ne vous le fera pas davantage au service en
 campagne.  
 « Voir n’est rien, rendre compte est tout ». Or, tous les hommes livrés à
@@ -194,11 +194,11 @@ interrogations perpétuelles.
 Plus d’heures de théories, mais théorie perpétuelle et surtout par enseignement
 mutuel, par l’Ancien, dans l’escouade, cette unité qu’il faut développer à
 outrance.  
-Pour qu'il y ait méthode et direction progressive, il faut que l’officier fasse
+Pour qu’il y ait méthode et direction progressive, il faut que l’officier fasse
 pour tout service, _une progression écrite_ pour la semaine large et élastique,
 pour lui et ses gradés. Le seul moyen d’éviter le travail dans le vague et de
 manquer quelquefois sans inconvénient.  
-De plus s’astreindre chaque jour, à l'issue du travail, à une _critique_ avec
+De plus s’astreindre chaque jour, à l’issue du travail, à une _critique_ avec
 les cadres, courte, topique, y résumer le travail du jour, faire ressortir les
 progrès accomplis, les fautes, les points à corriger, en tirer l’enseignement
 pour le travail du lendemain et le régler. Les gradés peuvent alors le préparer
