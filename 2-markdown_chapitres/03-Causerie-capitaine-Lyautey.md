@@ -9,27 +9,27 @@ l’allant, l’entrain, l’intérêt, la _gaîté_.
 _Gaïté, naturel et logique_. — Pontifier peut convenir dans les écoles, c’est
 la négation de l’instruction régimentaire.  
 Tout ce que nous demandons à nos hommes est simple. Les exercices ne sont qu’un
-jeu pour des gars de vingt ans ; il faut les amuser au lieu de les embêter,
-leur en faire voir le côté à la rigolade et le but : supposez que ce soit au
+jeu pour des gars de vingt ans ; il faut les amuser au lieu de les embêter,
+leur en faire voir le côté à la rigolade et le but : supposez que ce soit au
 village qu’on organise comme jeux, boxe, voltige, gymnastique, assouplissements
 à cheval, c’est à celui qui s’en donnera le plus, alors pourquoi pas de même ?  
 La grosse question c’est que l’instructeur ne soit pas empaillé mais bon
 enfant.  
 De même pour les notions intellectuelles, les définitions, les soi-disant
-nomenclatures ; leur parler _naturellement_. Ce qui vient tout compliquer et
+nomenclatures ; leur parler _naturellement_. Ce qui vient tout compliquer et
 stériliser, ce sont les formes solennelles et les mots techniques.  
-En tout, faire voir le but : rien n’embête l’homme comme de ne pas comprendre
+En tout, faire voir le but : rien n’embête l’homme comme de ne pas comprendre
 la raison de tout ce dont on l’embête. S’il voit le but (et chaque exercice a
 le sien), il le fera avec vingt fois plus de cœur.
 
 _Cachet de l’arme_. — À ces caractères généraux, ajoutez le cachet particulier
-de l’arme : nous sommes de la légère, des chasseurs ; soyons aux cuirassiers et
+de l’arme : nous sommes de la légère, des chasseurs ; soyons aux cuirassiers et
 aux dragons ce que sont les chasseurs à pied à l’infanterie.  
 Soyons les plus actifs, les plus légers, les plus rapides, les plus
 débrouillards.  
 Tous les rassemblements au pas gymnastique, pas de formations en rangs
 continelles, mais un _ralliement_ perpétuel derrière le guide; en toute
-occasion : réfectoire, travail, qu’on voie les hommes débouliner de partout au
+occasion : réfectoire, travail, qu’on voie les hommes débouliner de partout au
 pas gymnastique, rigolants, alertes et puis, arrivés au guide, les hommes se
 reformant par deux d’eux-mêmes, sveltement, sans qu’on les prenne par le bras,
 la tête continuant à marcher allègrement, la queue serrant sans marquer
@@ -38,14 +38,14 @@ prussianisme, au nom du ciel! Restons le petit troupier français, alerte et
 joyeux.
 
 _Désosser la recrue, à pied, à cheval_. — Cette méthode, on la transportera à
-cheval ; dès le début, on développera chez la recrue ce cachet
+cheval ; dès le début, on développera chez la recrue ce cachet
 d’_individualisme_.  
-On aura commencé par la _désosser_ à pied ; quand elle sera à cheval, souple
+On aura commencé par la _désosser_ à pied ; quand elle sera à cheval, souple
 comme un gant, dès le début on la rompra à sortir du rang vivement, aisément,
 l’œil ouvert, la tête mobile, et pas de ces têtes d’hypnotisés surmontant des
 bras et des jambes en fer.  
 Le premier objet de la méthode c’est donc de les _désosser_, assouplir n’est
-pas assez fort ; et c’est à cela que tendent tous les exercices préliminaires :
+pas assez fort ; et c’est à cela que tendent tous les exercices préliminaires :
 boxe, bâton, voltige. Rien n’est plus ridicule que de les voir entamer par
 certains au bout de deux à trois mois.  
 C’est 1e lendemain de l’arrivée des recrues qu'il faut leur donner des bâtons,
@@ -68,7 +68,7 @@ au réveil, comme mise en train préliminaire de la journée.
 _Résultats immédiats que cet assouplissement préliminaire et extrême donne à
 cheval_. — Quand, par méthode, les hommes ont été assouplis à fond et qu’on les
 met à cheval ils sont à leur aise, déraidis, et, par conséquent,
-_déraidissants_ ; rien n’est plus communicatif que la raideur. À cavalier
+_déraidissants_ ; rien n’est plus communicatif que la raideur. À cavalier
 raide, cheval raide. À cavalier souple, cheval souple.  
 Dès les premières leçons, vous devrez demander et obtenir de vos élèves en
 bridon, qu’ils _rendent_ à leurs chevaux.  
@@ -85,7 +85,7 @@ _Le galop, c’est le but_. — N’attendez pas pour l’enseigner, comme une
 sanction, un summum, comme ce quelque chose d’anormal qu’est le galop pour les
 neuf dixièmes des cavaliers français.  
 Ce ne sera plus cette allure exceptionnelle, affolée, ahurie, cramponnée, mais
-ce sera usuel, léger, gai, descendu ; le temps de galop ? mais que ce soit, dès
+ce sera usuel, léger, gai, descendu ; le temps de galop ? mais que ce soit, dès
 le premier jour, le plaisir, le côté « rigolade » du travail, et le saut aussi
 ! Avec vos hommes désossés par une voltige préliminaire, endiablée, et par
 conséquent assis à cheval et sentant jouer l’articulation du rein, vous pourrez
@@ -102,7 +102,7 @@ l’inspirer à l’esprit pour les notions multiples et nouvelles qu’il va fa
 inspirer à ce débutant qui tombe de son village au milieu de ce monde et de
 cette langue à apprendre tout d’une pièce.  
 S’adresser à sa réflexion, à son intérêt, à sa curiosité d’enfant, mais à sa
-mémoire le moins possible ; vous le bourrerez de mots qu’il vous défilera à un
+mémoire le moins possible ; vous le bourrerez de mots qu’il vous défilera à un
 moment donné comme monsieur phonographe sans y attacher aucun sens et la
 moindre émotion. Le moindre changement d’instructeur, de local, arrête net le
 robinet.  Que reste-t-il, au nom du ciel, de ces chapelets de mots techniques,
@@ -110,18 +110,18 @@ de ces milliers dont ils ne savaient pas un la veille, qu’on leur ingurgite
 d’habitude dans des séances de chambre odieuses, endormantes, sur un ton
 d’école primaire ? Il n’y a qu’à les voir à l’examen du colonel ou du capitaine
 arriver hypnotisés, prendre un point fixe au plafond (une attitude chez le
-photographe) et expectorer tout d’un jet des qu’on touche le bouton : « Le
+photographe) et expectorer tout d’un jet des qu’on touche le bouton : « Le
 sabre se divise en trois parties, le cheval se divise en trois parties... et ta
 ta ta... » (Je ne sais pourquoi tout chez nous se divise en trois parties). On
-les arrête, c’est fini. On leur demande : « Montrez-moi par la fenêtre un
-cheval alezan ». Rien : Ce n’est pas dans le programme. Je ne sais rien de plus
+les arrête, c’est fini. On leur demande : « Montrez-moi par la fenêtre un
+cheval alezan ». Rien : Ce n’est pas dans le programme. Je ne sais rien de plus
 pénible que ces examens qui constatent _toujours_ chez les hommes un si
 prodigieux effort de bonne volonté et de mémoire et de la part des instructeurs
 une si prodigieuse inintelligence ou indifférence à tirer bon parti de ces dons
 sacrés.  
-Partez—donc de ceci : sous-officiers, et surtout brigadiers, qui intimidez
+Partez—donc de ceci : sous-officiers, et surtout brigadiers, qui intimidez
 moins le débutant, vivez avec lui et en êtes encore assez près pour ne pas
-avoir oublié sa langue naturelle ; supposez que ce sont des parents, des amis
+avoir oublié sa langue naturelle ; supposez que ce sont des parents, des amis
 de village qui arrivent à Paris, où vous, roublards, êtes depuis un ou deux ans
 ; vous la connaissez dans les coins; tout est nouveau pour eux et les épate, et
 vous, vous leur expliquez tout ce qui se passe, la tour Eiffel, les tramways,
@@ -148,7 +148,7 @@ exercices, menant de front gymnase, boxe, voltige, ils nous apportent au
 contraire un esprit d’enfant, instrument délicat et non formé, auquel il faut
 mesurer la besogne.  
 Donc ici, au contraire, grande progression et ne passer à une notion que
-lorsque la précédente est ancrée ; on leur fourre tout à la fois et au bout de
+lorsque la précédente est ancrée ; on leur fourre tout à la fois et au bout de
 six mois ils ne savent rien.  
 
 1. D’abord, l’esprit militaire, les noms et les grades, les marques de respect;
@@ -163,12 +163,12 @@ l’homme tombe en arrêt, fixé. L’officier parle, comme l’homme a confianc
 n’a pas été abruti, il se _détend_, se dépétrifie et répond naturellement.
 Juste l’inverse.  
 2. Puis les quartiers, les locaux, les divers services, les
-pancartes ;
-3. Les noms de tout ce dont il se sert, effets, petit équipement ;
-4. Les chevaux, le pansage ;
-5. Les armes, ce qu’on appelle à tort de ce nom idiot de _nomenclature_ ;
-6. L’histoire du régiment, les corps voisins ;
-7. Les logements ;
+pancartes ;
+3. Les noms de tout ce dont il se sert, effets, petit équipement ;
+4. Les chevaux, le pansage ;
+5. Les armes, ce qu’on appelle à tort de ce nom idiot de _nomenclature_ ;
+6. L’histoire du régiment, les corps voisins ;
+7. Les logements ;
 8. Les termes du terrain.
 
 Et toujours sans livre, sans récitatif, _la leçon de choses, toujours,
@@ -179,7 +179,7 @@ pas être capables de dire l’ordre des opérations du pansage, parce qu’au l
 de raconter simplement ce qu’ils font, ils cherchaient à se rappeler cette
 malheureuse page de théorie, en un mot, de l’abstraction, cette opération
 presque impossible pour des cerveaux frustes.  
-On m’a souvent répondu : « Pourvu qu’ils sachent le faire ! » C’est une erreur.
+On m’a souvent répondu : « Pourvu qu’ils sachent le faire ! » C’est une erreur.
 Tout cavalier léger doit devenir non seulement un homme de rang mais un
 éclaireur, un patrouilleur, c’est—à-dire un _rendeur comptes_. Il n’est pas
 d’arme où il soit plus essentiel de rompre l’homme à se rendre compte et à
@@ -187,8 +187,8 @@ rendre compte de ce qu’il a vu et fait, et si vous ne l'y avez pas brisé pour
 les choses élémentaires, il ne vous le fera pas davantage au service en
 campagne.  
 « Voir n’est rien, rendre compte est tout ». Or, tous les hommes livrés à
-eux—mêmes, au village, savaient parler ; ne les contractons donc pas, pour
-avoir tant de peine à les décontracter ensuite ; laissons les naturels ;
+eux—mêmes, au village, savaient parler ; ne les contractons donc pas, pour
+avoir tant de peine à les décontracter ensuite ; laissons les naturels ;
 interrogations perpétuelles.
 
 Plus d’heures de théories, mais théorie perpétuelle et surtout par enseignement

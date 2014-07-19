@@ -14,7 +14,7 @@ qui, sûrement, employait ses loisirs, entre deux combats, à deviser des affair
 de la République. À tout instant, sous sa plume, reviennent les phrases qui
 témoignent de sa hantise; rapprocher les êtres, les unir au sein de la société.  
 À Saint-Germain, le contact avec la troupe, les responsabilités du commandement
-réveillent et affermissent sa conviction : l’officier a une autre mission à
+réveillent et affermissent sa conviction : l’officier a une autre mission à
 remplir que celle d’enseigner le tir et l’équitation à des hommes dont il ignore
 même les noms. Il se met au travail avec la double préoccupation de voir large
 et grand sans négliger aucun détail. La recherche d’une composante harmonieuse
@@ -46,7 +46,7 @@ leur valeur? Quels résultats, quels fruits ont—elles donnés ? Telle est la
 question qui viendra sans doute à l’esprit du lecteur de l’ouvrage, que de
 pieuses mains viennent de replacer sous ses yeux.
 
-Ne nous arrêtons pas au spectacle du jour : celui d’une France victorieuse, mais
+Ne nous arrêtons pas au spectacle du jour : celui d’une France victorieuse, mais
 toute meurtrie et divisée dans un monde en voie de bouleversement. Le progrès a
 de redoutables reflux.  
 Notons d’abord qu’en 1891, Lyautey, quoiqu’il en dise, fait figure de
@@ -57,7 +57,7 @@ Ses chefs d’alors, tous formés comme jeunes officiers dans les guerres du Sec
 Empire, restent persuadés que l’armée française sera toujours de belle pâte et
 que si elle a été battue en 1870, c’est uniquement parce qu’elle a été mal
 conduite. Aussi bien, ne sont-ils préoccupés que de l’aspect technique des
-choses de la guerre. Le côté moral leur importe peu : une bonne discipline doit
+choses de la guerre. Le côté moral leur importe peu : une bonne discipline doit
 suffire. Ils ne voient dans les idées de Lyautey qu’originalité d’esprit et sont
 prêts à s’apitoyer sur le cas de ce jeune et brillant officier de l’ancien corps
 d’État—Major, qui paraît s’être dévoyé.  
@@ -66,7 +66,7 @@ mots amers contre les « Kriegspielards » incapables de rien saisir au-delà du
 cercle étroit des thèmes tactiques et des règlements militaires où ils se sont
 enfermés.
 
-Et pourtant, le message du futur maréchal a été entendu : un état d’esprit est
+Et pourtant, le message du futur maréchal a été entendu : un état d’esprit est
 né. C’est ce qu’il souhaitait. Les classes appelées par la mobilisation, le 2
 août 1914, ont été, semble—t—il, instruites par une génération d’officiers plus
 humains, plus sociaux. Encadrées par un nombre croissant d’officiers de réserve,
@@ -243,7 +243,7 @@ morale conçue dans la ferveur, dispensée dans l’enthousiasme. La gaieté n�
 sera point exclue. Mais elle répudiera tout-scepticisme. Elle se libérera de
 l’excès de sens critique qui empoisonne aujourd’hui les réactions de trop de
 jeunes Français et les porte insensiblement à la sécheresse de cœur et à
-l’inaction. Elle sera basée sur le respect et sur la confiance : respect de la
+l’inaction. Elle sera basée sur le respect et sur la confiance : respect de la
 personne du chef, respect de ses enseignements, confiance aussi bien dans les
 vertus créatrices que dans les aspirations à l’union et à la discipline,
 latentes au fond du tempérament français.
@@ -251,7 +251,7 @@ latentes au fond du tempérament français.
 ***
 
 C’est seulement à ce prix que nos officiers pourront aborder la seconde partie
-de la mission, d’intérêt général celle-là, que leur assignait Lyautey : « *à
+de la mission, d’intérêt général celle-là, que leur assignait Lyautey : « *à
 l’état de guerre haineuse et violente qui sépare stérilement les enfants du même
 sol, de parti à parti, de classe à classe, substituer la recherche pacifique et
 féconde des problèmes posés par la révolution économique et industrielle de ce
@@ -268,7 +268,7 @@ Durant toute sa vie, Lyautey, penché sur la France, a percé à jour les péril
 qui la menacent. Il a mesuré l’ampleur de la révolution économique et
 industrielle qui bouleverse le vieux monde libéral. Il a pressenti
 l’interdépendance et la priorité respective, dans un ordre hiérarchique qu’il
-serait vain de vouloir éluder, des trois problèmes : politique (dans le sens
+serait vain de vouloir éluder, des trois problèmes : politique (dans le sens
 noble du mot), économique et social. Plus tard, quand il a voulu ranimer et
 régénérer le vieux Maghreb, en faire un des plus beaux fleurons de l’Empire, ses
 plans de mise en valeur du protectorat n’ont cessé de s’inspirer de ce grand

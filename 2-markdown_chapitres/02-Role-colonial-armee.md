@@ -1,6 +1,6 @@
 # Du rôle colonial de l'armée
 
-Le titre de cette étude : _Du rôle colonial de l’armée_, éveillera peut—être la
+Le titre de cette étude : _Du rôle colonial de l’armée_, éveillera peut—être la
 pensée qu’il s’agit d'un plaidoyer exclusif en faveur du régime militaire aux
 colonies.  
 C’est au devant de cette pensée, la plus éloignée qu’il se puisse de notre
@@ -34,7 +34,7 @@ c’est « the right man in the right place ».
 Or l’habit ne fait pas le... _right man_. Et, que l'habit du chef soit civil ou
 militaire, la chose est indifférente une fois l’homme bien choisi, — pour cette
 raison qu’il n’y a pas deux manières (j’entends bonnes) d’exercer le
-commandement colonial : il y en a une ; et celle-là exige des qualités qui sont
+commandement colonial : il y en a une ; et celle-là exige des qualités qui sont
 à la fois militaires et civiles, — ou, plus exactement, administratives.
 
 Quelles sont donc les qualités caractéristiques du _chef_ militaire ?
@@ -81,14 +81,14 @@ _conquête_, tel que l'entend, avec le général Galliéni et quelques-uns de no
 chefs coloniaux, l’école qui procède d’eux, — car c’est une école.  Ce mode
 d’emploi exclut autant que possible [^2-1] la _colonne_ proprement dite et y
 substitue la méthode d’_occupation progressive_. Cette méthode peut se formuler
-ainsi :
+ainsi :
 
-[^2-1] Nous disons « autant que possible » : car il doit être formellement
+[^2-1] Nous disons « autant que possible » : car il doit être formellement
 entendu qu’il n’y a ici rien d’absolu. — Il est évident qu’il y a nombre de cas
 dans les guerres coloniales où l’expédition militaire s’impose, sous sa forme
-classique et traditionnelle : au début d'une conquête, quand il faut atteindre
+classique et traditionnelle : au début d'une conquête, quand il faut atteindre
 avant tout un objectif précis, ruiner d’un coup la puissance matérielle et
-morale de l’adversaire — aux Pyramides, à Alger, à Denghil-Tepé, à Abomey ; —
+morale de l’adversaire — aux Pyramides, à Alger, à Denghil-Tepé, à Abomey ; —
 dans la période suivante, lorsqu’il faut atteindre et frapper certains chefs
 irréductibles, tels Abd-el-Kader, Schamyl, Samory. — C’est à la progression
 normale de l’occupation dans les hinterlands coloniaux, après le premier coup
@@ -111,7 +111,7 @@ cette _ultima ration_ qu’il faut recourir sans hésiter. Nous y reviendrons.
 > L’occupation militaire consiste moins en opérations militaires qu’en une
 > organisation qui « marche ».
 
-Le système repose sur trois organes essentiels : le _territoire_, le _cercle_,
+Le système repose sur trois organes essentiels : le _territoire_, le _cercle_,
 le _secteur_.  
 Il présente une différence fondamentale avec notre ancien organisme
 d’administration par les militaires, les bureaux arabes, — auxquels il fait
@@ -120,7 +120,7 @@ appréciation malveillante à l’égard de cette institution qui, après des an
 d’engouement, a subi des jugements sévères, fondés, comme il arrive toujours,
 sur des cas particuliers. L’opinion des coloniaux les plus autorisés, sans
 distinction d’habit, rend aujourd’hui justice à la grande œuvre qu’ils ont
-accomplie et à leurs glorieux initiateurs : les _Bugeaud_, les _Daumas_, les
+accomplie et à leurs glorieux initiateurs : les _Bugeaud_, les _Daumas_, les
 _Lamoricière_, les _du Barail_, dont nous tenons à honneur de nous réclamer.
 Mais les bureaux arabes étaient constitués par un corps d’officiers spécial,
 uniquement administrateurs, distincts du commandement des troupes. Or la
@@ -146,7 +146,7 @@ liaison des régions qui s’ignoreraient entre elles, à les faire entrer en
 relations économiques les unes avec les autres, à coordonner et à faire
 converger vers un but commun aussi bien les opérations militaires que les
 travaux de premier établissement. Ils correspondent à l’action d’un colonel.  
-Nous prévoyons l’objection : tout officier ne convient pas à ce double rôle, et
+Nous prévoyons l’objection : tout officier ne convient pas à ce double rôle, et
 le jeu seul du commandement des unités peut amener à l’administration
 territoriale des sujets qui n’y auraient aucune aptitude. Cela serait exact si
 tout corps d’occupation ne comportait pas deux éléments — l’un affecté à cette
@@ -183,10 +183,10 @@ d’assauts, qui n’aboutit qu’exceptionnellement à une « grosse affaire »
 fut-elle à l’origine peu sympathique aux chercheurs d’aventures.  
 Déjà, elle avait été présentée et défendue dans un rapport adressé en 1895 par
 le général commandant en chef le corps d’occupation au gouverneur général de
-l’Indochine; il convient ici de citer un passage de ce document :  
+l’Indochine; il convient ici de citer un passage de ce document :  
 > Je vous demande la permission de préciser cette méthode et de répondre une
 > fois pour toutes à la plus spécieuse des objections qui lui sont couramment
-> opposées et qui se formule ainsi :  
+> opposées et qui se formule ainsi :  
 > _Cette méthode donne des résultats illusoires parce qu’elle ne détruit pas
 > les bandes, les refoule simplement à l'extérieur, d’où elles reviennent, à
 > moins qu’elle ne les rejette dans les territoires voisins de ceux où elle est
@@ -197,7 +197,7 @@ l’Indochine; il convient ici de citer un passage de ce document :
 > jamais, à la destruction par la force d’une bande pirate. Dans la chasse à
 > courre que représente la poursuite d’une bande déterminée, tous les avantages
 > restent du côté de l’adversaire avec une évidence telle qu’il est superflu de
-> la détailler ici ; et un résultat toujours partiel ne s’obtient qu’au prix de
+> la détailler ici ; et un résultat toujours partiel ne s’obtient qu’au prix de
 > fatigues, de pertes, de dépenses, qui ne sont certes pas compensées par le
 > succès.  
 > En second lieu, il ne faut pas perdre de vue que le « pirate » est, si je
@@ -212,7 +212,7 @@ l’Indochine; il convient ici de citer un passage de ce document :
 > suffit pas d’arracher celles—ci sous peine de recommencer le lendemain, mais
 > qu’il faut, après y avoir passé la charrue, isoler le sol conquis, l’enclore,
 > puis y semer le bon grain qui, seul, le rendra réfractaire à l’ivraie. De
-> même de la terre livrée à la piraterie : l’occupation armée, avec ou sans
+> même de la terre livrée à la piraterie : l’occupation armée, avec ou sans
 > combat, y passe le soc; l’établissement d’une ceinture militaire l’enclôt et
 > l'isole; enfin la reconstitution de la population, son armement,
 > l’installation des marchés et des cultures, le percement d'es routes, y
@@ -223,7 +223,7 @@ En exposant cette méthode à M. le gouverneur général Rousseau, le général
 Duchemin, commandant en chef le corps d’occupation, trouvait à qui parler. Rien
 ne le prouve mieux que le passage suivant d’une lettre où, à son tour, M.
 Rousseau donnait au gouvernement métropolitain les grandes lignes du système
-tel qu’il était appliqué au Tonkin :  
+tel qu’il était appliqué au Tonkin :  
 > La mission que remplit aujourd’hui notre corps d’occupation consiste avant
 > tout à assurer la protection de la frontière et à procéder à la
 > reconstruction sociale et à la remise en valeur de la haute région du Tonkin,
@@ -279,7 +279,7 @@ _car lorsqu’en prenant un repaire, on pense surtout au marché qu’on y étab
 le lendemain, on ne le prend pas de la même façon_.
 
 Et lorsqu’on conquiert avec cet état d’esprit, certains mots ne gardent plus
-exclusivement leur signification militaire :  
+exclusivement leur signification militaire :  
 La route alors, n’est plus seulement « la ligne d’opérations », la « route
 d’invasion », mais la voie de pénétration commerciale de demain. Tel plateau,
 aux bonnes communications, aux abords faciles, ne vaut plus seulement comme
@@ -297,7 +297,7 @@ volontiers ? que ses rizières le nourriront, il les détruise ? que ses animaux
 seuls lui donneront sa viande, il les gaspille ? que ses habitants seront ses
 aides, ses collaborateurs de demain, il les maltraite ? Non. Du reste, les
 traits généraux de cette politique ont été magistralement exposés dans les
-instructions fondamentales du général Galliéni, en date du 22 mai 1898 :  
+instructions fondamentales du général Galliéni, en date du 22 mai 1898 :  
 > Le meilleur moyen pour arriver à la pacification dans notre nouvelle colonie
 > est d’employer l’action combinée de la force et de la politique. Il faut nous
 > rappeler que dans les luttes coloniales nous ne devons détruire qu’à la
@@ -320,7 +320,7 @@ instructions fondamentales du général Galliéni, en date du 22 mai 1898 :
 > part, l’extension de la colonisation qui va mettre en valeur les richesses
 > naturelles du sol, ouvrir les débouchés au commerce européen.
 
-Et pour terminer ces citations par cette dernière qui en résume l’esprit :  
+Et pour terminer ces citations par cette dernière qui en résume l’esprit :  
 > Les commandants territoriaux devront comprendre leur rôle administratif de la
 > façon la moins formaliste. Des règlements, surtout aux colonies et en matière
 > économique, ne posent jamais que des formules générales prévues par un
@@ -330,11 +330,11 @@ intérêts qui leur sont confiés et non les combattre au nom du règlement_.
 
 *** II ***
 
-Voilà pour la première période : conquête, occupation, pacification.  
+Voilà pour la première période : conquête, occupation, pacification.  
 Voyons ce que devient la méthode, en quoi consiste le rôle colonial de l’armée
 dans la période suivante, dans la vie normale du pays pacifié.
 
-Ici encore, il n’y a qu’à laisser la parole aux ins— tructions du 22 mai 1898 :  
+Ici encore, il n’y a qu’à laisser la parole aux ins— tructions du 22 mai 1898 :  
 > Le soldat se montre d'abord soldat, ainsi qu’il est nécessaire pour en
 > imposer aux populations encore insoumises; puis la paix obtenue, il dépose
 > les armes, il devient administrateur...  
@@ -352,7 +352,7 @@ germera dans la masse des ferments de révolte que les rancunes accumulées par
 l’action brutale de la force feront croître encore.  
 Pendant cette période qui suit la conquête, les troupes n’ont plus qu’un rôle
 de police qui passe bientôt à des troupes spéciales, milice et police
-proprement dite ; mais il est sage de mettre à profit les inépuisables qualités
+proprement dite ; mais il est sage de mettre à profit les inépuisables qualités
 de dévouement et d’ingéniosité du soldat français. Comme surveillant de
 travaux, comme instituteur, comme ouvrier d’art, comme chef de petit poste,
 partout où l’on fait appel à son initiative, à son amour—propre, à son
@@ -424,7 +424,7 @@ d’exploitation agricole, en jardiniers, en constructeurs de routes et, deux
 mois après, à ce ramassis d’infirmes s'était bien réellement substitué une
 compagnie prête à se rassembler au coup de sifflet, l’œil clair, le jarret sec,
 l’allure dégagée et le fusil prêt. C’est que chacun d’eux, en face d’une
-responsabilité et d’une initiative, s'était ressaisi : qu’ils avaient retrouvé
+responsabilité et d’une initiative, s'était ressaisi : qu’ils avaient retrouvé
 une raison de vivre.
 
 Et cela fut l’histoire de la plupart des compagnies.  
@@ -447,7 +447,7 @@ pied dans la période de rendement utile de son exploitation. Plusieurs de ces
 tentatives ont déjà eu plein succès sur le plateau central.  
 C’est la tradition du maréchal Bugeaud, mais modifiée sur un point essentiel.
 Il ne s’agit plus ici de « villages militaires », où les travaux de la vie
-rurale ou de la vie domestique étaient réglés au son du tambour : ceux-ci, au
+rurale ou de la vie domestique étaient réglés au son du tambour : ceux-ci, au
 contraire, ont le stimulant de l’initiative, de l’intérêt personnel et de la
 responsabilité individuelle.  
 En échange de ces avantages, ils doivent à l’Etat (arrêté du 23 avril 1899),
@@ -461,7 +461,7 @@ pour la réussite d’une exploitation, un élément essentiel. En outre, le mé
 est une mauvaise solution. Ce sont de vrais enfants de France dont il faut
 semer la race en Emyrne. Cette nécessité de faciliter le mariage à nos colons
 n’est pas passée inaperçue. Le comte d’Haussonville a parlé ici même (_Revue
-des Deux Mondes_ du 15 juin 1898), de l’œuvre fondée par Mme Péjard : _La
+des Deux Mondes_ du 15 juin 1898), de l’œuvre fondée par Mme Péjard : _La
 Société d’émigration des femmes_, inspirée de la grande œuvre anglaise _United
 British Women Emigrations Association_. Qu’il s’agisse de créer une émigration
 féminine ou d’obtenir de l’État des congés sans frais qui permettent à nos
@@ -488,12 +488,12 @@ en toute propriété, afin d’y créer des noyaux de repeuplement et des centre
 ressources [^2-2].
 
 [^2-2] Décision du général Galliéni, du 20 janvier 1898, affectant une
-compagnie de tirailleurs malgaches à la route de Majunga :  
+compagnie de tirailleurs malgaches à la route de Majunga :  
 > ...Considérant qu’il est utile de repeupler une route d’étapes importante en
 > y créant des ressources pour les voyageurs et que cet essai de colonisation
 > militaire, déjà expérimentée avec succès dans d’autres colonies françaises et
 > étrangères, est particulièrement intéressant au point de vue du repeuplement
-> des parties actuellement désertes de l’île ; Considérant que cette
+> des parties actuellement désertes de l’île ; Considérant que cette
 > organisation, en créant des intérêts à la troupe contribue à l’amélioration
 > de son état physique et moral dans des régions éloignées de tout centre de
 > population... décide...
@@ -509,7 +509,7 @@ partout compris et pratiqué. À Madagascar, une centaine d’écoles où les pe
 Hovas commencent à parler couramment le français, organisées et dirigées par
 nos soldats; des écoles professionnelles où les soldats contremaîtres ont formé
 des ouvriers, des chefs d’atelier même, parmi les indigènes dans des régions où
-il n’y avait aucune industrie, aucun ouvrier d’art ; des fermes-écoles où, sous
+il n’y avait aucune industrie, aucun ouvrier d’art ; des fermes-écoles où, sous
 la direction de soldats, s’apprend l’usage de nos instruments aratoires, où se
 fait l’expérimentation de nos graines et de nos cultures, et enfin les routes,
 les ponts, les constructions, dont les chefs de chantiers, les maçons, les
@@ -522,7 +522,7 @@ France à grands frais ce personnel.
 Que quelques abus puissent se produire parfois de la part des soldats ainsi
 livrés à eux-mêmes, c’est incontestable. Il n’y a point d’institution humaine
 qui n’ait son revers, et qui résiste à l’examen des cas particuliers.
-L’argument est trop facile ; et i1 appartient à l’autorité de réprimer avec la
+L’argument est trop facile ; et i1 appartient à l’autorité de réprimer avec la
 dernière rigueur les moindres abus, et surtout de les prévenir en choisissant
 avec quelque soin les hommes ainsi livrés à eux—mêmes. En tout cas,
 inconvénients pour inconvénients, le système inverse, qui laisse les hommes
@@ -535,7 +535,7 @@ du 22 mai 1898 du général Galliéni, celle que les opposants ne cessent
 d’invoquer, le cliché de la « démilitarisation ». On l’applique aussi bien aux
 officiers qu’aux soldats attelés à la besogne coloniale.  
 D’abord, jamais on ne nous fera admettre qu'un mode d’emploi qui met en œuvre
-quotidiennement, à toute heure, toutes les facultés viriles : initiative,
+quotidiennement, à toute heure, toutes les facultés viriles : initiative,
 responsabilité, jugement, lutte contre les hommes et les éléments,
 démilitarise... Il « décaporalise » peut-être, ce qui n’est pas la même chose.  
 Je me rappelle, à mon arrivée au Tonkin, tout proche de la douce vie de la
@@ -548,8 +548,8 @@ perdu où il vivait, seul Français, avec ses trente tirailleurs, avait mis sa
 plus belle tenue, correct, ganté, comme pour le bal, et tandis que, évoquant
 avec lui le souvenir de ses camarades de la cavalerie où il eût pu entrer, et
 des brillantes garnisons suburbaines, je ne pouvais m’empêcher de remarquer et
-sa vie sévère loin des choses familières et aimées, et sa belle humeur :  
-> Mais, fit-il vivement, je ne m’ennuie pas un instant : avec le soin de mes
+sa vie sévère loin des choses familières et aimées, et sa belle humeur :  
+> Mais, fit-il vivement, je ne m’ennuie pas un instant : avec le soin de mes
 > hommes, la reconstitution de ces rizières à peine reprises à la piraterie,
 > mes briqueteries, mes constructions, mon marché, mes règlements de,comptes
 > avec le poste chinois d’en face, la topographie de la région, mes journées
@@ -666,11 +666,11 @@ leur nom. Il est vrai qu’ils appartiennent, pour la plupart, à l'arme de tous
 les héroïsmes et de toutes les abnégations, j’ai nommé l’infanterie de marine.
 Souhaitons donc que les facilités les plus grandes pour la prolongation de
 séjour soient laissées dans l’organisation nouvelle à tout officier dont la
-santé le permet : que le congé soit prévu et enfin que, dans la plus large
+santé le permet : que le congé soit prévu et enfin que, dans la plus large
 mesure, les officiers qui le désirent restent affectés à la même colonie. Cette
 mesure ne peut être absolue, il convient de laisser un débouché aux curieux et
 aux inquiets, et d’ailleurs, au début d’une carrière, les expériences de
-colonies diverses se contrôlent, l’une l’autre : mais d’une manière générale,
+colonies diverses se contrôlent, l’une l’autre : mais d’une manière générale,
 la conception la plus logique et la plus féconde, l'a plus vraiment coloniale,
 c’est celle d’une armée du Soudan, d’une armée de Madagascar, d’une armée
 d’Indo-Chine, ainsi que d’autres nations nous en donnent l’exemple.
