@@ -461,7 +461,7 @@ pour la réussite d’une exploitation, un élément essentiel. En outre, le mé
 est une mauvaise solution. Ce sont de vrais enfants de France dont il faut
 semer la race en Emyrne. Cette nécessité de faciliter le mariage à nos colons
 n’est pas passée inaperçue. Le comte d’Haussonville a parlé ici même (_Revue
-des Deux Mondes_ du 15 juin 1898), de l’œuvre fondée par Mme Péjard : _La
+des Deux Mondes_ du 15 juin 1898), de l’œuvre fondée par M^me^ Péjard : _La
 Société d’émigration des femmes_, inspirée de la grande œuvre anglaise _United
 British Women Emigrations Association_. Qu’il s’agisse de créer une émigration
 féminine ou d’obtenir de l’État des congés sans frais qui permettent à nos
