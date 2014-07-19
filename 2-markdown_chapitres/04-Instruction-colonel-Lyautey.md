@@ -7,10 +7,10 @@ cours de cette instruction et qui sont d’ailleurs données par les règlements
 le colonel croit utile d’indiquer le caractère général qu’il entend voir donner
 à l’instruction.
 
-_Instruction à cheval_. — Ce qui doit distinguer avant tout notre cavalier
+_Instruction à cheval_. – Ce qui doit distinguer avant tout notre cavalier
 léger, c’est la gaîté, l’entrain et l’allant.  
 Si le manège et la progression la plus méthodique sont indispensables pour
-_apprendre_ à monter à cheval, du moins faut—il constamment y réagir contre
+_apprendre_ à monter à cheval, du moins faut‐il constamment y réagir contre
 l’ennui et la monotonie et, selon la parole d’un de nos chefs, « tuer le
 marasme ». Que donc, de très bonne heure, le galop et le saut soient la joie de
 la séance et non pas l’effroi. Que, dès que les recrues sont débrouillées,
@@ -22,7 +22,7 @@ les résistances par une voltige endiablée poussée aux dernières limites, et
 comprenant toutes les hardiesses que peut imaginer l’instructeur.  
 La voltige ne doit pas être considérée comme un exercice à part, mais comme la
 préparation, l’adjuvant, le complément de l’instruction à cheval. Le but qu’il
-faut avoir toujours présent, _c’est le but de la guerre_, c’est—à—dire la
+faut avoir toujours présent, _c’est le but de la guerre_, c’est‐à‐dire la
 nécessité d’avoir l’effectif utile le plus complet. Le service de plus en plus
 court et les effectifs réduits ne nous permettent pas de perdre un sabre. Il
 est donc essentiel d’avoir les classes les plus _homogènes_ en ayant
@@ -30,7 +30,7 @@ constamment l’œil sur les retardataires, en ne les laissant pas à la traîne
 mais en s’attelant à les mettre au point par de l’instruction individuelle, du
 travail à la longe, en les reprenant à la voltige.
 
-_Dressage_. — À cavalier souple, cheval souple; à cavalier contracté, cheval
+_Dressage_. – À cavalier souple, cheval souple; à cavalier contracté, cheval
 contracté et réciproquement. C’est la voltige qui fait le cavalier souple ;
 c’est au dressage que se brisent les résistances du cheval.  
 Avec le service court et la pénurie d’anciens, c’est beaucoup plus le cheval
@@ -49,7 +49,7 @@ sont corrigées dès le début. Ce dont il faut avant tout convaincre les
 cavaliers qui y sont affectés, c’est que c’est en f… la paix le plus possible
 à leurs chevaux qu’ils les dresseront le mieux.
 
-_Service en campagne_. — Le service en campagne fera l’objet d’observations
+_Service en campagne_. – Le service en campagne fera l’objet d’observations
 ultérieures. Je me borne à rappeler ici les quelques principes directeurs dans
 lesquels il se résume pour les gradés inférieurs et les cavaliers.
 
@@ -80,7 +80,7 @@ est avant tout un _Renseigneur_. Tout ce qu’il aura pu recueillir ne sert à
 rien si on ne le sait pas.  
 Voir n’est rien, renseigner est tout.
 
-_Instruction à pied_. — La conception de l’emploi à pied de la cavalerie a subi
+_Instruction à pied_. – La conception de l’emploi à pied de la cavalerie a subi
 dans ces dernières années une véritable révolution, qui, selon toute
 vraisemblance, n’en est d’ailleurs qu’à ses débuts.  
 Nous sommes loin du temps où le travail à pied n’était guère considéré que
@@ -117,11 +117,11 @@ ne pas laisser voir leurs chevaux. _L’intérêt de la cavalerie qui tire est d
 tout faire pour ne pas se révéler cavalerie_. C’est à ce prix seulement qu’en
 occupant les points judicieusement choisis sur le flanc d’une colonne ou même
 sur sa tête, elle donnera souvent à l’adversaire l’illusion d’une occupation
-sérieuse qui le jettera dans l’indécision, le forcera peut—être à se déployer
+sérieuse qui le jettera dans l’indécision, le forcera peut‐être à se déployer
 et à donner par là un renseignement précis, et, en tous cas, produira chez lui
-une hésitation, un trouble, un va—et—vient de renseignements et d’ordres, en un
+une hésitation, un trouble, un va‐et‐vient de renseignements et d’ordres, en un
 mot, une perte de temps qui est déjà, à elle seule, un résultat de premier
-ordre. Ne pas oublier que le coup de fusil en lui—même n’a pas de couleur à la
+ordre. Ne pas oublier que le coup de fusil en lui‐même n’a pas de couleur à la
 condition de ne pas laisser voir la couleur de celui qui le tire.
 
 Le _tir à grande distance_ implique l’obligation pour les officiers de
@@ -143,7 +143,7 @@ la troisième partie de l’École de section du _Règlement provisoire de
 l’infanterie_ de 1902, où ils trouveront les plus utiles indications tout en
 discernant ce qui n’est pas applicable à leur arme.
 
-_Quant au tir_ en lui—même, le colonel reporte simplement aux instructions du
+_Quant au tir_ en lui‐même, le colonel reporte simplement aux instructions du
 général en chef, en insistant spécialement à la suite des inspections qu’il a
 passées sur la discipline du feu qui laisse à désirer. Du reste, toute
 instruction à pied doit se distinguer par une rigidité automatique dans le
@@ -159,7 +159,7 @@ employé autrement, voilà tout. Ici encore la voltige a un rôle efficace ; d
 même qu’elle est le meilleur assouplissement pour l’instruction à cheval, elle
 est la meilleure préparation du combat à pied.
 
-_Théories_. — Il faut avant tout, et malgré leur nom fâcheux, en exclure toute
+_Théories_. – Il faut avant tout, et malgré leur nom fâcheux, en exclure toute
 idée _théorique_ et leur donner le caractère le plus _pratique_.  
 Le service court leur a donné une importance qu’elles n’avaient pas avec
 l’ancien service où la recrue acquérait la plupart des notions par

@@ -5,7 +5,7 @@
 Les premiers caractères qu’il est indispensable de donner à l’instruction c’est
 l’allant, l’entrain, l’intérêt, la _gaîté_.
 
-_Gaïté, naturel et logique_. — Pontifier peut convenir dans les écoles, c’est
+_Gaïté, naturel et logique_. – Pontifier peut convenir dans les écoles, c’est
 la négation de l’instruction régimentaire.  
 Tout ce que nous demandons à nos hommes est simple. Les exercices ne sont qu’un
 jeu pour des gars de vingt ans ; il faut les amuser au lieu de les embêter,
@@ -14,14 +14,14 @@ village qu’on organise comme jeux, boxe, voltige, gymnastique, assouplissement
 à cheval, c’est à celui qui s’en donnera le plus, alors pourquoi pas de même ?  
 La grosse question c’est que l’instructeur ne soit pas empaillé mais bon
 enfant.  
-De même pour les notions intellectuelles, les définitions, les soi—disant
+De même pour les notions intellectuelles, les définitions, les soi‐disant
 nomenclatures ; leur parler _naturellement_. Ce qui vient tout compliquer et
 stériliser, ce sont les formes solennelles et les mots techniques.  
 En tout, faire voir le but : rien n’embête l’homme comme de ne pas comprendre
 la raison de tout ce dont on l’embête. S’il voit le but (et chaque exercice a
 le sien), il le fera avec vingt fois plus de cœur.
 
-_Cachet de l’arme_. — À ces caractères généraux, ajoutez le cachet particulier
+_Cachet de l’arme_. – À ces caractères généraux, ajoutez le cachet particulier
 de l’arme : nous sommes de la légère, des chasseurs ; soyons aux cuirassiers et
 aux dragons ce que sont les chasseurs à pied à l’infanterie.  
 Soyons les plus actifs, les plus légers, les plus rapides, les plus
@@ -30,13 +30,13 @@ Tous les rassemblements au pas gymnastique, pas de formations en rangs
 continelles, mais un _ralliement_ perpétuel derrière le guide; en toute
 occasion : réfectoire, travail, qu’on voie les hommes débouliner de partout au
 pas gymnastique, rigolants, alertes et puis, arrivés au guide, les hommes se
-reformant par deux d’eux—mêmes, sveltement, sans qu’on les prenne par le bras,
+reformant par deux d’eux‐mêmes, sveltement, sans qu’on les prenne par le bras,
 la tête continuant à marcher allègrement, la queue serrant sans marquer
 lourdement le pas. Perdons ces allures de collégiens allant à l’étude. Pas de
 prussianisme, au nom du ciel! Restons le petit troupier français, alerte et
 joyeux.
 
-_Désosser la recrue, à pied, à cheval_. — Cette méthode, on la transportera à
+_Désosser la recrue, à pied, à cheval_. – Cette méthode, on la transportera à
 cheval ; dès le début, on développera chez la recrue ce cachet
 d’_individualisme_.  
 On aura commencé par la _désosser_ à pied ; quand elle sera à cheval, souple
@@ -65,22 +65,22 @@ et on les laisse là, reprenant la seconde seulement de temps en temps le matin
 au réveil, comme mise en train préliminaire de la journée.
 
 _Résultats immédiats que cet assouplissement préliminaire et extrême donne à
-cheval_. — Quand, par méthode, les hommes ont été assouplis à fond et qu’on les
+cheval_. – Quand, par méthode, les hommes ont été assouplis à fond et qu’on les
 met à cheval ils sont à leur aise, déraidis, et, par conséquent,
 _déraidissants_ ; rien n’est plus communicatif que la raideur. À cavalier
 raide, cheval raide. À cavalier souple, cheval souple.  
 Dès les premières leçons, vous devrez demander et obtenir de vos élèves en
 bridon, qu’ils _rendent_ à leurs chevaux.  
-Montrez—leur le cheval en liberté, qui se promène dans le pacage, au pas,
+Montrez‐leur le cheval en liberté, qui se promène dans le pacage, au pas,
 l’encolure en balancier, la tête ballante, et obtenir de lui en laisser faire
 autant chaque fois qu’il est au pas. Que le cavalier lui f… la paix et le
 cheval la lui rendra.  
-_La descente de main_ se fera d’elle—même, avec les cavaliers les plus novices,
+_La descente de main_ se fera d’elle‐même, avec les cavaliers les plus novices,
 s’ils ne sont pas cramponnés, si cet assouplissement préliminaire poussé à ses
-dernières limites les a mis à l’aise et en confiance. Elle se fera d’elle—même
+dernières limites les a mis à l’aise et en confiance. Elle se fera d’elle‐même
 au trot, au galop. Galopez de bonne heure.
 
-_Le galop, c’est le but_. — N’attendez pas pour l’enseigner, comme une
+_Le galop, c’est le but_. – N’attendez pas pour l’enseigner, comme une
 sanction, un summum, comme ce quelque chose d’anormal qu’est le galop pour les
 neuf dixièmes des cavaliers français.  
 Ce ne sera plus cette allure exceptionnelle, affolée, ahurie, cramponnée, mais
@@ -92,8 +92,8 @@ si vite enlever l’obstacle en jouant.
 D’aussi bonne heure aussi, la conduite à une main, qu’on recule à tort si tard,
 puisqu’en somme c’est à elle qu’on doit aboutir, le sabre au clair.  
 En un mot, donner comme base à sa méthode la variété, l’élasticité, _la mise en
-confiance_, la persuasion à outrance que tout cela n’est pas une affaire —
-simultanéité d’efforts — et proscription absolue de tout ce qui est formalisme,
+confiance_, la persuasion à outrance que tout cela n’est pas une affaire ‐
+simultanéité d’efforts – et proscription absolue de tout ce qui est formalisme,
 de tout ce qui est progression trop méthodique et rigoureuse.
 
 _La mise en confiance_, c’est la base. De même qu’au corps pour les exercices,
@@ -104,7 +104,7 @@ S’adresser à sa réflexion, à son intérêt, à sa curiosité d’enfant, ma
 mémoire le moins possible ; vous le bourrerez de mots qu’il vous défilera à un
 moment donné comme monsieur phonographe sans y attacher aucun sens et la
 moindre émotion. Le moindre changement d’instructeur, de local, arrête net le
-robinet.  Que reste—t—il, au nom du ciel, de ces chapelets de mots techniques,
+robinet.  Que reste‐t‐il, au nom du ciel, de ces chapelets de mots techniques,
 de ces milliers dont ils ne savaient pas un la veille, qu’on leur ingurgite
 d’habitude dans des séances de chambre odieuses, endormantes, sur un ton
 d’école primaire ? Il n’y a qu’à les voir à l’examen du colonel ou du capitaine
@@ -112,13 +112,13 @@ arriver hypnotisés, prendre un point fixe au plafond (une attitude chez le
 photographe) et expectorer tout d’un jet des qu’on touche le bouton : « Le
 sabre se divise en trois parties, le cheval se divise en trois parties… et ta
 ta ta… » (Je ne sais pourquoi tout chez nous se divise en trois parties). On
-les arrête, c’est fini. On leur demande : « Montrez—moi par la fenêtre un
+les arrête, c’est fini. On leur demande : « Montrez‐moi par la fenêtre un
 cheval alezan ». Rien : Ce n’est pas dans le programme. Je ne sais rien de plus
 pénible que ces examens qui constatent _toujours_ chez les hommes un si
 prodigieux effort de bonne volonté et de mémoire et de la part des instructeurs
 une si prodigieuse inintelligence ou indifférence à tirer bon parti de ces dons
 sacrés.  
-Partez—donc de ceci : sous—officiers, et surtout brigadiers, qui intimidez
+Partez‐donc de ceci : sous‐officiers, et surtout brigadiers, qui intimidez
 moins le débutant, vivez avec lui et en êtes encore assez près pour ne pas
 avoir oublié sa langue naturelle ; supposez que ce sont des parents, des amis
 de village qui arrivent à Paris, où vous, roublards, êtes depuis un ou deux ans
@@ -128,17 +128,17 @@ les gardes municipaux… la lumière électrique. Supposez encore que vous êtes
 revenu au pays et qu’un jour où passe un régiment, vous qui y avez été, vous
 expliquez aux vieux et aux jeunes un sabre, un harnachement, les trucs, la
 raison de chaque fourbi, vous ne leur bredouillerez pas « La carabine se divise
-en trois parties », n’est—ce pas ?
+en trois parties », n’est‐ce pas ?
 
 Eh bien, pour Dieu, faites la même chose, parlez leur pour qu’ils _comprennent_
 et retiennent. Ce petit machin en fer, c’est pour guider l’œil sur le point
-qu’on veut frapper, aussi l’appelle—t—on le _guidon_. Plus on veut atteindre
+qu’on veut frapper, aussi l’appelle‐t‐on le _guidon_. Plus on veut atteindre
 loin, plus il faut jeter la balle en l’air, comme une pierre; il faut hausser
 l’arme pour cela, et, selon la distance, voilà une machine qui calcule combien
 il faut hausser, c’est la _hausse_… et ainsi de tout. Un cheval échappé passe
-: « De quelle couleur est—il ? Alezan, pas jaune, imbécile ! » et il le
+: « De quelle couleur est‐il ? Alezan, pas jaune, imbécile ! » et il le
 retient, tandis que lorsqu’on lui a appris les cinquante espèces de robe et
-leur variété, que j’ignore honteusement et dont quarante—sept n’ont pas de
+leur variété, que j’ignore honteusement et dont quarante‐sept n’ont pas de
 spécimen au régiment, il n’est pas capable de vous dire de laquelle est son
 cheval, je l’ai constaté.  
 Mais tandis qu’ils arrivent au régiment avec un corps formé et rude, qu’il faut
@@ -153,11 +153,11 @@ six mois ils ne savent rien.
 1. D’abord, l’esprit militaire, les noms et les grades, les marques de respect;
 _leur en faire comprendre l’esprit_ et alors ils écouteront spontanément,
 virilement, toujours et non pas comme une formalité assommante.  
-Que voit—on ? L’officier coudoie l’homme, celui—ci fait effort pour se souvenir
+Que voit‐on ? L’officier coudoie l’homme, celui‐ci fait effort pour se souvenir
 qu’il a déférence à témoigner, et si l’officier lui parle, alors seulement il
 tombe en arrêt, bredouille, se _tend_ et répond à côté. Il n’a pas confiance et
 n’a pas compris.  
-Que devrait—on voir ? L’officier passe, on a inculqué un prestige tel que
+Que devrait‐on voir ? L’officier passe, on a inculqué un prestige tel que
 l’homme tombe en arrêt, fixé. L’officier parle, comme l’homme a confiance et
 n’a pas été abruti, il se _détend_, se dépétrifie et répond naturellement.
 Juste l’inverse.  
@@ -180,13 +180,13 @@ malheureuse page de théorie, en un mot, de l’abstraction, cette opération
 presque impossible pour des cerveaux frustes.  
 On m’a souvent répondu : « Pourvu qu’ils sachent le faire ! » C’est une erreur.
 Tout cavalier léger doit devenir non seulement un homme de rang mais un
-éclaireur, un patrouilleur, c’est—à—dire un _rendeur comptes_. Il n’est pas
+éclaireur, un patrouilleur, c’est‐à‐dire un _rendeur comptes_. Il n’est pas
 d’arme où il soit plus essentiel de rompre l’homme à se rendre compte et à
 rendre compte de ce qu’il a vu et fait, et si vous ne l’y avez pas brisé pour
 les choses élémentaires, il ne vous le fera pas davantage au service en
 campagne.  
 « Voir n’est rien, rendre compte est tout ». Or, tous les hommes livrés à
-eux—mêmes, au village, savaient parler ; ne les contractons donc pas, pour
+eux‐mêmes, au village, savaient parler ; ne les contractons donc pas, pour
 avoir tant de peine à les décontracter ensuite ; laissons les naturels ;
 interrogations perpétuelles.
 
