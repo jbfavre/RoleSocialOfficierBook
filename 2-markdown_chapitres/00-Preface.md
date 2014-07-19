@@ -4,7 +4,7 @@
 chasseurs à cheval à Saint-Germain-en-Laye. Il a trente-six ans. C’est l’époque
 du Ralliement. Avec sa flamme habituelle, il se mêle au mouvement d’union, à
 cette « Période de bonnes volontés » dont le pape Léon XIII vient de donner le
-signal. Pour Lyautey, la préoccupation du devoir social n’est pas neuve. A
+signal. Pour Lyautey, la préoccupation du devoir social n’est pas neuve. À
 Saint-Cyr, il a noté la forte impression rapportée d’une conférence sociale.
 « Notre rôle est sacré » écrit-il ensuite avec ferveur. Plus tard, à Florence,
 méditant sur le destin d’un seigneur de la Renaissance dont il possède le
