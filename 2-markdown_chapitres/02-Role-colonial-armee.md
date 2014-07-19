@@ -471,7 +471,7 @@ la faciliter, on est en droit de prévoir, sur ce plateau central si sain de
 Madagascar, la formation d’une race de petits colons de bon sang français,
 trempés, habitués à peu, tenant à ce sol qu’ils auront, mis en œuvre, ayant
 gardé l’habitude héréditaire du fusil. Et, qui sait, ce sont peut—être des
-Boers français que l’on préparerait ainsi !
+Bœrs français que l’on préparerait ainsi !
 
 Nous n’avons envisagé jusqu’ici que l’emploi colonial des troupes européennes.
 Sans remplir le même rôle, certaines troupes indigènes peuvent être, elles
