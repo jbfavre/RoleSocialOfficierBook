@@ -5,7 +5,7 @@
 Sans entrer dans aucune des prescriptions de détail qui auront leur place au
 cours de cette instruction et qui sont d’ailleurs données par les règlements,
 le colonel croit utile d’indiquer le caractère général qu’il entend voir donner
-à l‘instruction.
+à l’instruction.
 
 _Instruction à cheval_. — Ce qui doit distinguer avant tout notre cavalier
 léger, c’est la gaîté, l’entrain et l’allant.  

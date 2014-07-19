@@ -40,7 +40,7 @@ commandement colonial : il y en a une ; et celle-là exige des qualités qui
 Quelles sont donc les qualités caractéristiques du _chef_ militaire ?
 
 Est-ce seulement de savoir commander l’exercice et de connaître la lettre des
-règlements ‘?Ou bien est—ce le don naturel du commandement, la décision,
+règlements ? Ou bien est—ce le don naturel du commandement, la décision,
 l’activité communicative, la promptitude du coup d’œil, le sang-froid dans le
 péril ? Et, si elles sont telles, ne sont elles pas nécessaires au chef
 colonial civil aussi bien qu’au militaire ?  

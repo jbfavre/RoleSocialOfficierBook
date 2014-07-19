@@ -480,7 +480,7 @@ C’est à ce point que nous en voulions venir : que c’est moins dans l’ar
 faut agir qu’au seuil de l’armée, dans les écoles militaires, dans les écoles
 préparatoires, dans les collèges, dans l’éducation.  
 De ce côté, presque tout reste à faire. Dans les écoles militaires notamment, le
-côté moral du rôle de l’officier tient bien peu de place. L‘homme de troupe
+côté moral du rôle de l’officier tient bien peu de place. L’homme de troupe
 qu’on présente aux élèves est un automate; on le place à droite, à gauche, on le
 fait marcher, on le fait arrêter, on l’habille, on l’arme, on le plante sur un
 cheval; quant à son moral, s’il en est incidemment tenu compte, c’est à titre de
