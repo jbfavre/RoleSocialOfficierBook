@@ -15,7 +15,7 @@ village qu’on organise comme jeux, boxe, voltige, gymnastique, assouplissement
 à cheval, c’est à celui qui s’en donnera le plus, alors pourquoi pas de même ?  
 La grosse question c’est que l’instructeur ne soit pas empaillé mais bon
 enfant.  
-De même pour les notions intellectuelles, les définitions, les soi-disant
+De même pour les notions intellectuelles, les définitions, les soi—disant
 nomenclatures ; leur parler _naturellement_. Ce qui vient tout compliquer et
 stériliser, ce sont les formes solennelles et les mots techniques.  
 En tout, faire voir le but : rien n’embête l’homme comme de ne pas comprendre
@@ -31,7 +31,7 @@ Tous les rassemblements au pas gymnastique, pas de formations en rangs
 continelles, mais un _ralliement_ perpétuel derrière le guide; en toute
 occasion : réfectoire, travail, qu’on voie les hommes débouliner de partout au
 pas gymnastique, rigolants, alertes et puis, arrivés au guide, les hommes se
-reformant par deux d’eux-mêmes, sveltement, sans qu’on les prenne par le bras,
+reformant par deux d’eux—mêmes, sveltement, sans qu’on les prenne par le bras,
 la tête continuant à marcher allègrement, la queue serrant sans marquer
 lourdement le pas. Perdons ces allures de collégiens allant à l’étude. Pas de
 prussianisme, au nom du ciel! Restons le petit troupier français, alerte et
@@ -72,7 +72,7 @@ _déraidissants_ ; rien n’est plus communicatif que la raideur. À cavalier
 raide, cheval raide. À cavalier souple, cheval souple.  
 Dès les premières leçons, vous devrez demander et obtenir de vos élèves en
 bridon, qu’ils _rendent_ à leurs chevaux.  
-Montrez-leur le cheval en liberté, qui se promène dans le pacage, au pas,
+Montrez—leur le cheval en liberté, qui se promène dans le pacage, au pas,
 l’encolure en balancier, la tête ballante, et obtenir de lui en laisser faire
 autant chaque fois qu’il est au pas. Que le cavalier lui f… la paix et le
 cheval la lui rendra.  
@@ -105,7 +105,7 @@ S’adresser à sa réflexion, à son intérêt, à sa curiosité d’enfant, ma
 mémoire le moins possible ; vous le bourrerez de mots qu’il vous défilera à un
 moment donné comme monsieur phonographe sans y attacher aucun sens et la
 moindre émotion. Le moindre changement d’instructeur, de local, arrête net le
-robinet.  Que reste-t-il, au nom du ciel, de ces chapelets de mots techniques,
+robinet.  Que reste—t—il, au nom du ciel, de ces chapelets de mots techniques,
 de ces milliers dont ils ne savaient pas un la veille, qu’on leur ingurgite
 d’habitude dans des séances de chambre odieuses, endormantes, sur un ton
 d’école primaire ? Il n’y a qu’à les voir à l’examen du colonel ou du capitaine
@@ -113,13 +113,13 @@ arriver hypnotisés, prendre un point fixe au plafond (une attitude chez le
 photographe) et expectorer tout d’un jet des qu’on touche le bouton : « Le
 sabre se divise en trois parties, le cheval se divise en trois parties… et ta
 ta ta… » (Je ne sais pourquoi tout chez nous se divise en trois parties). On
-les arrête, c’est fini. On leur demande : « Montrez-moi par la fenêtre un
+les arrête, c’est fini. On leur demande : « Montrez—moi par la fenêtre un
 cheval alezan ». Rien : Ce n’est pas dans le programme. Je ne sais rien de plus
 pénible que ces examens qui constatent _toujours_ chez les hommes un si
 prodigieux effort de bonne volonté et de mémoire et de la part des instructeurs
 une si prodigieuse inintelligence ou indifférence à tirer bon parti de ces dons
 sacrés.  
-Partez—donc de ceci : sous-officiers, et surtout brigadiers, qui intimidez
+Partez—donc de ceci : sous—officiers, et surtout brigadiers, qui intimidez
 moins le débutant, vivez avec lui et en êtes encore assez près pour ne pas
 avoir oublié sa langue naturelle ; supposez que ce sont des parents, des amis
 de village qui arrivent à Paris, où vous, roublards, êtes depuis un ou deux ans
@@ -133,11 +133,11 @@ en trois parties », n’est—ce pas ?
 
 Eh bien, pour Dieu, faites la même chose, parlez leur pour qu’ils _comprennent_
 et retiennent. Ce petit machin en fer, c’est pour guider l’œil sur le point
-qu’on veut frapper, aussi l’appelle-t-on le _guidon_. Plus on veut atteindre
+qu’on veut frapper, aussi l’appelle—t—on le _guidon_. Plus on veut atteindre
 loin, plus il faut jeter la balle en l’air, comme une pierre; il faut hausser
 l’arme pour cela, et, selon la distance, voilà une machine qui calcule combien
 il faut hausser, c’est la _hausse_… et ainsi de tout. Un cheval échappé passe
-: « De quelle couleur est-il ? Alezan, pas jaune, imbécile ! » et il le
+: « De quelle couleur est—il ? Alezan, pas jaune, imbécile ! » et il le
 retient, tandis que lorsqu’on lui a appris les cinquante espèces de robe et
 leur variété, que j’ignore honteusement et dont quarante—sept n’ont pas de
 spécimen au régiment, il n’est pas capable de vous dire de laquelle est son
@@ -154,11 +154,11 @@ six mois ils ne savent rien.
 1. D’abord, l’esprit militaire, les noms et les grades, les marques de respect;
 _leur en faire comprendre l’esprit_ et alors ils écouteront spontanément,
 virilement, toujours et non pas comme une formalité assommante.  
-Que voit—on ? L’officier coudoie l’homme, celui-ci fait effort pour se souvenir
+Que voit—on ? L’officier coudoie l’homme, celui—ci fait effort pour se souvenir
 qu’il a déférence à témoigner, et si l’officier lui parle, alors seulement il
 tombe en arrêt, bredouille, se _tend_ et répond à côté. Il n’a pas confiance et
 n’a pas compris.  
-Que devrait-on voir ? L’officier passe, on a inculqué un prestige tel que
+Que devrait—on voir ? L’officier passe, on a inculqué un prestige tel que
 l’homme tombe en arrêt, fixé. L’officier parle, comme l’homme a confiance et
 n’a pas été abruti, il se _détend_, se dépétrifie et répond naturellement.
 Juste l’inverse.  
@@ -181,7 +181,7 @@ malheureuse page de théorie, en un mot, de l’abstraction, cette opération
 presque impossible pour des cerveaux frustes.  
 On m’a souvent répondu : « Pourvu qu’ils sachent le faire ! » C’est une erreur.
 Tout cavalier léger doit devenir non seulement un homme de rang mais un
-éclaireur, un patrouilleur, c’est—à-dire un _rendeur comptes_. Il n’est pas
+éclaireur, un patrouilleur, c’est—à—dire un _rendeur comptes_. Il n’est pas
 d’arme où il soit plus essentiel de rompre l’homme à se rendre compte et à
 rendre compte de ce qu’il a vu et fait, et si vous ne l’y avez pas brisé pour
 les choses élémentaires, il ne vous le fera pas davantage au service en

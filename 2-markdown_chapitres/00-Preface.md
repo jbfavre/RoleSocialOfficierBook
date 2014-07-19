@@ -1,19 +1,19 @@
 # Préface
 
 1891 — Lyautey est depuis deux ans capitaine, commandant le 1er escadron du 4e
-chasseurs à cheval à Saint—Germain—en—Laye. Il a trente-six ans. C’est l’époque
+chasseurs à cheval à Saint—Germain—en—Laye. Il a trente—six ans. C’est l’époque
 du Ralliement. Avec sa flamme habituelle, il se mêle au mouvement d’union, à
 cette « Période de bonnes volontés » dont le pape Léon XIII vient de donner le
 signal. Pour Lyautey, la préoccupation du devoir social n’est pas neuve. A
 Saint—Cyr, il a noté la forte impression rapportée d’une conférence sociale.
-« Notre rôle est sacré » écrit-il ensuite avec ferveur. Plus tard, à Florence,
+« Notre rôle est sacré » écrit—il ensuite avec ferveur. Plus tard, à Florence,
 méditant sur le destin d’un seigneur de la Renaissance dont il possède le
 portrait « L’épée au côté, la main posée sur un livre », il envie ce jeune
 capitaine. Un beau guerrier, songe—t—il, mais sans doute éclairé et instruit, et
 qui, sûrement, employait ses loisirs, entre deux combats, à deviser des affaires
 de la République. À tout instant, sous sa plume, reviennent les phrases qui
 témoignent de sa hantise; rapprocher les êtres, les unir au sein de la société.  
-À Saint-Germain, le contact avec la troupe, les responsabilités du commandement
+À Saint—Germain, le contact avec la troupe, les responsabilités du commandement
 réveillent et affermissent sa conviction : l’officier a une autre mission à
 remplir que celle d’enseigner le tir et l’équitation à des hommes dont il ignore
 même les noms. Il se met au travail avec la double préoccupation de voir large
@@ -33,7 +33,7 @@ En 1891, dans l’armée, encore si profondément marquée par nos revers, de te
 idées étonnent par leur audacieuse nouveauté. C’est alors que des amis, comme
 E.—M. de Vogüé, engagent le capitaine Lyautey à faire un exposé écrit de
 l’action qu’il mène journellement. L’article parait dans la *Revue des
-Deux-Mondes* du 15 mars 1891. Son retentissement, dans les milieux intellectuels
+Deux—Mondes* du 15 mars 1891. Son retentissement, dans les milieux intellectuels
 surtout, est considérable.  
 Je viens de le relire. Une foi ardente s’en dégage, sous le style volontairement
 froid et contenu. J’évoque, à mon tour, la silhouette mince du capitaine de
@@ -41,7 +41,7 @@ cavalerie Hubert Lyautey, « le sabre au côté et la main posée sur un livre
 C’est déjà le Lyautey avide d’action et tout frémissant d’idées et d’espoirs
 généreux que je devais rencontrer plus tard au Maroc — mais un Lyautey encore au
 stade des virtualités et en quête de son destin.  
-Les directives données par Lyautey ont—elles été suivies? Ont-elles conservé
+Les directives données par Lyautey ont—elles été suivies? Ont—elles conservé
 leur valeur? Quels résultats, quels fruits ont—elles donnés ? Telle est la
 question qui viendra sans doute à l’esprit du lecteur de l’ouvrage, que de
 pieuses mains viennent de replacer sous ses yeux.
@@ -56,13 +56,13 @@ Le choc est vif, presque rude.
 Ses chefs d’alors, tous formés comme jeunes officiers dans les guerres du Second
 Empire, restent persuadés que l’armée française sera toujours de belle pâte et
 que si elle a été battue en 1870, c’est uniquement parce qu’elle a été mal
-conduite. Aussi bien, ne sont-ils préoccupés que de l’aspect technique des
+conduite. Aussi bien, ne sont—ils préoccupés que de l’aspect technique des
 choses de la guerre. Le côté moral leur importe peu : une bonne discipline doit
 suffire. Ils ne voient dans les idées de Lyautey qu’originalité d’esprit et sont
 prêts à s’apitoyer sur le cas de ce jeune et brillant officier de l’ancien corps
 d’État—Major, qui paraît s’être dévoyé.  
 Lyautey en a conscience et, réfractaire, il s’évade. Toute sa vie, il aura des
-mots amers contre les « Kriegspielards » incapables de rien saisir au-delà du
+mots amers contre les « Kriegspielards » incapables de rien saisir au—delà du
 cercle étroit des thèmes tactiques et des règlements militaires où ils se sont
 enfermés.
 
@@ -73,7 +73,7 @@ humains, plus sociaux. Encadrées par un nombre croissant d’officiers de rése
 qui associaient leurs camarades de l’active à de nouvelles préoccupations.
 L’armée de la Marne, celle de Verdun, celle surtout de nos offensives
 victorieuses, après le redressement de 1917, a été unie et fraternelle. Dans la
-boue des tranchées, le bon grain semé vingt-cinq ans plus tôt a levé. Il a donné
+boue des tranchées, le bon grain semé vingt—cinq ans plus tôt a levé. Il a donné
 de splendides gerbes, trop rouges hélas du sang des sacrifices qui rassemblaient
 officiers et soldats, Saint—Cyriens en gants blancs et jeunes instituteurs ou
 agrégés aux opinions parfois très avancées, ouvriers, savants, paysans,
@@ -81,7 +81,7 @@ agrégés aux opinions parfois très avancées, ouvriers, savants, paysans,
 La troupe a bien vu ses chefs « partager sans atténuation ses privations et ses
 fatigues ». Et « la confiance, la gratitude, la sollicitude affectueuse » et
 réciproque que Lyautey appelait de toute sa conviction, n’ont certes point
-manqué au rendez-vous sur les champs de bataille, preuve qu’elles n’étaient
+manqué au rendez—vous sur les champs de bataille, preuve qu’elles n’étaient
 point absentes au quartier ou à la caserne.  
 De purs visages, un Péguy, un Ernest Psichari, un Guynemer, tant de jeunes
 existences fauchées une chanson aux lèvres, un cher espoir au cœur, une grande
@@ -108,7 +108,7 @@ chars ou leurs avions, gradés et hommes de troupe étroitement soudés, pensant
 agissant avec la précision d’un mécanisme harmonieux. L’arme moderne est
 complexe. Elle requiert une équipe. Elle exclut les individualismes. Elle
 n’admet l’initiative personnelle qu’au service de l’ensemble. La vieille
-infanterie elle-même en est toute transformée. Le groupe de combat part à
+infanterie elle—même en est toute transformée. Le groupe de combat part à
 l’attaque avec ses grenadiers, ses mitrailleurs, ses pourvoyeurs, ses radios,
 son artilleur, suspendu, haletant, à la progression de la première vague, et en
 arrière, ses services innombrables apportant vivres et munitions, évacuant les
@@ -137,7 +137,7 @@ sur leurs jeeps rapides, les arrières bombardés de nos troupes. Recherche
 d’identification des grands blessés dans les formations sanitaires,
 correspondance avec les familles inquiètes ou en deuil, règlement des
 difficultés soulevées au loin par la maladie ou la carence de la mère,
-organisation de foyers et de centres de repos, affrètement de camions-bazars,
+organisation de foyers et de centres de repos, affrètement de camions—bazars,
 leur activité a été variée, leur présence presque toujours salutaire et
 réconfortante. Il est un peu tôt cependant pour tirer les conclusions de
 l’expérience qui vient d’être tentée. Sans doute, comme dans la plupart des
@@ -193,18 +193,18 @@ humbles par les libéralités de la République, leurs droits étaient les même
 garantis par un vieux statut qui inspirait confiance. Au sein des corps où ils
 étaient versés, leur fusion s’opérait sans dissonances et sans heurts par la
 vertu d’une camaraderie de métier qui était de règle et faisait table rase des
-préjugés de milieu et des partis pris de l’opinion. Sans doute arrivait-il que
+préjugés de milieu et des partis pris de l’opinion. Sans doute arrivait—il que
 les meilleurs ne fussent pas toujours à leur place. En temps de paix les
 militaires ont rarement l’occasion de donner la mesure de leur caractère et de
 leurs réflexes. Il faut les circonstances exceptionnelles de la guerre, les
 coups durs et l’épreuve des responsabilités, pour qu’apparaissent ces signes à
 quoi l’on reconnaît ceux qui sont vraiment des chefs. Sans doute, aussi,
-arrivait-il à quelques-uns d’entre eux, trop sédentaires, de s’abandonner par
+arrivait—il à quelques—uns d’entre eux, trop sédentaires, de s’abandonner par
 lassitude ou par routine aux règles d’une vie communautaire qui pourvoyait à
 l’essentiel et de ne plus avoir aucun contact avec la vie sociale extérieure.
 C’est qu’il faut avoir une réelle force d’âme pour garder, dans une paix qui se
 prolonge, ses ressorts constamment tendus vers d’hypothétiques batailles. À
-répéter journellement des exercices de petite guerre, c’est-à-dire de fausse
+répéter journellement des exercices de petite guerre, c’est—à—dire de fausse
 guerre, certains finissent par avoir la sensation de tourner à vide et par
 désespérer de connaître jamais les minutes de grandeur qui doivent les payer de
 tant d’années de servitude. Parmi ces tourmentés, il en est qui abandonnent et
@@ -214,7 +214,7 @@ C’est contre de tels engourdissements qu’il faut lutter et à cet égard nou
 saurions trouver de leçon plus profitable que celle donnée par Lyautey. Lui
 aussi fut un grand tourmenté et lui aussi prit le parti de l’évasion, mais sans
 renoncer pour autant à l’uniforme. Ayant découvert sa voie, il devint créateur
-d’action, non seulement pour lui-même mais pour tous ceux qui l’entouraient.
+d’action, non seulement pour lui—même mais pour tous ceux qui l’entouraient.
 Dans le sillage lumineux de ce magicien qui prêchait d’exemple et bâtissait sans
 cesse dans l’universel et dans le concret, les militaires de carrière
 retrouvaient une âme et des raisons de s’employer hors des occupations
@@ -240,7 +240,7 @@ l’instruction et l’éducation qui les préparent à leur noble tâche. L’a
 moderne exige une formation technique qui passe de loin la sommaire culture
 scientifique autrefois suffisante. Le devoir social impose une préparation
 morale conçue dans la ferveur, dispensée dans l’enthousiasme. La gaieté n’en
-sera point exclue. Mais elle répudiera tout-scepticisme. Elle se libérera de
+sera point exclue. Mais elle répudiera tout—scepticisme. Elle se libérera de
 l’excès de sens critique qui empoisonne aujourd’hui les réactions de trop de
 jeunes Français et les porte insensiblement à la sécheresse de cœur et à
 l’inaction. Elle sera basée sur le respect et sur la confiance : respect de la
@@ -251,13 +251,13 @@ latentes au fond du tempérament français.
 ***
 
 C’est seulement à ce prix que nos officiers pourront aborder la seconde partie
-de la mission, d’intérêt général celle-là, que leur assignait Lyautey : « *à
+de la mission, d’intérêt général celle—là, que leur assignait Lyautey : « *à
 l’état de guerre haineuse et violente qui sépare stérilement les enfants du même
 sol, de parti à parti, de classe à classe, substituer la recherche pacifique et
 féconde des problèmes posés par la révolution économique et industrielle de ce
 temps; marcher; non plus la revendication ou la répression au poing, mais la
 main dans la main, dans la large voie du progrès social… Question non pas
-vieille comme le monde, ajoutait-il, mais posée d’hier, dans son acuité* ».
+vieille comme le monde, ajoutait—il, mais posée d’hier, dans son acuité* ».
 
 On se rappellera que ces lignes sont écrites en 1891. Elles témoignent chez leur
 auteur d’une maturité de pensée singulière. En quelques mots d’une trempe
@@ -275,13 +275,13 @@ plans de mise en valeur du protectorat n’ont cessé de s’inspirer de ce gran
 principe.  
 Tous les malentendus, toutes les contradictions de notre époque paradoxale, il
 les a conçus, avant que ne les aient circonscrits bien des économistes
-professionnels qu’il côtoyait dans le monde. N’a-t-il pas, le premier, procédé à
+professionnels qu’il côtoyait dans le monde. N’a—t—il pas, le premier, procédé à
 certaine nationalisation qu’il jugeait indispensable ? Il avait prévu que les
 progrès démesurés de la science auraient pour conséquence une augmentation
 illimitée de la production, que le régime qui s’éteint serait incapable
 d’organiser une juste répartition de ces richesses fabuleuses. Il savait que des
 convulsions graves pourraient naître de ces antagonismes. Combien de fois
-n’a-t-il pas lancé son cri d’alarme, estimant qu’il était temps encore de
+n’a—t—il pas lancé son cri d’alarme, estimant qu’il était temps encore de
 discipliner notre vie nationale, de la réformer, afin de « *rendre l’homme enfin
 réfractaire aux excitations de la lutte des classes* ».  
 Cet appel qu’il adressait particulièrement à ses pairs, il a été entendu et
@@ -297,10 +297,10 @@ consciences, en apposant les notions de liberté et de discipline. Nous savons d
 reste, que des temps troublés peuvent survenir ou il est plus difficile de
 connaître son devoir que de le suivre. Comment alors mêler l’officier aux
 conflits d’idées qui opposent dans une démocratie les citoyens les uns aux
-autres sans risquer de diviser l’armée elle-même aux heures des grandes
+autres sans risquer de diviser l’armée elle—même aux heures des grandes
 décisions ?  
 Lyautey connaissait le danger et en avait pris son parti. Sans doute, s’il avait
-vécu, aurait-il encore renforcé sa manière de voir. Les notes qu’il a prises au
+vécu, aurait—il encore renforcé sa manière de voir. Les notes qu’il a prises au
 cours de ses dernières années le prouvent.  Quels que soient les obstacles à
 surmonter, l’officier ne saurait se désintéresser de la formation morale, donc
 sociale de ses hommes. Mais il devra le faire avec la prudente réserve qui
@@ -340,7 +340,7 @@ aujourd’hui à eux dans des circonstances qui la font plus noble et plus
 nécessaire encore que naguère. Qu’ils y réfléchissent et qu’ils ne s’y dérobent
 point.  
 Et puis, qu’ils aient bien dans l’esprit que le sort de notre pays ne se joue
-pas nécessairement entre sa frontière du nord-est et Paris, sa capitale. Que
+pas nécessairement entre sa frontière du nord—est et Paris, sa capitale. Que
 leur regard, franchissant les mers, mesure la force française à l’échelle de
 l’union française et la mesure aussi bien sur le plan des ressources que sur
 celui des positions.  
@@ -357,8 +357,8 @@ les fronts. Seuls, des officiers français ont pu accomplir ce miracle de
 s’attacher par le cœur des combattants de toutes races et de toutes couleurs et
 de les entraîner sur les champs de bataille les plus reculés du monde par la
 seule vertu de l’exemple et du dévouement qu’ils savaient inspirer.  
-En 1914-1918, la contribution de l’Empire largement consentie par Lyautey
-lui-même au Maroc, malgré l’inachèvement de la pacification, avait pesé de tout
+En 1914—1918, la contribution de l’Empire largement consentie par Lyautey
+lui—même au Maroc, malgré l’inachèvement de la pacification, avait pesé de tout
 son poids dans nos batailles et dans nos victoires. En 1940, si les facultés
 d’imagination et le sens impérial paraissent avoir été obnubilés chez la plupart
 des Français par la soudaineté de la défaite, il n’en demeure pas moins que
@@ -371,7 +371,7 @@ barbaresques dispersés à Rabat sur les bords de la mer océane, Lyautey avait
 pressenti ce destin et voulu que, lui disparu, les Français eussent sous les
 yeux un signe de foi et de ralliement quand viendraient les temps désespérés.  
 Aux jours sombres de 1940, un homme a déchiffré ce symbole. C’est le général de
-Gaulle. Faisant sienne la voix d’outre-tombe il a, de son doigt tendu vers
+Gaulle. Faisant sienne la voix d’outre—tombe il a, de son doigt tendu vers
 l’Empire, indiqué la voie du redressement national. Disciple inconnu de Lyautey,
 il est aujourd’hui celui qui l’a le mieux compris, et s’en est le plus rapproché
 à un moment décisif de notre Histoire.  
@@ -385,7 +385,7 @@ les mêmes sacrifices et les mêmes fiertés, se sont retrouvés plus unis que
 jamais, donnant ainsi la preuve que c’est au sein de l’armée que les différentes
 races servant sous nos couleurs se sont toujours le mieux comprises et le plus
 aimées.  Donc, Lyautey avait raison et les officiers qui l’ont suivi et donné le
-meilleur d’eux-mêmes pour s’attacher leurs tirailleurs et les entraîner au
+meilleur d’eux—mêmes pour s’attacher leurs tirailleurs et les entraîner au
 combat, avaient, eux aussi, raison. À ceux qui restent ou qui viendront, de
 suivre leur exemple et de se montrer vigilants à l’heure où, profitant de notre
 faiblesse et de nos erreurs, le doute et la convoitise commencent à se glisser
@@ -394,4 +394,4 @@ salut dans la paix traversée d’inquiétude où nous entrons.
 
 Paris 15 mars 1946 A. Juin
 
-![Signature du général Juin](../3-images/signature_preface.jpg)
+![Signature du général Juin](../3—images/signature_preface.jpg)
