@@ -386,7 +386,7 @@ jamais, donnant ainsi la preuve que c’est au sein de l’armée que les diffé
 races servant sous nos couleurs se sont toujours le mieux comprises et le plus
 aimées.  Donc, Lyautey avait raison et les officiers qui l’ont suivi et donné le
 meilleur d’eux-mêmes pour s’attacher leurs tirailleurs et les entraîner au
-combat, avaient, eux aussi, raison. A ceux qui restent ou qui viendront, de
+combat, avaient, eux aussi, raison. À ceux qui restent ou qui viendront, de
 suivre leur exemple et de se montrer vigilants à l’heure où, profitant de notre
 faiblesse et de nos erreurs, le doute et la convoitise commencent à se glisser
 dans certains esprits. Il y va de la cohésion de l’Empire et de notre propre

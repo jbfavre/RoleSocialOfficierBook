@@ -46,7 +46,7 @@ part son talent d’écrivain et son sens très vif des grandeurs de notre temps
 donnent accès dans tous les camps (puisque camps il y a, hélas) s’est fait une
 large place. Se dégageant des questions de parti qui, dès le berceau scindent
 aujourd’hui la nation en deux, des formules politiques, des étiquettes d’école,
-il s’est placé sur le terrain commun de l’action sociale. A tous les privilégiés
+il s’est placé sur le terrain commun de l’action sociale. À tous les privilégiés
 de l’intelligence, de l’éducation, de la fortune, il rappelle que leurs premiers
 devoirs sont envers les humbles et les déshérités et convie les bonnes volontés
 de tous partis, de toutes confessions, de toutes philosophies, à communier dans
@@ -61,7 +61,7 @@ contre la parole des dirigeants qu’inspire aux travailleurs l’opposition
 apparente de leurs intérêts matériels.  
 Sans nul doute, il y a là un mouvement, un souffle de dévouement et de
 générosité. Il semble que cette génération prenne conscience du grand rôle
-qu’elle pourrait remplir. Et quel rôle! A l’état de guerre haineuse et violente,
+qu’elle pourrait remplir. Et quel rôle! À l’état de guerre haineuse et violente,
 qui sépare stérilement les enfants du même sol, de parti à parti, de classe à
 classe, substituer la recherche pacifique et féconde des problèmes posés par la
 révolution industrielle et économique de ce temps : marcher, non plus la
