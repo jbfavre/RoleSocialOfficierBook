@@ -74,7 +74,7 @@ Dès les premières leçons, vous devrez demander et obtenir de vos élèves en
 bridon, qu’ils _rendent_ à leurs chevaux.  
 Montrez-leur le cheval en liberté, qui se promène dans le pacage, au pas,
 l’encolure en balancier, la tête ballante, et obtenir de lui en laisser faire
-autant chaque fois qu’il est au pas. Que le cavalier lui f... la paix et le
+autant chaque fois qu’il est au pas. Que le cavalier lui f… la paix et le
 cheval la lui rendra.  
 _La descente de main_ se fera d’elle—même, avec les cavaliers les plus novices,
 s’ils ne sont pas cramponnés, si cet assouplissement préliminaire poussé à ses
@@ -111,8 +111,8 @@ d’habitude dans des séances de chambre odieuses, endormantes, sur un ton
 d’école primaire ? Il n’y a qu’à les voir à l’examen du colonel ou du capitaine
 arriver hypnotisés, prendre un point fixe au plafond (une attitude chez le
 photographe) et expectorer tout d’un jet des qu’on touche le bouton : « Le
-sabre se divise en trois parties, le cheval se divise en trois parties... et ta
-ta ta... » (Je ne sais pourquoi tout chez nous se divise en trois parties). On
+sabre se divise en trois parties, le cheval se divise en trois parties… et ta
+ta ta… » (Je ne sais pourquoi tout chez nous se divise en trois parties). On
 les arrête, c’est fini. On leur demande : « Montrez-moi par la fenêtre un
 cheval alezan ». Rien : Ce n’est pas dans le programme. Je ne sais rien de plus
 pénible que ces examens qui constatent _toujours_ chez les hommes un si
@@ -125,7 +125,7 @@ avoir oublié sa langue naturelle ; supposez que ce sont des parents, des amis
 de village qui arrivent à Paris, où vous, roublards, êtes depuis un ou deux ans
 ; vous la connaissez dans les coins; tout est nouveau pour eux et les épate, et
 vous, vous leur expliquez tout ce qui se passe, la tour Eiffel, les tramways,
-les gardes municipaux... la lumière électrique. Supposez encore que vous êtes
+les gardes municipaux… la lumière électrique. Supposez encore que vous êtes
 revenu au pays et qu’un jour où passe un régiment, vous qui y avez été, vous
 expliquez aux vieux et aux jeunes un sabre, un harnachement, les trucs, la
 raison de chaque fourbi, vous ne leur bredouillerez pas « La carabine se divise
@@ -136,7 +136,7 @@ et retiennent. Ce petit machin en fer, c’est pour guider l’œil sur le point
 qu’on veut frapper, aussi l’appelle-t-on le _guidon_. Plus on veut atteindre
 loin, plus il faut jeter la balle en l’air, comme une pierre; il faut hausser
 l’arme pour cela, et, selon la distance, voilà une machine qui calcule combien
-il faut hausser, c’est la _hausse_... et ainsi de tout. Un cheval échappé passe
+il faut hausser, c’est la _hausse_… et ainsi de tout. Un cheval échappé passe
 : « De quelle couleur est-il ? Alezan, pas jaune, imbécile ! » et il le
 retient, tandis que lorsqu’on lui a appris les cinquante espèces de robe et
 leur variété, que j’ignore honteusement et dont quarante—sept n’ont pas de

@@ -22,7 +22,7 @@ Or, il ne nous semble pas que la question se pose sous la forme d’un dilemme.
 
 Il est du reste à remarquer que la discussion en arrive très vite à des
 questions de personnes, chacun tirant argument à l’appui de sa thèse du
-gouverneur X... ou du gouverneur Y...; et ainsi, sans le vouloir, adversaires
+gouverneur X… ou du gouverneur Y…; et ainsi, sans le vouloir, adversaires
 et partisans de chacun des deux systèmes apportent leur témoignage à la formule
 de notre choix. Et, en effet, c’est qu’aux colonies, c’est bien moins la
 question de l’étiquette du régime qui importe que celle des « hommes ». C’est
@@ -31,7 +31,7 @@ fonctionnent automatiquement et peuvent à la rigueur se passer d’hommes, —
 quelque temps, — aux colonies, au contraire, où l’imprévu est la règle et où la
 décision est la nécessité quotidienne, une formule domine toutes les autres,
 c’est « the right man in the right place ».  
-Or l’habit ne fait pas le... _right man_. Et, que l’habit du chef soit civil ou
+Or l’habit ne fait pas le… _right man_. Et, que l’habit du chef soit civil ou
 militaire, la chose est indifférente une fois l’homme bien choisi, — pour cette
 raison qu’il n’y a pas deux manières (j’entends bonnes) d’exercer le
 commandement colonial : il y en a une ; et celle-là exige des qualités qui sont
@@ -269,9 +269,9 @@ apparaissent sous un tout autre angle !
 Qu’on excuse ici un souvenir personnel. Dans une de mes premières expéditions,
 étant au bivouac sur la rivière Claire, j’appris qu’un des jeunes officiers
 présents avait débuté sous l’un des chefs qui avaient laissé au Tonkin la trace
-la plus profonde, le colonel P..., et dans mon zèle de débutant, je ne voulais
+la plus profonde, le colonel P…, et dans mon zèle de débutant, je ne voulais
 pas laisser échapper cette occasion d’apprendre quelque chose sur sa méthode et
-sur son œuvre. « Oh ! me fut-il répondu, le colonel P..., j’ai marché avec lui.
+sur son œuvre. « Oh ! me fut-il répondu, le colonel P…, j’ai marché avec lui.
 Au combat, il se préoccupait bien moins de l’enlèvement du repaire que du
 marché qu’il y établirait le lendemain ». Sans le vouloir, ce jeune homme, qui
 croyait faire une critique, avait trouvé la formule de la guerre coloniale,
@@ -337,7 +337,7 @@ dans la période suivante, dans la vie normale du pays pacifié.
 Ici encore, il n’y a qu’à laisser la parole aux ins— tructions du 22 mai 1898 :  
 > Le soldat se montre d’abord soldat, ainsi qu’il est nécessaire pour en
 > imposer aux populations encore insoumises; puis la paix obtenue, il dépose
-> les armes, il devient administrateur...  
+> les armes, il devient administrateur…  
 Ces fonctions administratives semblent incompatibles, au premier abord, avec
 l’idée qu’on se fait du militaire dans certains milieux. C’est là cependant le
 véritable rôle de l’officier colonial et de ses dévoués et intelligents
@@ -489,14 +489,14 @@ ressources [^2-2].
 
 [^2-2] Décision du général Galliéni, du 20 janvier 1898, affectant une
 compagnie de tirailleurs malgaches à la route de Majunga :  
-> ...Considérant qu’il est utile de repeupler une route d’étapes importante en
+> …Considérant qu’il est utile de repeupler une route d’étapes importante en
 > y créant des ressources pour les voyageurs et que cet essai de colonisation
 > militaire, déjà expérimentée avec succès dans d’autres colonies françaises et
 > étrangères, est particulièrement intéressant au point de vue du repeuplement
 > des parties actuellement désertes de l’île ; Considérant que cette
 > organisation, en créant des intérêts à la troupe contribue à l’amélioration
 > de son état physique et moral dans des régions éloignées de tout centre de
-> population... décide...
+> population… décide…
 
 On s’élève souvent contre la charge onéreuse que présente pour la métropole
 l’entretien des corps d’occupation. On admet d’ailleurs que le moment ne semble
@@ -537,7 +537,7 @@ officiers qu’aux soldats attelés à la besogne coloniale.
 D’abord, jamais on ne nous fera admettre qu’un mode d’emploi qui met en œuvre
 quotidiennement, à toute heure, toutes les facultés viriles : initiative,
 responsabilité, jugement, lutte contre les hommes et les éléments,
-démilitarise... Il « décaporalise » peut-être, ce qui n’est pas la même chose.  
+démilitarise… Il « décaporalise » peut-être, ce qui n’est pas la même chose.  
 Je me rappelle, à mon arrivée au Tonkin, tout proche de la douce vie de la
 métropole, encore accoutumé au confortable superflu qui devient un nécessaire,
 quelle impression me fit, à ma première tournée avec le colonel Galliéni sur la

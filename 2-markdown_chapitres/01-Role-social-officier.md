@@ -596,11 +596,11 @@ ce n’est pas, comme on pourrait le croire, d’enseigner aux cadets la techniq
 même simplement rudimentaire du métier de soldat, c’est de bien pénétrer
 l’éducation civile qu’on leur donne, l’instruction générale littéraire et
 scientifique qu’ils reçoivent, de la pensée spéciale qu’ils auront l’honneur de
-passer leur vie, sous les armes, au service de la Patrie ;... c’est de
+passer leur vie, sous les armes, au service de la Patrie ;… c’est de
 développer chez eux l’esprit militaire et l’esprit officier en même temps et par
 la même méthode graduelle que l’esprit des lettres et l’esprit des sciences. A
 Paris et dans nos départements, on voit maintenant les élèves des écoles
-primaires défiler et évoluer par les rues, l’arme sur l’épaule. À 0..., parmi
+primaires défiler et évoluer par les rues, l’arme sur l’épaule. À O…, parmi
 ces adolescents qui contiennent dans leurs rangs de futurs colonels, de futurs
 généraux de brigade et de division, de futurs commandants d’armée, on ne
 trouverait pas un seul fusil, même de bois ».
@@ -608,7 +608,7 @@ trouverait pas un seul fusil, même de bois ».
 Chez nous, où il n’existe pas d’établissements spéciaux de cet ordre, tout
 collège est aujourd’hui, dans quelque mesure, une « école de cadets », et tout
 maître peut avec profit s’inspirer de la figure si attachante et si suggestive
-du capitaine baron von D..., que M. Weiss nous présente quelques pages plus loin
+du capitaine baron von D…, que M. Weiss nous présente quelques pages plus loin
 ^[J.-J. WEISS. - Au Pays du Rhin, p. 199.].
 
 Nous n’insisterons pas. Nous ne pouvons entrer ici dans le détail des moyens

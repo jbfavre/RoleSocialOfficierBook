@@ -256,7 +256,7 @@ l’état de guerre haineuse et violente qui sépare stérilement les enfants du
 sol, de parti à parti, de classe à classe, substituer la recherche pacifique et
 féconde des problèmes posés par la révolution économique et industrielle de ce
 temps; marcher; non plus la revendication ou la répression au poing, mais la
-main dans la main, dans la large voie du progrès social... Question non pas
+main dans la main, dans la large voie du progrès social… Question non pas
 vieille comme le monde, ajoutait-il, mais posée d’hier, dans son acuité* ».
 
 On se rappellera que ces lignes sont écrites en 1891. Elles témoignent chez leur

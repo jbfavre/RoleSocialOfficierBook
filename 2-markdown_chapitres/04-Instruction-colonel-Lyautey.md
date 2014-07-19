@@ -46,7 +46,7 @@ dressage, c’est _l’homogénéité_. Le meilleur n’est pas celui qui prése
 lot de chevaux phénomènes et un lot de chevaux médiocres ou manqués, mais une
 bonne moyenne où aucun sujet ne reste en arrière et où les moindres résistances
 sont corrigées dès le début. Ce dont il faut avant tout convaincre les
-cavaliers qui y sont affectés, c’est que c’est en f... la paix le plus possible
+cavaliers qui y sont affectés, c’est que c’est en f… la paix le plus possible
 à leurs chevaux qu’ils les dresseront le mieux.
 
 _Service en campagne_. — Le service en campagne fera l’objet d’observations
