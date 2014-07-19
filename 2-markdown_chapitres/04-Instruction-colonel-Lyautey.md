@@ -10,7 +10,7 @@ le colonel croit utile d’indiquer le caractère général qu’il entend voir 
 _Instruction à cheval_. – Ce qui doit distinguer avant tout notre cavalier
 léger, c’est la gaîté, l’entrain et l’allant.  
 Si le manège et la progression la plus méthodique sont indispensables pour
-_apprendre_ à monter à cheval, du moins faut‐il constamment y réagir contre
+_apprendre_ à monter à cheval, du moins faut-il constamment y réagir contre
 l’ennui et la monotonie et, selon la parole d’un de nos chefs, « tuer le
 marasme ». Que donc, de très bonne heure, le galop et le saut soient la joie de
 la séance et non pas l’effroi. Que, dès que les recrues sont débrouillées,
@@ -22,7 +22,7 @@ les résistances par une voltige endiablée poussée aux dernières limites, et
 comprenant toutes les hardiesses que peut imaginer l’instructeur.  
 La voltige ne doit pas être considérée comme un exercice à part, mais comme la
 préparation, l’adjuvant, le complément de l’instruction à cheval. Le but qu’il
-faut avoir toujours présent, _c’est le but de la guerre_, c’est‐à‐dire la
+faut avoir toujours présent, _c’est le but de la guerre_, c’est-à-dire la
 nécessité d’avoir l’effectif utile le plus complet. Le service de plus en plus
 court et les effectifs réduits ne nous permettent pas de perdre un sabre. Il
 est donc essentiel d’avoir les classes les plus _homogènes_ en ayant
@@ -117,11 +117,11 @@ ne pas laisser voir leurs chevaux. _L’intérêt de la cavalerie qui tire est d
 tout faire pour ne pas se révéler cavalerie_. C’est à ce prix seulement qu’en
 occupant les points judicieusement choisis sur le flanc d’une colonne ou même
 sur sa tête, elle donnera souvent à l’adversaire l’illusion d’une occupation
-sérieuse qui le jettera dans l’indécision, le forcera peut‐être à se déployer
+sérieuse qui le jettera dans l’indécision, le forcera peut-être à se déployer
 et à donner par là un renseignement précis, et, en tous cas, produira chez lui
-une hésitation, un trouble, un va‐et‐vient de renseignements et d’ordres, en un
+une hésitation, un trouble, un va-et-vient de renseignements et d’ordres, en un
 mot, une perte de temps qui est déjà, à elle seule, un résultat de premier
-ordre. Ne pas oublier que le coup de fusil en lui‐même n’a pas de couleur à la
+ordre. Ne pas oublier que le coup de fusil en lui-même n’a pas de couleur à la
 condition de ne pas laisser voir la couleur de celui qui le tire.
 
 Le _tir à grande distance_ implique l’obligation pour les officiers de
@@ -143,7 +143,7 @@ la troisième partie de l’École de section du _Règlement provisoire de
 l’infanterie_ de 1902, où ils trouveront les plus utiles indications tout en
 discernant ce qui n’est pas applicable à leur arme.
 
-_Quant au tir_ en lui‐même, le colonel reporte simplement aux instructions du
+_Quant au tir_ en lui-même, le colonel reporte simplement aux instructions du
 général en chef, en insistant spécialement à la suite des inspections qu’il a
 passées sur la discipline du feu qui laisse à désirer. Du reste, toute
 instruction à pied doit se distinguer par une rigidité automatique dans le
