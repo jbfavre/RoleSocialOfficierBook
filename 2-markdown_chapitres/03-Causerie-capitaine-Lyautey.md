@@ -5,7 +5,7 @@
 Les premiers caractères qu’il est indispensable de donner à l’instruction c’est
 l’allant, l’entrain, l’intérêt, la _gaîté_.
 
-_Gaïté, naturel et logique_ – Pontifier peut convenir dans les écoles, c’est
+_Gaîté, naturel et logique_ – Pontifier peut convenir dans les écoles, c’est
 la négation de l’instruction régimentaire.  
 Tout ce que nous demandons à nos hommes est simple. Les exercices ne sont qu’un
 jeu pour des gars de vingt ans ; il faut les amuser au lieu de les embêter,
@@ -25,7 +25,7 @@ _Cachet de l’arme_ – À ces caractères généraux, ajoutez le cachet part
 de l’arme : nous sommes de la légère, des chasseurs ; soyons aux cuirassiers et
 aux dragons ce que sont les chasseurs à pied à l’infanterie.  
 Soyons les plus actifs, les plus légers, les plus rapides, les plus
-débrouillards.  
+_débrouillards_.  
 Tous les rassemblements au pas gymnastique, pas de formations en rangs
 continelles, mais un _ralliement_ perpétuel derrière le guide ; en toute
 occasion : réfectoire, travail, qu’on voie les hommes débouliner de partout au
@@ -75,7 +75,7 @@ Montrez-leur le cheval en liberté, qui se promène dans le pacage, au pas,
 l’encolure en balancier, la tête ballante, et obtenir de lui en laisser faire
 autant chaque fois qu’il est au pas. Que le cavalier lui f… la paix et le
 cheval la lui rendra.  
-_La descente de main_ se fera d’elle-même, avec les cavaliers les plus novices,
+La _descente de main_ se fera d’elle-même, avec les cavaliers les plus novices,
 s’ils ne sont pas cramponnés, si cet assouplissement préliminaire poussé à ses
 dernières limites les a mis à l’aise et en confiance. Elle se fera d’elle-même
 au trot, au galop. Galopez de bonne heure.
@@ -109,7 +109,7 @@ de ces milliers dont ils ne savaient pas un la veille, qu’on leur ingurgite
 d’habitude dans des séances de chambre odieuses, endormantes, sur un ton
 d’école primaire ? Il n’y a qu’à les voir à l’examen du colonel ou du capitaine
 arriver hypnotisés, prendre un point fixe au plafond (une attitude chez le
-photographe) et expectorer tout d’un jet des qu’on touche le bouton : « Le
+photographe) et expectorer tout d’un jet dès qu’on touche le bouton : « Le
 sabre se divise en trois parties, le cheval se divise en trois parties… et ta
 ta ta… » (Je ne sais pourquoi tout chez nous se divise en trois parties). On
 les arrête, c’est fini. On leur demande : « Montrez-moi par la fenêtre un
@@ -132,7 +132,7 @@ en trois parties », n’est-ce pas ?
 
 Eh bien, pour Dieu, faites la même chose, parlez leur pour qu’ils _comprennent_
 et retiennent. Ce petit machin en fer, c’est pour guider l’œil sur le point
-qu’on veut frapper, aussi l’appelle-t-on le _guidon_. Plus on veut atteindre
+qu’on veut frapper, aussi l’appelle-t-on le guidon. Plus on veut atteindre
 loin, plus il faut jeter la balle en l’air, comme une pierre ; il faut hausser
 l’arme pour cela, et, selon la distance, voilà une machine qui calcule combien
 il faut hausser, c’est la _hausse_… et ainsi de tout. Un cheval échappé passe
@@ -158,11 +158,10 @@ qu’il a déférence à témoigner, et si l’officier lui parle, alors seuleme
 tombe en arrêt, bredouille, se _tend_ et répond à côté. Il n’a pas confiance et
 n’a pas compris.  
 Que devrait-on voir ? L’officier passe, on a inculqué un prestige tel que
-l’homme tombe en arrêt, fixé. L’officier parle, comme l’homme a confiance et
+l’homme _tombe_ en arrêt, fixé. L’officier parle, comme l’homme a confiance et
 n’a pas été abruti, il se _détend_, se dépétrifie et répond naturellement.
-Juste l’inverse.  
-2. Puis les quartiers, les locaux, les divers services, les
-pancartes ;
+Juste l’inverse.
+2. Puis les quartiers, les locaux, les divers services, les pancartes ;
 3. Les noms de tout ce dont il se sert, effets, petit équipement ;
 4. Les chevaux, le pansage ;
 5. Les armes, ce qu’on appelle à tort de ce nom idiot de _nomenclature_ ;
