@@ -5,7 +5,7 @@
 Les premiers caractères qu’il est indispensable de donner à l’instruction c’est
 l’allant, l’entrain, l’intérêt, la _gaîté_.
 
-_Gaïté, naturel et logique_. – Pontifier peut convenir dans les écoles, c’est
+_Gaïté, naturel et logique_ – Pontifier peut convenir dans les écoles, c’est
 la négation de l’instruction régimentaire.  
 Tout ce que nous demandons à nos hommes est simple. Les exercices ne sont qu’un
 jeu pour des gars de vingt ans ; il faut les amuser au lieu de les embêter,
@@ -21,7 +21,7 @@ En tout, faire voir le but : rien n’embête l’homme comme de ne pas compren
 la raison de tout ce dont on l’embête. S’il voit le but (et chaque exercice a
 le sien), il le fera avec vingt fois plus de cœur.
 
-_Cachet de l’arme_. – À ces caractères généraux, ajoutez le cachet particulier
+_Cachet de l’arme_ – À ces caractères généraux, ajoutez le cachet particulier
 de l’arme : nous sommes de la légère, des chasseurs ; soyons aux cuirassiers et
 aux dragons ce que sont les chasseurs à pied à l’infanterie.  
 Soyons les plus actifs, les plus légers, les plus rapides, les plus
@@ -36,7 +36,7 @@ lourdement le pas. Perdons ces allures de collégiens allant à l’étude. Pas 
 prussianisme, au nom du ciel ! Restons le petit troupier français, alerte et
 joyeux.
 
-_Désosser la recrue, à pied, à cheval_. – Cette méthode, on la transportera à
+_Désosser la recrue, à pied, à cheval_ – Cette méthode, on la transportera à
 cheval ; dès le début, on développera chez la recrue ce cachet
 d’_individualisme_.  
 On aura commencé par la _désosser_ à pied ; quand elle sera à cheval, souple
@@ -47,7 +47,7 @@ Le premier objet de la méthode c’est donc de les _désosser_, assouplir n’e
 pas assez fort ; et c’est à cela que tendent tous les exercices préliminaires :
 boxe, bâton, voltige. Rien n’est plus ridicule que de les voir entamer par
 certains au bout de deux à trois mois.  
-C’est 1e lendemain de l’arrivée des recrues qu’il faut leur donner des bâtons,
+C’est le lendemain de l’arrivée des recrues qu’il faut leur donner des bâtons,
 pour leur briser l’articulation du poignet, cette articulation lourdement
 accoutumée à la charrue ou à la bêche et à qui l’on va demander de faire
 tournoyer un sabre, de jouer avec des rênes.  De même de la boxe, pour
@@ -65,7 +65,7 @@ et on les laisse là, reprenant la seconde seulement de temps en temps le matin
 au réveil, comme mise en train préliminaire de la journée.
 
 _Résultats immédiats que cet assouplissement préliminaire et extrême donne à
-cheval_. – Quand, par méthode, les hommes ont été assouplis à fond et qu’on les
+cheval_ – Quand, par méthode, les hommes ont été assouplis à fond et qu’on les
 met à cheval ils sont à leur aise, déraidis, et, par conséquent,
 _déraidissants_ ; rien n’est plus communicatif que la raideur. À cavalier
 raide, cheval raide. À cavalier souple, cheval souple.  
@@ -80,7 +80,7 @@ s’ils ne sont pas cramponnés, si cet assouplissement préliminaire poussé à
 dernières limites les a mis à l’aise et en confiance. Elle se fera d’elle-même
 au trot, au galop. Galopez de bonne heure.
 
-_Le galop, c’est le but_. – N’attendez pas pour l’enseigner, comme une
+_Le galop, c’est le but_ – N’attendez pas pour l’enseigner, comme une
 sanction, un summum, comme ce quelque chose d’anormal qu’est le galop pour les
 neuf dixièmes des cavaliers français.  
 Ce ne sera plus cette allure exceptionnelle, affolée, ahurie, cramponnée, mais
@@ -92,9 +92,9 @@ si vite enlever l’obstacle en jouant.
 D’aussi bonne heure aussi, la conduite à une main, qu’on recule à tort si tard,
 puisqu’en somme c’est à elle qu’on doit aboutir, le sabre au clair.  
 En un mot, donner comme base à sa méthode la variété, l’élasticité, _la mise en
-confiance_, la persuasion à outrance que tout cela n’est pas une affaire -
-simultanéité d’efforts – et proscription absolue de tout ce qui est formalisme,
-de tout ce qui est progression trop méthodique et rigoureuse.
+confiance_, la persuasion à outrance que tout cela n’est pas une affaire
+– simultanéité d’efforts – et proscription absolue de tout ce qui est
+formalisme, de tout ce qui est progression trop méthodique et rigoureuse.
 
 _La mise en confiance_, c’est la base. De même qu’au corps pour les exercices,
 l’inspirer à l’esprit pour les notions multiples et nouvelles qu’il va falloir
