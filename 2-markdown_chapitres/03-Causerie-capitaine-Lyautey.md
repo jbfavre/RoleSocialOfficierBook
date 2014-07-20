@@ -9,7 +9,7 @@ _Gaïté, naturel et logique_. – Pontifier peut convenir dans les écoles, c�
 la négation de l’instruction régimentaire.  
 Tout ce que nous demandons à nos hommes est simple. Les exercices ne sont qu’un
 jeu pour des gars de vingt ans ; il faut les amuser au lieu de les embêter,
-leur en faire voir le côté à la rigolade et le but : supposez que ce soit au
+leur en faire voir le côté à la rigolade et le but : supposez que ce soit au
 village qu’on organise comme jeux, boxe, voltige, gymnastique, assouplissements
 à cheval, c’est à celui qui s’en donnera le plus, alors pourquoi pas de même ?  
 La grosse question c’est que l’instructeur ne soit pas empaillé mais bon
@@ -17,18 +17,18 @@ enfant.
 De même pour les notions intellectuelles, les définitions, les soi-disant
 nomenclatures ; leur parler _naturellement_. Ce qui vient tout compliquer et
 stériliser, ce sont les formes solennelles et les mots techniques.  
-En tout, faire voir le but : rien n’embête l’homme comme de ne pas comprendre
+En tout, faire voir le but : rien n’embête l’homme comme de ne pas comprendre
 la raison de tout ce dont on l’embête. S’il voit le but (et chaque exercice a
 le sien), il le fera avec vingt fois plus de cœur.
 
 _Cachet de l’arme_. – À ces caractères généraux, ajoutez le cachet particulier
-de l’arme : nous sommes de la légère, des chasseurs ; soyons aux cuirassiers et
+de l’arme : nous sommes de la légère, des chasseurs ; soyons aux cuirassiers et
 aux dragons ce que sont les chasseurs à pied à l’infanterie.  
 Soyons les plus actifs, les plus légers, les plus rapides, les plus
 débrouillards.  
 Tous les rassemblements au pas gymnastique, pas de formations en rangs
 continelles, mais un _ralliement_ perpétuel derrière le guide; en toute
-occasion : réfectoire, travail, qu’on voie les hommes débouliner de partout au
+occasion : réfectoire, travail, qu’on voie les hommes débouliner de partout au
 pas gymnastique, rigolants, alertes et puis, arrivés au guide, les hommes se
 reformant par deux d’eux-mêmes, sveltement, sans qu’on les prenne par le bras,
 la tête continuant à marcher allègrement, la queue serrant sans marquer
@@ -44,7 +44,7 @@ comme un gant, dès le début on la rompra à sortir du rang vivement, aisément
 l’œil ouvert, la tête mobile, et pas de ces têtes d’hypnotisés surmontant des
 bras et des jambes en fer.  
 Le premier objet de la méthode c’est donc de les _désosser_, assouplir n’est
-pas assez fort ; et c’est à cela que tendent tous les exercices préliminaires :
+pas assez fort ; et c’est à cela que tendent tous les exercices préliminaires :
 boxe, bâton, voltige. Rien n’est plus ridicule que de les voir entamer par
 certains au bout de deux à trois mois.  
 C’est 1e lendemain de l’arrivée des recrues qu’il faut leur donner des bâtons,
@@ -109,16 +109,16 @@ de ces milliers dont ils ne savaient pas un la veille, qu’on leur ingurgite
 d’habitude dans des séances de chambre odieuses, endormantes, sur un ton
 d’école primaire ? Il n’y a qu’à les voir à l’examen du colonel ou du capitaine
 arriver hypnotisés, prendre un point fixe au plafond (une attitude chez le
-photographe) et expectorer tout d’un jet des qu’on touche le bouton : « Le
+photographe) et expectorer tout d’un jet des qu’on touche le bouton : « Le
 sabre se divise en trois parties, le cheval se divise en trois parties… et ta
 ta ta… » (Je ne sais pourquoi tout chez nous se divise en trois parties). On
-les arrête, c’est fini. On leur demande : « Montrez-moi par la fenêtre un
-cheval alezan ». Rien : Ce n’est pas dans le programme. Je ne sais rien de plus
+les arrête, c’est fini. On leur demande : « Montrez-moi par la fenêtre un
+cheval alezan ». Rien : Ce n’est pas dans le programme. Je ne sais rien de plus
 pénible que ces examens qui constatent _toujours_ chez les hommes un si
 prodigieux effort de bonne volonté et de mémoire et de la part des instructeurs
 une si prodigieuse inintelligence ou indifférence à tirer bon parti de ces dons
 sacrés.  
-Partez-donc de ceci : sous-officiers, et surtout brigadiers, qui intimidez
+Partez-donc de ceci : sous-officiers, et surtout brigadiers, qui intimidez
 moins le débutant, vivez avec lui et en êtes encore assez près pour ne pas
 avoir oublié sa langue naturelle ; supposez que ce sont des parents, des amis
 de village qui arrivent à Paris, où vous, roublards, êtes depuis un ou deux ans
@@ -136,7 +136,7 @@ qu’on veut frapper, aussi l’appelle-t-on le _guidon_. Plus on veut atteindre
 loin, plus il faut jeter la balle en l’air, comme une pierre; il faut hausser
 l’arme pour cela, et, selon la distance, voilà une machine qui calcule combien
 il faut hausser, c’est la _hausse_… et ainsi de tout. Un cheval échappé passe
-: « De quelle couleur est-il ? Alezan, pas jaune, imbécile ! » et il le
+ : « De quelle couleur est-il ? Alezan, pas jaune, imbécile ! » et il le
 retient, tandis que lorsqu’on lui a appris les cinquante espèces de robe et
 leur variété, que j’ignore honteusement et dont quarante-sept n’ont pas de
 spécimen au régiment, il n’est pas capable de vous dire de laquelle est son
@@ -178,7 +178,7 @@ pas être capables de dire l’ordre des opérations du pansage, parce qu’au l
 de raconter simplement ce qu’ils font, ils cherchaient à se rappeler cette
 malheureuse page de théorie, en un mot, de l’abstraction, cette opération
 presque impossible pour des cerveaux frustes.  
-On m’a souvent répondu : « Pourvu qu’ils sachent le faire ! » C’est une erreur.
+On m’a souvent répondu : « Pourvu qu’ils sachent le faire ! » C’est une erreur.
 Tout cavalier léger doit devenir non seulement un homme de rang mais un
 éclaireur, un patrouilleur, c’est-à-dire un _rendeur comptes_. Il n’est pas
 d’arme où il soit plus essentiel de rompre l’homme à se rendre compte et à

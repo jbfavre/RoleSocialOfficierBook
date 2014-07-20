@@ -5,7 +5,7 @@
 > Le service militaire universel jouera un rôle décisif dans notre
   reconstitution sociale. Le legs de la défaite, le lourd présent de l’ennemi,
   peut être l’instrument de notre rédemption. Nous ne sentons aujourd’hui que
-  ses charges : j’en attends des bénéfices incalculables : fusion des
+  ses charges : j’en attends des bénéfices incalculables : fusion des
   dissidences politiques, restauration de l’esprit de sacrifice dans les classes
   aisées ; de l’esprit de discipline dans les classes populaires, bref toutes les
   vertus qui repoussent toujours à l’ombre du drapeau.  
@@ -64,7 +64,7 @@ générosité. Il semble que cette génération prenne conscience du grand rôle
 qu’elle pourrait remplir. Et quel rôle! À l’état de guerre haineuse et violente,
 qui sépare stérilement les enfants du même sol, de parti à parti, de classe à
 classe, substituer la recherche pacifique et féconde des problèmes posés par la
-révolution industrielle et économique de ce temps : marcher, non plus la
+révolution industrielle et économique de ce temps : marcher, non plus la
 revendication ou la répression au poing, mais la main dans la main, dans la
 large et noble voie du progrès social. Et qu’on ne dise pas que, sous cette
 forme, c’est là une question vieille comme le monde ! Dans son acuité, elle est
@@ -215,7 +215,7 @@ lise, l’état d’esprit qu’ils dénotent n’existe qu’à l’état d’e
 ce cas, résulte des tendances individuelles et non d’une doctrine commune reçue
 comme un dogme au début de toute éducation militaire. À ceux qui viennent des
 écoles, on a parlé stratégie, balistique, géographie ; on a cherché à développer
-leur intelligence militaire mais bien peu leur cœur militaire : on leur a
+leur intelligence militaire mais bien peu leur cœur militaire : on leur a
 enseigné à instruire leurs hommes, leur a-t-on fait comprendre qu’il fallait
 d’abord les aimer et conquérir leur affection ? Aux plus distingués, on a donné
 comme objectif l’École de guerre, l’État-Major, c’est-à-dire la vie de bureau,
@@ -231,7 +231,7 @@ troupe, au spectacle de la hâte que chacun éprouve à s’en esquiver et de
 l’honneur et des avantages réservés à ceux qui en sont sortis, sont médiocrement
 préparés à envisager la mission qu’on leur a laissée par pis-aller, comme la
 plus haute et la plus importante de leur état. Pour les officiers qui sortent
-des rangs, leur école a été avant tout la pratique : comme ils ont été traités,
+des rangs, leur école a été avant tout la pratique : comme ils ont été traités,
 ils traitent ; ils sont tout naturellement amenés à appliquer les procédés qu’on
 leur a appliqués à eux-mêmes. Chez certains encore, se réclamant d’une fausse
 anglomanie, il est de mode de s’envelopper devant ses inférieurs d’une morgue
@@ -251,7 +251,7 @@ sous quelle forme pratique peut-elle s’exercer ?
 Il nous semble entendre déjà les plaisanteries faciles sur la transformation de
 l’officier en apôtre prêchant à ses hommes l’amour et la paix, au lieu de leur
 enseigner le tir et l’équitation. _Il ne s’agit, est-il besoin de le dire, de
-rien de semblable_ : une telle action ne s’exerce pas par des discours et des
+rien de semblable_ : une telle action ne s’exerce pas par des discours et des
 conférences ; elle résulte simplement mais fatalement d’un _état d’esprit_ ; que
 les officiers soient convaincus de leur devoir social, qu’ils en portent
 constamment la préoccupation dans l’exercice de leur profession, et celui-ci,
@@ -284,19 +284,19 @@ de ces natures si peu pénétrables, et dont la mise en œuvre peut faciliter si
 largement leur développement, c’est le dernier des soucis. On a tiré de l’écorce
 tout ce qui pouvait s’adapter au métier ; quant à la sève capable de donner la
 vie au mécanisme ainsi agencé, on n’a pas été jusqu’à elle. On a soigneusement
-étudié l’outil : le canon, le fusil, le cheval ; et le moins possible l’ouvrier
+étudié l’outil : le canon, le fusil, le cheval ; et le moins possible l’ouvrier
 par qui seul pourtant vaudra l’outil. Cela est si vrai que dans la cavalerie par
 exemple, il est extrêmement bien porté de connaître beaucoup mieux ses chevaux
 que ses hommes ; nous pourrions citer nombre de jeunes officiers qui se piquent
 (et en cela il faut grandement les louer) de connaître à fond les trente-cinq
 chevaux dont ils ont la direction, les moindres particularités de leur nature,
 de leur tempérament, de leurs origines, de leur caractère, mais qui semblent
-tout fiers d’ajouter ensuite : « Quant à mes hommes, je ne puis pas retenir
+tout fiers d’ajouter ensuite : « Quant à mes hommes, je ne puis pas retenir
 leurs noms, c’est un genre de mémoire qui me manque ». Et s’il ne s’agissait que
 des noms ! Mais, allez leur demander de vous donner sur ces hommes, sans même
 les nommer, à la vue, le dixième des renseignements qu’ils vous ont donnés sur
 leurs montures, et vous verrez ce que vous en tirerez, à moins qu’ils ne
-concluent par un : « Du reste, ce sont des brutes » qui coupe court à tout. Et,
+concluent par un : « Du reste, ce sont des brutes » qui coupe court à tout. Et,
 ce qu’il faut proclamer, c’est que cette ignorance ne résulte pas, comme ils
 affectent de le dire et voudraient le faire croire, d’une structure spéciale de
 leurs cerveaux, favorable aux notions et aux images hippiques et rebelle aux
@@ -308,7 +308,7 @@ Dieu, qu’ils songent d’abord que s’ils n’ont avant tout formé le moral 
 l’ouvrier et conquis son cœur, ils auront peut-être bien grand’peine à maintenir
 ferme sous le feu, face au danger, ce soldat de deux ans de service, quelque
 complète d’ailleurs que soit son instruction technique.  
-Non, ces hommes ne sont pas des brutes, et les Français moins que tous autres :
+Non, ces hommes ne sont pas des brutes, et les Français moins que tous autres :
 mais ce sont souvent des timides et des méfiants ; la cordialité les ouvre, la
 brusquerie les referme. Ils aiment qui les aime. Il suffit d’avoir été mêlé plus
 intimement par la force des circonstances à ces braves gens, aux grandes
@@ -326,7 +326,7 @@ enquête sur ses recrues, profitant des relations qu’il pouvait avoir au centr
 de leur recrutement, écrivant dans les localités, s’informant de leurs familles,
 de leurs antécédents, de leurs aptitudes, de leurs ambitions. Avant même d’avoir
 parlé à aucun d’eux, ce travail souterrain, pour ainsi dire, lui avait donné une
-première notion de leur physionomie morale : les occasions d’entrer en relations
+première notion de leur physionomie morale : les occasions d’entrer en relations
 s’offraient ensuite d’elles-mêmes ; les temps de repos pendant la manœuvre, si
 avantageusement employés à cette communication individuelle, au lieu de se
 passer en bavardages entre collègues ou en temps de galop sur la piste voisine ;
@@ -336,7 +336,7 @@ homme tour à tour sans interrompre sa besogne ; – les repas où l’officie
 venir témoigner de l’intérêt qu’il prend au bien-être matériel de sa troupe. Et
 tant d’autres circonstances qu’il est impossible de préciser et même d’énumérer,
 mais que le cœur, l’expérience, l’observation suggèreront facilement et qui
-diffèreront d’homme à homme, de tempérament à tempérament : les règlements
+diffèreront d’homme à homme, de tempérament à tempérament : les règlements
 modernes ont bien su préconiser dans la mesure la plus large l’_instruction
 individuelle_ ; qu’on s’inspire de leur esprit en la complétant par l’_éducation
 individuelle_.  
@@ -349,7 +349,7 @@ Que de révoltes, de rancunes, de fautes graves engageant parfois la vie entièr
 résultent d’une première punition infligée injustement ou à la légère, à défaut,
 presque toujours, d’une connaissance suffisante de l’individu qu’elle frappe !  
 Mais plus encore qu’un justicier, l’officier est un arbitre ; un arbitre entre
-le soldat et le sous-officier : le plus souvent, le simple soldat ne l’aime ni
+le soldat et le sous-officier : le plus souvent, le simple soldat ne l’aime ni
 le déteste ; il l’ignore, il le voit de loin, de bas, et ce qu’il perçoit
 seulement, c’est l’action directe des gradés inférieurs. C’est pour apprécier,
 modérer, régler l’action de ces agents, investis en France d’une autorité
@@ -364,7 +364,7 @@ de les y associer d’une manière absolue. Par le fait seul que ce sont eux que
 soldat voit le plus et de plus près, toute la bonne volonté apportée par
 l’officier dans sa mission restera stérile s’ils s’inspirent dans l’exercice de
 leurs fonctions d’un esprit contraire de sécheresse, d’immoralité et d’injustice
-: c’est dans ce milieu intermédiaire qu’ont pu s’accomplir les dénis de justice,
+ : c’est dans ce milieu intermédiaire qu’ont pu s’accomplir les dénis de justice,
 les faits d’exploitation dont on a certes exagéré le caractère général, mais
 qui, si rares qu’ils doivent être, suffisent pour expliquer les résultats
 médiocres du service militaire au point de vue social. Des publications récentes
@@ -379,7 +379,7 @@ situation trop réelle. Ayons donc, une bonne fois, le courage de voir la vérit
 quelle qu’elle soit, et, au lieu de nous rendormir, le bruit étouffé, dans un
 optimisme de convention, mettons-nous a l’œuvre et commençons par nos
 sous-officiers. Que leur choix soit le premier de nos soucis. Le nombre
-croissant des rengagements laisse le temps de s’occuper d’eux : le recrutement
+croissant des rengagements laisse le temps de s’occuper d’eux : le recrutement
 actuel donne des éléments tels que nous n’en avons jamais eus ; dégageons ce
 choix des considérations étrangères qui en décident encore trop souvent, et
 puis, appliquons-nous de tout notre cœur à leur formation, à leur éducation. Ils
@@ -392,7 +392,7 @@ social par l’armée.
 Il serait facile de détailler davantage le côté technique de cette double action
 sur les sous-officiers d’abord, et par eux et avec eux, sur les hommes de
 troupe ; mais ce développement, d’un caractère professionnel, sortirait de notre
-cadre : il doit suffire d’avoir signalé la voie.  
+cadre : il doit suffire d’avoir signalé la voie.  
 Indiquons seulement les conséquences qui, à à notre sens, résulteraient de
 l’action de l’officier ainsi comprise et exercée.
 
@@ -422,9 +422,9 @@ service de son autorité et si son regard, sa parole, son cœur n’ont pas su, 
 le premier jour de leur rencontre, trouver le chemin de ces yeux, de ces
 oreilles, de ces cœurs d’enfants soumis brusquement à l’horreur d’une telle
 épreuve.  
-Chez l’officier : c’est dès la paix, qui est en somme devenue l’état normal,
+Chez l’officier : c’est dès la paix, qui est en somme devenue l’état normal,
 l’introduction dans sa vie d’un élément du plus haut, du plus passionnant
-intérêt. Convenons-en : l’officier ne se bat plus, pas plus souvent du moins que
+intérêt. Convenons-en : l’officier ne se bat plus, pas plus souvent du moins que
 tout autre citoyen. Une ou deux fois dans sa carrière, et c’est tout. Si donc
 l’on s’en tient à la vieille notion (et nous en sommes encore imbus) de l’état
 militaire entendu comme synonyme d’état guerrier, la condition actuelle
@@ -442,18 +442,18 @@ proposer à son activité l’objet le plus digne de l’enflammer ?
 L’opportunité et le caractère de cette action sociale admis, comment en faire
 pénétrer l’idée dans le corps d’officiers ?
 
-Par la base, croyons-nous, plutôt que par le sommet : par une action d’ensemble
+Par la base, croyons-nous, plutôt que par le sommet : par une action d’ensemble
 sur les officiers et soldats à venir, dans les écoles militaires, et dans
 l’éducation, plutôt que par prosélytisme auprès des officiers actuels.  
 Ce n’est pas à dire que, parmi eux et dans tous les grades, il n’y ait pas des
-individualités gagnées à cette idée : nous en connaissons et beaucoup. Mais
+individualités gagnées à cette idée : nous en connaissons et beaucoup. Mais
 elles ne sont pas, tant s’en faut, la majorité et beaucoup d’ailleurs restent
 retenues par des habitudes, des timidités, mille liens qui les empêchent de
 frayer une voie nouvelle. Du reste, les hommes qui font partie d’une
 organisation ancienne, dont la transformation s’est accomplie pendant le cours
 de leur carrière, sont mal placés pour juger de la nature et de la portée de
 cette transformation. Parce qu’ils ont gardé le même habit, le même idiome, la
-même routine, il leur semble que rien n’ait changé : ils sont disposés à traiter
+même routine, il leur semble que rien n’ait changé : ils sont disposés à traiter
 de décadence ce qui est évolution, à comparer des choses qui ne sont pas
 comparables et à se placer, pour juger d’un présent qui contient des germes
 inconnus, au point de vue d’un passé irrémédiablement mort. – Prendre son parti
@@ -464,20 +464,20 @@ portera les générations nouvelles, qu’y a-t-il de plus rare et de plus diffi
 ?  
 Nous autres, anciens, nous sommes mal disposés à juger la nouvelle armée avec
 équité. L’ancienne, avec ses vieux cadres, sa longue durée de service, marchait
-pour ainsi dire toute seule : dans la nouvelle, l’instruction de la troupe si
+pour ainsi dire toute seule : dans la nouvelle, l’instruction de la troupe si
 rapidement menée, la tâche de l’officier forcé de suppléer des cadres
 insuffisants, se sont singulièrement compliquées et nous apportent un surcroît
 de peine, de fatigues et d’études qui ne nous porte pas à l’indulgence. Et puis,
 aux anciens, qu’on aille donc parler de ce rôle de l’officier plus grand en paix
-qu’en guerre : s’ils sont, voilà trente ans, entrés au service, c’était pour
+qu’en guerre : s’ils sont, voilà trente ans, entrés au service, c’était pour
 batailler ; le reste, c’est de la « littérature ». Il n’y a guère de ce côté que
 des coups de boutoir à recevoir et, mon Dieu, nous nous en consolerons, car ceux
 qu’il importe de convaincre, ce sont ceux-là surtout dont le grade comporte le
-contact direct et journalier avec le soldat, les capitaines, les lieutenants :
+contact direct et journalier avec le soldat, les capitaines, les lieutenants :
 les jeunes officiers d’aujourd’hui et plus encore les jeunes officiers de
 demain.
 
-C’est à ce point que nous en voulions venir : que c’est moins dans l’armée qu’il
+C’est à ce point que nous en voulions venir : que c’est moins dans l’armée qu’il
 faut agir qu’au seuil de l’armée, dans les écoles militaires, dans les écoles
 préparatoires, dans les collèges, dans l’éducation.  
 De ce côté, presque tout reste à faire. Dans les écoles militaires notamment, le
@@ -487,7 +487,7 @@ fait marcher, on le fait arrêter, on l’habille, on l’arme, on le plante sur
 cheval ; quant à son moral, s’il en est incidemment tenu compte, c’est à titre de
 facteur d’erreurs probables dans l’emploi des instruments. Tout est au métier,
 au côté technique, à la science. C’est dans cet ordre d’idées que sont choisis
-généralement les officiers instructeurs : on consulte leurs numéros de sortie,
+généralement les officiers instructeurs : on consulte leurs numéros de sortie,
 leurs notes professionnelles, lorsqu’on ne se contente pas de leurs convenances
 personnelles ; quant à leur aptitude à développer, chez la jeunesse qui va leur
 être confiée, les plus nobles qualités du chef, c’est ce qu’on examine en
@@ -505,7 +505,7 @@ d’abord sur le personnel des écoles, dont le choix devrait s’inspirer d’u
 esprit tout nouveau. Aux officiers qu’on y appelle, qu’il soit demandé, avant
 tout, d’être des convaincus et des persuasifs, osons dire le mot, des apôtres
 doués au plus haut point de la faculté d’allumer le « feu sacré » dans les
-jeunes âmes : ces âmes de vingt ans prêtes pour les impressions profondes,
+jeunes âmes : ces âmes de vingt ans prêtes pour les impressions profondes,
 qu’une étincelle peut enflammer pour la vie, mais qu’aussi le scepticisme des
 premiers chefs rencontrés peut refroidir pour jamais. C’est, dans l’armée, un
 fait constaté que l’officier garde toute sa vie l’empreinte ineffaçable de ses
@@ -513,7 +513,7 @@ premiers instructeurs de l’école, et qu’on reconnaît à travers les grades
 générations formées par tel ou tel.  
 Et si, des instructeurs subalternes, on remonte aux chefs des grandes écoles
 militaires, combien leur choix ne doit-il pas davantage s’inspirer de cet
-esprit! Mais les choisir ne suffit pas : la condition première de l’efficacité
+esprit! Mais les choisir ne suffit pas : la condition première de l’efficacité
 de leur action, toute d’expérience et de durée, est de donner à leurs fonctions
 une stabilité qu’elles n’ont pas. Les déplacements auxquels ils sont soumis
 résultent, le plus souvent, de l’avancement que comporte leur mérite. Pour- quoi
@@ -536,7 +536,7 @@ serait-elle pas facilitée si, dès avant l’entrée au service, hors de l’ar
 l’idée de la mission sociale de l’officier avait été déposée en germe dans
 l’éducation !  
 Et nous voici revenus à notre point de départ. Nous invoquions le témoignage des
-plus éminents parmi ceux qui ont l’oreille de la jeunesse : c’est à eux que nous
+plus éminents parmi ceux qui ont l’oreille de la jeunesse : c’est à eux que nous
 faisons appel, et à tous ceux qui, à leur exemple, au lieu de s’attarder en des
 regrets stériles, ont l’œil largement ouvert sur l’avenir et cherchent, chacun
 suivant son esprit propre, à en interpréter les inéluctables nécessités ; à tous
@@ -552,7 +552,7 @@ service universel, l’essentiel est de tirer de ce mal le plus grand bien
 possible.  
 Aux officiers de demain, dites que, s’ils ont placé leur idéal dans une carrière
 de guerres et d’aventures, ce n’est pas chez nous qu’il faut le poursuivre ; ils
-ne l’y trouveront plus : arrachez-leur cette illusion avant les déceptions
+ne l’y trouveront plus : arrachez-leur cette illusion avant les déceptions
 tardives. Mais donnez-leur cette conception féconde du rôle moderne de
 l’officier devenu l’éducateur de la nation entière.  
 Aux autres, aux privilégiés, aux cultivés de tout ordre, voués à d’autres
@@ -591,7 +591,7 @@ la lettre de la profession des armes, si facilement et si rapidement apprise et,
 partant, si inutile à enseigner d’avance, et l’esprit de cette profession, tel
 que nous voudrions avoir réussi à le faire entendre. – Cette distinction, M.
 J.-J. Weiss, visitant il y a quelques années une école de cadets allemande,
-l’avait bien justement observée : « Ce qui est l’objet propre de l’école,
+l’avait bien justement observée : « Ce qui est l’objet propre de l’école,
 remarquait-il ^[J.-J. WEISS. – _Au Pays du Rhin_, p. 189 (Charpenlier, 1886)],
 ce n’est pas, comme on pourrait le croire, d’enseigner aux cadets la technique,
 même simplement rudimentaire du métier de soldat, c’est de bien pénétrer
@@ -621,7 +621,7 @@ circonstances où l’on parle de haut à la jeunesse assemblée, aux solennité
 scolaires, dans les institutions de l’État comme dans les établissements libres,
 recueillir l’écho de ces idées, entendre proclamer la portée, jusqu’ici
 insuffisamment comprise, du grand fait nouveau qui étend son ombre inquiétante
-sur la jeunesse de vingt ans : le service universel.  
+sur la jeunesse de vingt ans : le service universel.  
 Nous voudrions que les voix les plus hautes, à la Sorbonne, à l’École normale,
 fissent entendre les paroles fécondes qui, se répandant à travers le corps
 enseignant jusqu’au plus humble maître d’école, porteraient partout cette
@@ -636,7 +636,7 @@ formules, le même sentiment des devoirs sociaux imposés par une culture
 privilégiée ?  
 
 Nous le croyons fermement. Puissions-nous faire partager cette conviction aux
-lecteurs de cette modeste étude qui se ramène, en somme, à quelques traits :  
+lecteurs de cette modeste étude qui se ramène, en somme, à quelques traits :  
 Le service obligatoire, strictement appliqué en faisant passer toute la nation
 par les mains de l’officier, a grandi dans la mesure la plus large son rôle
 d’éducateur.  

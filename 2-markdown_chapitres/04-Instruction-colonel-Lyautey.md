@@ -53,26 +53,26 @@ _Service en campagne_. – Le service en campagne fera l’objet d’observation
 ultérieures. Je me borne à rappeler ici les quelques principes directeurs dans
 lesquels il se résume pour les gradés inférieurs et les cavaliers.
 
-_Principes directeurs : Élasticité et variabilité_.  
-_Seuls guides : Le terrain et les circonstances_.
+_Principes directeurs : Élasticité et variabilité_.  
+_Seuls guides : Le terrain et les circonstances_.
 
 Pour la troupe, le service en campagne se ramène à l’étude de la patrouille,
 _soit en marche, soit arrêtée_.  
-Tout gradé est avant tout : chef de patrouille.  
-Tout cavalier est avant tout : patrouilleur en marche (éclaireur); patrouilleur
+Tout gradé est avant tout : chef de patrouille.  
+Tout cavalier est avant tout : patrouilleur en marche (éclaireur); patrouilleur
 arrêté (vedette); intermédiaire de patrouille (jalonneur ou estafette).  
-La pratique se réduit, pour le chef comme pour le cavalier, à trois termes :
+La pratique se réduit, pour le chef comme pour le cavalier, à trois termes :
 _marcher_, _voir_, _renseigner_.
 
 C’est dans cet ordre successif qu’il faut les étudier et les enseigner.
 
-1. _Marcher_, qui comprend : savoir suivre un itinéraire avec ou sans carte,
+1. _Marcher_, qui comprend : savoir suivre un itinéraire avec ou sans carte,
 s’orienter, régler son allure, ménager les forces de son cheval, se garder,
 disposer judicieusement sa troupe. 
-2. _Voir_, qui comprend : choisir les points d’observation, savoir s’y placer,
+2. _Voir_, qui comprend : choisir les points d’observation, savoir s’y placer,
 voir le plus rapidement le terrain, connaître les indices, apprécier les
 distances, évaluer l’ennemi.
-3. _Renseigner_, qui comprend : faire des rapports verbaux ou écrits, les faire
+3. _Renseigner_, qui comprend : faire des rapports verbaux ou écrits, les faire
 parvenir.
 
 Ce dernier terme est le plus important de tous, puisque le cavalier en campagne
@@ -90,7 +90,7 @@ avec une ampleur dont nous ne devons pas nous plaindre, puisqu’au lieu de
 restreindre l’action de la cavalerie en campagne aux rares circonstances où
 elle peut charger, elle lui donne une efficacité offensive de tous les jours.  
 Ce rôle était du reste déjà tracé en quelques lignes par l’article 557 du
-Règlement que je rappelle ici :
+Règlement que je rappelle ici :
 
 > Dans certaines circonstances, le combat à pied peut être employé contre une
   colonne d’infanterie en marche.
@@ -102,7 +102,7 @@ Lorsque les tirailleurs ont obligé l’adversaire à répondre à leur attaque,
 rompent le combat et remontent rapidement à cheval, pour renouveler s’il y a
 lieu, cette opération sur un autre point.
 
-Il y a dans ces lignes deux idées qu’il faut avoir constamment présentes :
+Il y a dans ces lignes deux idées qu’il faut avoir constamment présentes :
 celles de la _surprise_, qui, seule, compense l’infériorité relative du tir de
 la cavalerie et la faiblesse des effectifs qu’elle peut généralement mettre en
 ligne, et celle du _tir à grande distance_, seule conciliable avec l’obligation
@@ -208,7 +208,7 @@ dans l’instruction individuelle que dans l’instruction d’ensemble, on acti
 certainement les résultats de l’instruction, parce qu’on répondra ainsi au
 _besoin de comprendre_, caractéristique de notre troupier, qui est le moins
 passif et le moins machinal du monde, et c’est une faute impardonnable de ne
-pas chercher à tirer parti de sa valeur individuelle. Selon un mot si juste :
+pas chercher à tirer parti de sa valeur individuelle. Selon un mot si juste :
 « Le soldat français veut toujours comprendre sa manœuvre ».  
 
 Tout doit tendre à combattre le machinalisme. Dans le même ordre d’idées, tout
