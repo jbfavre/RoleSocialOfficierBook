@@ -17,31 +17,37 @@
       </navLabel>
       <content src="title_page.xhtml" />
     </navPoint>
-    </navPoint>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
-        <text>Du rôle social de l’officier dans le service militaire universel</text>
+        <text>Du rôle social de l’officier et autres textes de Lyautey</text>
       </navLabel>
-      <content src="ch002.xhtml" />
-    </navPoint>
-    <navPoint id="navPoint-2" playOrder="2">
-      <navLabel>
-        <text>Du rôle colonial de l’armée</text>
-      </navLabel>
-      <content src="ch003.xhtml" />
-    </navPoint>
-    <navPoint id="navPoint-3" playOrder="3">
-      <navLabel>
-        <text>Causerie du capitaine Lyautey aux cadres du 1er escadron du 4ème
+      <content src="ch001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Du rôle social de l’officier dans le service militaire universel</text>
+        </navLabel>
+        <content src="ch002.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Du rôle colonial de l’armée</text>
+        </navLabel>
+        <content src="ch003.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Causerie du capitaine Lyautey aux cadres du 1er escadron du 4ème
 Chasseurs</text>
-      </navLabel>
-      <content src="ch004.xhtml" />
-    </navPoint>
-    <navPoint id="navPoint-4" playOrder="4">
-      <navLabel>
-        <text>Instruction du colonel Lyautey aux officiers du 14ème Hussards</text>
-      </navLabel>
-      <content src="ch005.xhtml" />
+        </navLabel>
+        <content src="ch004.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Instruction du colonel Lyautey aux officiers du 14ème Hussards</text>
+        </navLabel>
+        <content src="ch005.xhtml" />
+      </navPoint>
     </navPoint>
   </navMap>
 </ncx>
