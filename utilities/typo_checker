@@ -51,11 +51,13 @@ function check_typo() {
   fi
 }
 
+FIXTRIGGER=0
 while getopts ":f" opt;
 do
   case $opt in
     f)
       echo "Fix option has been triggered" >&2
+      FIXTRIGGER=1
       ;;
     \?)
       echo "Invalid option -${OPTARG}" >&2
@@ -83,5 +85,27 @@ do
     echo $(check_typo ":" "before" "nbs")
     echo $(check_typo '"' "before" "none")
  fi
+ [ ${FIXTRIGGER} -eq 1 ] && fix_spaces
 done
-#egrep -n "[   ]{2,}" ../2-markdown_chapitres/*.md |grep -v "  "
+
+function fix_spaces() {
+
+  egrep -q '[   ]{0,};' ${FILE} && \
+    sed -i 's/[   ]\{0,\};/ ;/g' ${FILE}
+
+  egrep '[   ]{0,}\?' ${FILE} && \
+    sed -i 's/[   ]\{0,\}?/ ?/g' ${FILE}
+
+  egrep '[   ]{0,}!' ${FILE} && \
+    sed -i 's/[   ]\{0,\}!/ !/g' ${FILE}
+
+  egrep '«[   ]{0,}' ${FILE} && \
+    sed -i 's/«[   ]\{0,\}/« /g' ${FILE}
+
+  egrep '[   ]{0,}»' ${FILE} && \
+    sed -i 's/[   ]\{0,\}»/ »/g' ${FILE}
+
+  egrep '[   ]{0,}:' ${FILE} && \
+    sed -i 's/[   ]\{0,\}:/ :/g' ${FILE}
+
+}
