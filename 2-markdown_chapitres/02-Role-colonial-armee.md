@@ -37,31 +37,31 @@ raison qu’il n’y a pas deux manières (j’entends bonnes) d’exercer le
 commandement colonial : il y en a une ; et celle-là exige des qualités qui sont
 à la fois militaires et civiles, – ou, plus exactement, administratives.
 
-Quelles sont donc les qualités caractéristiques du _chef_ militaire ?
+Quelles sont donc les qualités caractéristiques du _chef_ militaire ?
 
 Est-ce seulement de savoir commander l’exercice et de connaître la lettre des
-règlements ? Ou bien est-ce le don naturel du commandement, la décision,
+règlements ? Ou bien est-ce le don naturel du commandement, la décision,
 l’activité communicative, la promptitude du coup d’œil, le sang-froid dans le
-péril ? Et, si elles sont telles, ne sont elles pas nécessaires au chef
-colonial civil aussi bien qu’au militaire ?  
+péril ? Et, si elles sont telles, ne sont elles pas nécessaires au chef
+colonial civil aussi bien qu’au militaire ?  
 Et quelles sont les qualités qui doivent distinguer entre toutes
-l’administrateur colonial ?  
+l’administrateur colonial ?  
 Est-ce seulement la connaissance méticuleuse des décrets et circulaires, le
 souci scrupuleux de leur stricte application, est-ce le fétichisme du _tchin_,
-qui existe ailleurs qu’en Russie, l’état d’âme « fonctionnaire », en un mot ?
+qui existe ailleurs qu’en Russie, l’état d’âme « fonctionnaire », en un mot ?
 Ou bien est-ce l’initiative, la soif des responsabilités, l’appel constant au
 bon sens, la passion du mieux, l’interprétation la plus large, la plus libérale
-des règlements et la volonté d’en subordonner la lettre à l’esprit ? Et
+des règlements et la volonté d’en subordonner la lettre à l’esprit ? Et
 dira-t-on que de telles qualités sont moins nécessaires au chef militaire qu’au
-chef civil ?  
+chef civil ?  
 Est-ce que tout colonial administrateur ou colon, ne fait pas œuvre de
-militaire ? Se prémunir contre les revirements toujours possibles chez des
+militaire ? Se prémunir contre les revirements toujours possibles chez des
 populations contenues par une poignée d’Européens, commander ses milices, ses
-engagés indigènes, n’est-ce pas faire acte de soldat ?  
+engagés indigènes, n’est-ce pas faire acte de soldat ?  
 Et le soldat qui organise le pays à mesure qu’il le conquiert, n’est-il pas un
-administrateur ?  
+administrateur ?  
 Sont-ce des civils ou des militaires, ces colons, ces agriculteurs qui, dans
-l’Afrique du Sud, en ce moment même, gagnent des batailles rangées ?  
+l’Afrique du Sud, en ce moment même, gagnent des batailles rangées ?  
 Vainement on cherche la démarcation. La vérité, c’est que la vie du dehors, la
 mise aux prises constante avec la misère, les obstacles, les périls, la lutte
 quotidienne contre les hommes et les éléments plongent dans la même trempe tous
@@ -267,14 +267,14 @@ prenant une bien autre portée, ne s’applique plus seulement à des actions de
 détail, mais peut s’appliquer à toute guerre de conquête coloniale. « Une
 expédition coloniale devrait toujours être dirigée par le chef désigné pour
 être le premier administrateur du pays après la conquête ».  
-Oh ! c’est qu’alors la route qu’on poursuit, le pays qu’on traverse vous
-apparaissent sous un tout autre angle !  
+Oh ! c’est qu’alors la route qu’on poursuit, le pays qu’on traverse vous
+apparaissent sous un tout autre angle !  
 Qu’on excuse ici un souvenir personnel. Dans une de mes premières expéditions,
 étant au bivouac sur la rivière Claire, j’appris qu’un des jeunes officiers
 présents avait débuté sous l’un des chefs qui avaient laissé au Tonkin la trace
 la plus profonde, le colonel P…, et dans mon zèle de débutant, je ne voulais
 pas laisser échapper cette occasion d’apprendre quelque chose sur sa méthode et
-sur son œuvre. « Oh ! me fut-il répondu, le colonel P…, j’ai marché avec lui.
+sur son œuvre. « Oh ! me fut-il répondu, le colonel P…, j’ai marché avec lui.
 Au combat, il se préoccupait bien moins de l’enlèvement du repaire que du
 marché qu’il y établirait le lendemain ». Sans le vouloir, ce jeune homme, qui
 croyait faire une critique, avait trouvé la formule de la guerre coloniale,
@@ -296,9 +296,9 @@ Et cela va du grand au petit.
 
 Croit-on que lorsque chaque soldat sait que le village qu’il aborde sera celui
 qui va devenir sa garnison pendant des mois ou des années, il le brûle
-volontiers ? que ses rizières le nourriront, il les détruise ? que ses animaux
-seuls lui donneront sa viande, il les gaspille ? que ses habitants seront ses
-aides, ses collaborateurs de demain, il les maltraite ? Non. Du reste, les
+volontiers ? que ses rizières le nourriront, il les détruise ? que ses animaux
+seuls lui donneront sa viande, il les gaspille ? que ses habitants seront ses
+aides, ses collaborateurs de demain, il les maltraite ? Non. Du reste, les
 traits généraux de cette politique ont été magistralement exposés dans les
 instructions fondamentales du général Galliéni, en date du 22 mai 1898 :  
 
@@ -409,7 +409,7 @@ dispersé par un, par deux, parmi les villages malgaches, le paysan de France,
 l’ouvrier de France, avec tout ce que ces mots comportent de qualités d’ordre,
 de prévoyance, d’ingéniosité et aussi d’endurance, de cordialité, de belle
 humeur.  
-Ah ! cette idée audacieuse de la dispersion de nos hommes à travers les
+Ah ! cette idée audacieuse de la dispersion de nos hommes à travers les
 populations indigènes, tolérée, que dis-je préconisée, ordonnée par le général
 Galliéni, que n’en avons-nous pas entendu dire par les gardiens des rites
 sacrés!
@@ -479,7 +479,7 @@ la faciliter, on est en droit de prévoir, sur ce plateau central si sain de
 Madagascar, la formation d’une race de petits colons de bon sang français,
 trempés, habitués à peu, tenant à ce sol qu’ils auront, mis en œuvre, ayant
 gardé l’habitude héréditaire du fusil. Et, qui sait, ce sont peut-être des
-Bœrs français que l’on préparerait ainsi !
+Bœrs français que l’on préparerait ainsi !
 
 Nous n’avons envisagé jusqu’ici que l’emploi colonial des troupes européennes.
 Sans remplir le même rôle, certaines troupes indigènes peuvent être, elles
@@ -511,7 +511,7 @@ On s’élève souvent contre la charge onéreuse que présente pour la métropo
 l’entretien des corps d’occupation. On admet d’ailleurs que le moment ne semble
 pas précisément favorable à leur réduction. L’utilisation coloniale de ces
 corps ne donne-telle pas le meilleur moyen de ne pas les laisser à l’état de
-force improductive ?  
+force improductive ?  
 Il est facile de se rendre compte de l’économie que représente, pour les
 budgets coloniaux ou métropolitains, un tel emploi de nos soldats s’il est
 partout compris et pratiqué. À Madagascar, une centaine d’écoles où les petits
@@ -563,7 +563,7 @@ sa vie sévère loin des choses familières et aimées, et sa belle humeur :
   hommes, la reconstitution de ces rizières à peine reprises à la piraterie,
   mes briqueteries, mes constructions, mon marché, mes règlements de,comptes
   avec le poste chinois d’en face, la topographie de la région, mes journées
-  sont trop courtes !
+  sont trop courtes !
 
 Un an après, presque jour pour jour, sur la haute rivière Claire, dans les
 grands combats livrés par le colonel Vallière, et si heureusement terminés,
@@ -571,7 +571,7 @@ contre la grande piraterie chinoise, il tombait, frappé en plein cœur, debout
 derrière sa ligne de tirailleurs déployés, en commandant le dernier feu de
 salve de la journée, après avoir combattu tout le jour.
 
-S’était-il démilitarisé, celui-là ?
+S’était-il démilitarisé, celui-là ?
 
 Ses compagnons l’ont enseveli dans un grand drapeau tricolore sous les plis
 duquel il dort là-bas, sur la frontière de Chine. J’ai revu sa tombe quelques
@@ -582,10 +582,10 @@ ainsi comprise, c’est qu’elle seule fait de la vie.
 Et si, des humbles, je passe à ceux qui sont déjà, tout vivants, entrés dans la
 légende, était-il démilitarisé par trois années de brousse le jeune chef qui,
 de l’Oubanghi au Haut Nil, obtenait de ses officiers, de sa troupe, les
-prodiges d’énergie presque surhumaine que chacun sait ? Avait-il, loin du
+prodiges d’énergie presque surhumaine que chacun sait ? Avait-il, loin du
 contact des écoles, perdu un atome de sa prudence, de son jugement, l’homme qui
 savait dire au sirdar égyptien les paroles mesurées et fermes dont notre
-patriotisme vibre encore ?  
+patriotisme vibre encore ?  
 Il y a dix ans, descendant le Bas-Danube jusqu’à son embouchure, je rencontrai
 à Soulina sir Charles Hartley, le grand ingénieur qu’en 1856 la commission de
 navigation du Danube avait appelé, tout jeune, à rendre à la navigation le
@@ -604,10 +604,10 @@ Je ne pensais guère alors que, plus tard, je verrais, vivant de leur vie, des
 chefs coloniaux pétrir de leurs mains créatrices des terres en friche pour en
 faire des rizières, des vallées endormies pour en faire des artères de vie,
 donner le coup de baguette qui met en œuvre un coin du vaste champ offert à
-l’activité de l’homme. Quelle plus noble tâche pour l’homme d’action ? Celui
-qui a trempé ses lèvres à cette coupe en garde à jamais le goût ! Quel plus
+l’activité de l’homme. Quelle plus noble tâche pour l’homme d’action ? Celui
+qui a trempé ses lèvres à cette coupe en garde à jamais le goût ! Quel plus
 noble emploi pour la force armée, avec celui de défendre le sol natal, que de
-préparer, d’assurer et de développer de telles conquêtes ?
+préparer, d’assurer et de développer de telles conquêtes ?
 
 ## 3
 
@@ -660,14 +660,14 @@ dans la métropole. Soit! Mais alors pourquoi ne pas introduire dans l’armée
 coloniale, comme il a lieu pour les fonctionnaires civils, le droit au congé
 administratif pendant lequel on reste titulaire de son poste, où l’on est
 assuré de retourner, après s’être revivifié à l’air de France, après aussi y
-avoir mis à profit son séjour pour le bien de sa circonscription ? Combien
+avoir mis à profit son séjour pour le bien de sa circonscription ? Combien
 sais-je d’officiers, aujourd’hui en France, qui ne demandent qu’à rallier leur
 ancien poste et ne se consolent pas à l’idée que ce n’est pas eux qui voient
-pousser, leurs pépinières, leurs rizières, leurs maisons ? Ils ont le _mal du
-pays à rebours_. Est-ce là un facteur négligeable ?  
+pousser, leurs pépinières, leurs rizières, leurs maisons ? Ils ont le _mal du
+pays à rebours_. Est-ce là un facteur négligeable ?  
 On s’étonne parfois qu’il n’y ait pas un plus grand nombre d’officiers qui
 étudient les langues coloniales. Est-ce donc encourageant d’apprendre le
-malgache, si l’on ne doit plus l’utiliser qu’avec des Chinois ? Ce qui est au
+malgache, si l’on ne doit plus l’utiliser qu’avec des Chinois ? Ce qui est au
 contraire surprenant, c’est que, dans ces conditions, autant d’officiers encore
 prennent encore à cœur l’étude de ces langues et, d’ailleurs, d’une manière
 générale, qu’autant d’entre eux se donnent comme ils le font, à plein collier,
@@ -728,7 +728,7 @@ l’hommage ici rendu à ce bon et loyal ouvrier.
 Eh bien, croit-on que non seulement le résultat n’ait été plus fécond, mais
 encore qu’il n’ait pas fallu plus de fermeté et de courage, au sens propre du
 terme, pour faire une telle besogne que pour se donner le facile mérite
-d’enlever d’assaut ce village sakalave ?  
+d’enlever d’assaut ce village sakalave ?  
 Ce qu’il faut souhaiter, c’est que de tels actes puissent être qualifiés
 _actions d’éclat_ dans l’armée coloniale de demain.
 
@@ -754,12 +754,12 @@ croissante du Français _individu_. Quels que soient les obstacles apportés à
 chaque pas à son développement et à son initiative, il est toujours là. Chez
 tous, colons, administrateurs, soldats, missionnaires, c’est la même endurance,
 le même ressort, le même rebondissement sous la mauvaise fortune, la même belle
-humeur. Ah ! la belle pâte d’hommes !  
+humeur. Ah ! la belle pâte d’hommes !  
 À l’un des derniers repas officiels que nous fîmes à Madagascar, un consul
 étranger, notre voisin, nous demanda de qui était le charmant dessin qui
 illustrait notre « menu ». « C’est l’œuvre d’un sous-officier. Ils font donc
-tout, vos sous-officiers ? Je les ai vus contremaîtres, instituteurs,
-agronomes, guerriers, ils sont donc bons à tout ! »  
+tout, vos sous-officiers ? Je les ai vus contremaîtres, instituteurs,
+agronomes, guerriers, ils sont donc bons à tout ! »  
 Oui, ils sont bons à tout et tous les autres aussi, soldats, colons, qui
 portent par le monde les inépuisables ressources de notre race. Attachés à
 l’œuvre locale, dégagés des mauvais bruits de la métropole, exaltés par le

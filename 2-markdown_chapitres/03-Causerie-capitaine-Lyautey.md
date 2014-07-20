@@ -11,7 +11,7 @@ Tout ce que nous demandons à nos hommes est simple. Les exercices ne sont qu’
 jeu pour des gars de vingt ans ; il faut les amuser au lieu de les embêter,
 leur en faire voir le côté à la rigolade et le but : supposez que ce soit au
 village qu’on organise comme jeux, boxe, voltige, gymnastique, assouplissements
-à cheval, c’est à celui qui s’en donnera le plus, alors pourquoi pas de même ?  
+à cheval, c’est à celui qui s’en donnera le plus, alors pourquoi pas de même ?  
 La grosse question c’est que l’instructeur ne soit pas empaillé mais bon
 enfant.  
 De même pour les notions intellectuelles, les définitions, les soi-disant
@@ -84,7 +84,7 @@ _Le galop, c’est le but_. – N’attendez pas pour l’enseigner, comme une
 sanction, un summum, comme ce quelque chose d’anormal qu’est le galop pour les
 neuf dixièmes des cavaliers français.  
 Ce ne sera plus cette allure exceptionnelle, affolée, ahurie, cramponnée, mais
-ce sera usuel, léger, gai, descendu ; le temps de galop ? mais que ce soit, dès
+ce sera usuel, léger, gai, descendu ; le temps de galop ? mais que ce soit, dès
 le premier jour, le plaisir, le côté « rigolade » du travail, et le saut aussi
 ! Avec vos hommes désossés par une voltige préliminaire, endiablée, et par
 conséquent assis à cheval et sentant jouer l’articulation du rein, vous pourrez
@@ -107,7 +107,7 @@ moindre émotion. Le moindre changement d’instructeur, de local, arrête net l
 robinet.  Que reste-t-il, au nom du ciel, de ces chapelets de mots techniques,
 de ces milliers dont ils ne savaient pas un la veille, qu’on leur ingurgite
 d’habitude dans des séances de chambre odieuses, endormantes, sur un ton
-d’école primaire ? Il n’y a qu’à les voir à l’examen du colonel ou du capitaine
+d’école primaire ? Il n’y a qu’à les voir à l’examen du colonel ou du capitaine
 arriver hypnotisés, prendre un point fixe au plafond (une attitude chez le
 photographe) et expectorer tout d’un jet des qu’on touche le bouton : « Le
 sabre se divise en trois parties, le cheval se divise en trois parties… et ta
@@ -128,7 +128,7 @@ les gardes municipaux… la lumière électrique. Supposez encore que vous êtes
 revenu au pays et qu’un jour où passe un régiment, vous qui y avez été, vous
 expliquez aux vieux et aux jeunes un sabre, un harnachement, les trucs, la
 raison de chaque fourbi, vous ne leur bredouillerez pas « La carabine se divise
-en trois parties », n’est-ce pas ?
+en trois parties », n’est-ce pas ?
 
 Eh bien, pour Dieu, faites la même chose, parlez leur pour qu’ils _comprennent_
 et retiennent. Ce petit machin en fer, c’est pour guider l’œil sur le point
@@ -136,7 +136,7 @@ qu’on veut frapper, aussi l’appelle-t-on le _guidon_. Plus on veut atteindre
 loin, plus il faut jeter la balle en l’air, comme une pierre; il faut hausser
 l’arme pour cela, et, selon la distance, voilà une machine qui calcule combien
 il faut hausser, c’est la _hausse_… et ainsi de tout. Un cheval échappé passe
-: « De quelle couleur est-il ? Alezan, pas jaune, imbécile ! » et il le
+: « De quelle couleur est-il ? Alezan, pas jaune, imbécile ! » et il le
 retient, tandis que lorsqu’on lui a appris les cinquante espèces de robe et
 leur variété, que j’ignore honteusement et dont quarante-sept n’ont pas de
 spécimen au régiment, il n’est pas capable de vous dire de laquelle est son
@@ -153,11 +153,11 @@ six mois ils ne savent rien.
 1. D’abord, l’esprit militaire, les noms et les grades, les marques de respect;
 _leur en faire comprendre l’esprit_ et alors ils écouteront spontanément,
 virilement, toujours et non pas comme une formalité assommante.  
-Que voit-on ? L’officier coudoie l’homme, celui-ci fait effort pour se souvenir
+Que voit-on ? L’officier coudoie l’homme, celui-ci fait effort pour se souvenir
 qu’il a déférence à témoigner, et si l’officier lui parle, alors seulement il
 tombe en arrêt, bredouille, se _tend_ et répond à côté. Il n’a pas confiance et
 n’a pas compris.  
-Que devrait-on voir ? L’officier passe, on a inculqué un prestige tel que
+Que devrait-on voir ? L’officier passe, on a inculqué un prestige tel que
 l’homme tombe en arrêt, fixé. L’officier parle, comme l’homme a confiance et
 n’a pas été abruti, il se _détend_, se dépétrifie et répond naturellement.
 Juste l’inverse.  
@@ -178,7 +178,7 @@ pas être capables de dire l’ordre des opérations du pansage, parce qu’au l
 de raconter simplement ce qu’ils font, ils cherchaient à se rappeler cette
 malheureuse page de théorie, en un mot, de l’abstraction, cette opération
 presque impossible pour des cerveaux frustes.  
-On m’a souvent répondu : « Pourvu qu’ils sachent le faire ! » C’est une erreur.
+On m’a souvent répondu : « Pourvu qu’ils sachent le faire ! » C’est une erreur.
 Tout cavalier léger doit devenir non seulement un homme de rang mais un
 éclaireur, un patrouilleur, c’est-à-dire un _rendeur comptes_. Il n’est pas
 d’arme où il soit plus essentiel de rompre l’homme à se rendre compte et à

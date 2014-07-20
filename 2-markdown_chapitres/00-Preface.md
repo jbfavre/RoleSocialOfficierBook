@@ -12,7 +12,7 @@ portrait « L’épée au côté, la main posée sur un livre », il envie c
 capitaine. Un beau guerrier, songe-t-il, mais sans doute éclairé et instruit, et
 qui, sûrement, employait ses loisirs, entre deux combats, à deviser des affaires
 de la République. À tout instant, sous sa plume, reviennent les phrases qui
-témoignent de sa hantise ; rapprocher les êtres, les unir au sein de la société.  
+témoignent de sa hantise ; rapprocher les êtres, les unir au sein de la société.  
 À Saint-Germain, le contact avec la troupe, les responsabilités du commandement
 réveillent et affermissent sa conviction : l’officier a une autre mission à
 remplir que celle d’enseigner le tir et l’équitation à des hommes dont il ignore
@@ -41,8 +41,8 @@ cavalerie Hubert Lyautey, « le sabre au côté et la main posée sur un livre
 C’est déjà le Lyautey avide d’action et tout frémissant d’idées et d’espoirs
 généreux que je devais rencontrer plus tard au Maroc – mais un Lyautey encore au
 stade des virtualités et en quête de son destin.  
-Les directives données par Lyautey ont-elles été suivies ? Ont-elles conservé
-leur valeur ? Quels résultats, quels fruits ont-elles donnés  ? Telle est la
+Les directives données par Lyautey ont-elles été suivies ? Ont-elles conservé
+leur valeur ? Quels résultats, quels fruits ont-elles donnés ? Telle est la
 question qui viendra sans doute à l’esprit du lecteur de l’ouvrage, que de
 pieuses mains viennent de replacer sous ses yeux.
 
@@ -85,7 +85,7 @@ manqué au rendez-vous sur les champs de bataille, preuve qu’elles n’étaien
 point absentes au quartier ou à la caserne.  
 De purs visages, un Péguy, un Ernest Psichari, un Guynemer, tant de jeunes
 existences fauchées une chanson aux lèvres, un cher espoir au cœur, une grande
-idée en tête ; des gens venus de tous les horizons, rapprochés par la misère et
+idée en tête ; des gens venus de tous les horizons, rapprochés par la misère et
 la gloire dans une camaraderie totale, plus sainte que bien des amitiés, voilà
 le bilan de cet esprit de compréhension tolérante qui fut la parure de notre
 armée, durant les longs jours d’épreuve comme au soir de la victoire.
@@ -121,7 +121,7 @@ réflexes, il a sondé son cœur, éprouvé ses nerfs, lu dans ses yeux. Le rés
 du combat, souvent bref comme l’éclair, parfois étiré au long de jours et de
 nuits interminables, est au prix de la résistance de chacun et de tous,
 résistance au choc, résistance à la faim, à la soif, au sommeil, résistance à la
-promiscuité où se dissolvent tant de courages. Malheur à l’homme seul ! Et
+promiscuité où se dissolvent tant de courages. Malheur à l’homme seul ! Et
 malheur, par conséquent, au chef qui, avant la bagarre, aura omis de se pencher
 longuement, affectueusement, sur le moral de sa troupe.
 
@@ -167,7 +167,7 @@ Devant de tels dangers, parades et ripostes seront fonction des martingales plus
 ou moins connues de l’ennemi et des armes que nous aurons forgées. D’où un
 effort constant de recherche et de mise en condition de façon à pouvoir
 disposer, le moment venu, de l’instrument militaire le plus adéquat.  
-Cette armée future sera-t-elle « de métier » ou « populaire »  ? Ce sont là, en
+Cette armée future sera-t-elle « de métier » ou « populaire » ? Ce sont là, en
 vérité, des expressions qui ont perdu tout leur sens après la douloureuse
 épreuve que nous venons de subir. Quand la guerre revêt les aspects que nous lui
 avons connus et qu’elle devient réellement totale en faisant le plein des
@@ -255,7 +255,7 @@ de la mission, d’intérêt général celle-là, que leur assignait Lyautey : 
 l’état de guerre haineuse et violente qui sépare stérilement les enfants du même
 sol, de parti à parti, de classe à classe, substituer la recherche pacifique et
 féconde des problèmes posés par la révolution économique et industrielle de ce
-temps ; marcher ; non plus la revendication ou la répression au poing, mais la
+temps ; marcher ; non plus la revendication ou la répression au poing, mais la
 main dans la main, dans la large voie du progrès social… Question non pas
 vieille comme le monde*, ajoutait-il, *mais posée d’hier, dans son acuité* ».
 
@@ -276,7 +276,7 @@ principe.
 Tous les malentendus, toutes les contradictions de notre époque paradoxale, il
 les a conçus, avant que ne les aient circonscrits bien des économistes
 professionnels qu’il côtoyait dans le monde. N’a-t-il pas, le premier, procédé à
-certaine nationalisation qu’il jugeait indispensable  ? Il avait prévu que les
+certaine nationalisation qu’il jugeait indispensable ? Il avait prévu que les
 progrès démesurés de la science auraient pour conséquence une augmentation
 illimitée de la production, que le régime qui s’éteint serait incapable
 d’organiser une juste répartition de ces richesses fabuleuses. Il savait que des
@@ -298,7 +298,7 @@ reste, que des temps troublés peuvent survenir où il est plus difficile de
 connaître son devoir que de le suivre. Comment alors mêler l’officier aux
 conflits d’idées qui opposent dans une démocratie les citoyens les uns aux
 autres sans risquer de diviser l’armée elle-même aux heures des grandes
-décisions  ?  
+décisions ?  
 Lyautey connaissait le danger et en avait pris son parti. Sans doute, s’il avait
 vécu, aurait-il encore renforcé sa manière de voir. Les notes qu’il a prises au
 cours de ses dernières années le prouvent.  Quels que soient les obstacles à
