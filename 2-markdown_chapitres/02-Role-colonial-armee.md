@@ -22,7 +22,7 @@ Or, il ne nous semble pas que la question se pose sous la forme d’un dilemme.
 
 Il est du reste à remarquer que la discussion en arrive très vite à des
 questions de personnes, chacun tirant argument à l’appui de sa thèse du
-gouverneur X… ou du gouverneur Y…; et ainsi, sans le vouloir, adversaires
+gouverneur X… ou du gouverneur Y… ; et ainsi, sans le vouloir, adversaires
 et partisans de chacun des deux systèmes apportent leur témoignage à la formule
 de notre choix. Et, en effet, c’est qu’aux colonies, c’est bien moins la
 question de l’étiquette du régime qui importe que celle des « hommes ». C’est
@@ -115,7 +115,7 @@ Le système repose sur trois organes essentiels : le _territoire_, le _cercle_,
 le _secteur_.  
 Il présente une différence fondamentale avec notre ancien organisme
 d’administration par les militaires, les bureaux arabes, – auxquels il fait
-d’ailleurs de larges emprunts; – car ce n’est pas ici qu’on trouvera une
+d’ailleurs de larges emprunts ; – car ce n’est pas ici qu’on trouvera une
 appréciation malveillante à l’égard de cette institution qui, après des années
 d’engouement, a subi des jugements sévères, fondés, comme il arrive toujours,
 sur des cas particuliers. L’opinion des coloniaux les plus autorisés, sans
@@ -172,18 +172,18 @@ l’occupation du pays, mais la précède.
 Aussitôt l’occupation d’un territoire nouveau résolue pour des raisons
 politiques ou administratives, nous ne l’avons jamais vue procéder « par
 colonne en coup de lance » contre un objectif plus ou moins militaire, le souci
-de l’organisation restant réservé jusqu’à l’issue de l’opération; au contraire,
+de l’organisation restant réservé jusqu’à l’issue de l’opération ; au contraire,
 tous les éléments de l’occupation définitive et de l’organisation sont assurés
-d’avance; chaque chef d’unité, chaque soldat sait que le pays qui va lui échoir
+d’avance ; chaque chef d’unité, chaque soldat sait que le pays qui va lui échoir
 sera celui où il restera, et chefs et troupes sont formés en conséquence. Et
 ainsi l’occupation successive dépose les unités sur le sol comme des couches
 sédimentaires. C’est bien une _organisation qui marche_.  
 C’est une méthode sans grands coups d’éclat, plutôt de cheminements que
-d’assauts, qui n’aboutit qu’exceptionnellement à une « grosse affaire »; aussi
+d’assauts, qui n’aboutit qu’exceptionnellement à une « grosse affaire » ; aussi
 fut-elle à l’origine peu sympathique aux chercheurs d’aventures.  
 Déjà, elle avait été présentée et défendue dans un rapport adressé en 1895 par
 le général commandant en chef le corps d’occupation au gouverneur général de
-l’Indochine; il convient ici de citer un passage de ce document :  
+l’Indochine ; il convient ici de citer un passage de ce document :  
 
 > Je vous demande la permission de préciser cette méthode et de répondre une
   fois pour toutes à la plus spécieuse des objections qui lui sont couramment
@@ -204,7 +204,7 @@ l’Indochine; il convient ici de citer un passage de ce document :
   En second lieu, il ne faut pas perdre de vue que le « pirate » est, si je
   puis m’exprimer ainsi, « une plante qui ne pousse qu’en certains terrains »,
   et que la méthode la plus sûre, c’est de lui rendre le terrain réfractaire.  
-  Il n’y a pas de pirates dans les pays complètement organisés; en revanche, il
+  Il n’y a pas de pirates dans les pays complètement organisés ; en revanche, il
   y en a, même en Europe, sous d’autres noms, dans les pays tels que la
   Turquie, la Grèce, l’Italie du Sud, qui n’offrent qu’une voirie incomplète,
   une organisation administrative rudimentaire, ou une population clairsemée.
@@ -214,8 +214,8 @@ l’Indochine; il convient ici de citer un passage de ce document :
   qu’il faut, après y avoir passé la charrue, isoler le sol conquis, l’enclore,
   puis y semer le bon grain qui, seul, le rendra réfractaire à l’ivraie. De
   même de la terre livrée à la piraterie : l’occupation armée, avec ou sans
-  combat, y passe le soc; l’établissement d’une ceinture militaire l’enclôt et
-  l’isole; enfin la reconstitution de la population, son armement,
+  combat, y passe le soc ; l’établissement d’une ceinture militaire l’enclôt et
+  l’isole ; enfin la reconstitution de la population, son armement,
   l’installation des marchés et des cultures, le percement des routes, y
   sèment le bon grain et rendent la région conquise réfractaire au pirate, si
   même ce n’est ce dernier qui, transformé, coopère à cette évolution.
@@ -247,7 +247,7 @@ et intègre et formant ainsi une « population provisoire » à l’abri de 
 se reconstituent la population réelle et 1a remise en exploitation du sol.  
 « Certains territoires témoignent déjà de l’efficacité de cette méthode
 l’évidence des résultats qui y ont été obtenus est une des choses qui m’ont le
-plus frappé à mon arrivée au Tonkin. Cette méthode a fait ses preuves; hors
+plus frappé à mon arrivée au Tonkin. Cette méthode a fait ses preuves ; hors
 d’elle, il n’y a, vis-à-vis de la piraterie, que compromissions louches ou
 expéditions onéreuses et inefficaces.  
 Qu’il nous soit permis, en passant, de rendre hommage à l’œuvre de ces deux
@@ -261,7 +261,7 @@ toujours fuyant, un pays qu’elle épuise d’autant plus _qu’aucun de ceux q
 conquiert n’est directement intéressé a sa préservation_.
 
 Mais, si au contraire, toute troupe rejetée dans un pays neuf est celle qui
-doit y séjourner, y habiter, le coloniser; si son chef est celui qui doit le
+doit y séjourner, y habiter, le coloniser ; si son chef est celui qui doit le
 susciter, quelle différence! Et nous aboutissons alors à cette formule qui,
 prenant une bien autre portée, ne s’applique plus seulement à des actions de
 détail, mais peut s’appliquer à toute guerre de conquête coloniale. « Une
@@ -320,7 +320,7 @@ instructions fondamentales du général Galliéni, en date du 22 mai 1898 :
   Au fur et à mesure que la pacification s’affirme, le pays se cultive, les
   marchés se rouvrent, le commerce reprend. Le rôle du soldat passe au second
   plan. Celui de l’administrateur commence. Il faut d’une part étudier et
-  satisfaire les besoins sociaux des populations soumises; favoriser d’autre
+  satisfaire les besoins sociaux des populations soumises ; favoriser d’autre
   part, l’extension de la colonisation qui va mettre en valeur les richesses
   naturelles du sol, ouvrir les débouchés au commerce européen.
 
@@ -343,7 +343,7 @@ dans la période suivante, dans la vie normale du pays pacifié.
 Ici encore, il n’y a qu’à laisser la parole aux ins- tructions du 22 mai 1898 :  
 
 > Le soldat se montre d’abord soldat, ainsi qu’il est nécessaire pour en
-  imposer aux populations encore insoumises; puis la paix obtenue, il dépose
+  imposer aux populations encore insoumises ; puis la paix obtenue, il dépose
   les armes, il devient administrateur…  
 
 Ces fonctions administratives semblent incompatibles, au premier abord, avec
@@ -355,7 +355,7 @@ peut révéler ses qualités personnelles, car détruire n’est rien, reconstru
 est plus difficile.  
 D’ailleurs, les circonstances lui imposent inéluctablement ces obligations. Un
 pays n’est pas conquis et pacifié quand une opération militaire y a décimé les
-habitants et courbé les têtes sous la terreur; le premier effroi calmé, il
+habitants et courbé les têtes sous la terreur ; le premier effroi calmé, il
 germera dans la masse des ferments de révolte que les rancunes accumulées par
 l’action brutale de la force feront croître encore.  
 Pendant cette période qui suit la conquête, les troupes n’ont plus qu’un rôle
@@ -460,7 +460,7 @@ contraire, ont le stimulant de l’initiative, de l’intérêt personnel et de 
 responsabilité individuelle.  
 En échange de ces avantages, ils doivent à l’Etat (arrêté du 23 avril 1899),
 pendant trois ans, leur. concours pour le maintien de la sécurité du pays et
-forment, avec leurs engagés, de petits corps de partisans; ils sont, à l’égard
+forment, avec leurs engagés, de petits corps de partisans ; ils sont, à l’égard
 des indigènes, de vrais agents de surveillance et de direction.  
 Pour que l’expérience présentât toutes les garanties de succès et de durée, il
 faudrait qu’ils pussent se marier avec des femmes françaises. La ménagère n’est
@@ -516,7 +516,7 @@ Il est facile de se rendre compte de l’économie que représente, pour les
 budgets coloniaux ou métropolitains, un tel emploi de nos soldats s’il est
 partout compris et pratiqué. À Madagascar, une centaine d’écoles où les petits
 Hovas commencent à parler couramment le français, organisées et dirigées par
-nos soldats; des écoles professionnelles où les soldats contremaîtres ont formé
+nos soldats ; des écoles professionnelles où les soldats contremaîtres ont formé
 des ouvriers, des chefs d’atelier même, parmi les indigènes dans des régions où
 il n’y avait aucune industrie, aucun ouvrier d’art ; des fermes-écoles où, sous
 la direction de soldats, s’apprend l’usage de nos instruments aratoires, où se
@@ -590,7 +590,7 @@ Il y a dix ans, descendant le Bas-Danube jusqu’à son embouchure, je rencontra
 à Soulina sir Charles Hartley, le grand ingénieur qu’en 1856 la commission de
 navigation du Danube avait appelé, tout jeune, à rendre à la navigation le
 grand fleuve qui, depuis l’origine des temps, se perdait dans les marais. Il
-s’était d’abord installé dans un abri de pêcheurs sur pilotis; toute sa vie,
+s’était d’abord installé dans un abri de pêcheurs sur pilotis ; toute sa vie,
 lutte de trente années contre la fièvre, contre les obstacles, contre la
 nature, avait été vouée à cette grande œuvre. et maintenant, à cette même place
 où il n’y avait jadis que quelques huttes misérables, il y avait une ville et
@@ -723,7 +723,7 @@ entrer en pourparlers. Et ce fut la joie aux yeux que, le soir venu, il me
 présenta le Village réoccupé, en fête, les habitants fraternisant avec notre
 bivouac, à l’abri du drapeau tricolore, emblème de paix. À peine de retour en
 France, il y a quelques mois, le commandant Ditte a succombé aux fatigues
-accumulées pendant cette campagne; et ce n’est plus qu’à une tombe que va
+accumulées pendant cette campagne ; et ce n’est plus qu’à une tombe que va
 l’hommage ici rendu à ce bon et loyal ouvrier.  
 Eh bien, croit-on que non seulement le résultat n’ait été plus fécond, mais
 encore qu’il n’ait pas fallu plus de fermeté et de courage, au sens propre du

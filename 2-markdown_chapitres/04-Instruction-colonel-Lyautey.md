@@ -30,7 +30,7 @@ constamment l’œil sur les retardataires, en ne les laissant pas à la traîne
 mais en s’attelant à les mettre au point par de l’instruction individuelle, du
 travail à la longe, en les reprenant à la voltige.
 
-_Dressage_. – À cavalier souple, cheval souple; à cavalier contracté, cheval
+_Dressage_. – À cavalier souple, cheval souple ; à cavalier contracté, cheval
 contracté et réciproquement. C’est la voltige qui fait le cavalier souple ;
 c’est au dressage que se brisent les résistances du cheval.  
 Avec le service court et la pénurie d’anciens, c’est beaucoup plus le cheval
@@ -59,8 +59,8 @@ _Seuls guides : Le terrain et les circonstances_.
 Pour la troupe, le service en campagne se ramène à l’étude de la patrouille,
 _soit en marche, soit arrêtée_.  
 Tout gradé est avant tout : chef de patrouille.  
-Tout cavalier est avant tout : patrouilleur en marche (éclaireur); patrouilleur
-arrêté (vedette); intermédiaire de patrouille (jalonneur ou estafette).  
+Tout cavalier est avant tout : patrouilleur en marche (éclaireur) ; patrouilleur
+arrêté (vedette) ; intermédiaire de patrouille (jalonneur ou estafette).  
 La pratique se réduit, pour le chef comme pour le cavalier, à trois termes :
 _marcher_, _voir_, _renseigner_.
 
@@ -154,7 +154,7 @@ l’infanterie montée, loin de là, car ces conditions de soudaineté, de remis
 instantanée à cheval, de transport, rapide d’un point à un autre, de reprise de
 l’offensive à cheval, impliquent la meilleure instruction à cheval.  
 Il n’empiète pas non plus sur le temps consacré à cette dernière et n’en
-demande pas davantage que l’ancienne instruction à pied; ce temps doit être
+demande pas davantage que l’ancienne instruction à pied ; ce temps doit être
 employé autrement, voilà tout. Ici encore la voltige a un rôle efficace ; de
 même qu’elle est le meilleur assouplissement pour l’instruction à cheval, elle
 est la meilleure préparation du combat à pied.
@@ -199,7 +199,7 @@ confondre dans la pratique. En guerre, l’homme n’applique pas séparément
 l’instruction à cheval, la voltige, l’emploi du sabre, le service en campagne,
 le combat à pied. Il y a donc intérêt à ce qu’en instruction, de bonne heure,
 l’instruction à cheval soit coupée à l’improviste par un combat à pied,
-terminée par un retour en service en campagne; à ce que le terrain de manœuvres
+terminée par un retour en service en campagne ; à ce que le terrain de manœuvres
 qui est ici ^[À Alençon.] si favorablement disposé, soit utilisé pour les
 appréciations de distances, pour les interrogations sur les objets du terrain.
 L’instruction y gagnera en variété, en gaîté, en imprévu. En s’attachant à

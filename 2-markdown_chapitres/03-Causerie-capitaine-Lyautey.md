@@ -27,7 +27,7 @@ aux dragons ce que sont les chasseurs à pied à l’infanterie.
 Soyons les plus actifs, les plus légers, les plus rapides, les plus
 débrouillards.  
 Tous les rassemblements au pas gymnastique, pas de formations en rangs
-continelles, mais un _ralliement_ perpétuel derrière le guide; en toute
+continelles, mais un _ralliement_ perpétuel derrière le guide ; en toute
 occasion : réfectoire, travail, qu’on voie les hommes débouliner de partout au
 pas gymnastique, rigolants, alertes et puis, arrivés au guide, les hommes se
 reformant par deux d’eux-mêmes, sveltement, sans qu’on les prenne par le bras,
@@ -122,7 +122,7 @@ Partez-donc de ceci : sous-officiers, et surtout brigadiers, qui intimidez
 moins le débutant, vivez avec lui et en êtes encore assez près pour ne pas
 avoir oublié sa langue naturelle ; supposez que ce sont des parents, des amis
 de village qui arrivent à Paris, où vous, roublards, êtes depuis un ou deux ans
-; vous la connaissez dans les coins; tout est nouveau pour eux et les épate, et
+ ; vous la connaissez dans les coins ; tout est nouveau pour eux et les épate, et
 vous, vous leur expliquez tout ce qui se passe, la tour Eiffel, les tramways,
 les gardes municipaux… la lumière électrique. Supposez encore que vous êtes
 revenu au pays et qu’un jour où passe un régiment, vous qui y avez été, vous
@@ -133,7 +133,7 @@ en trois parties », n’est-ce pas ?
 Eh bien, pour Dieu, faites la même chose, parlez leur pour qu’ils _comprennent_
 et retiennent. Ce petit machin en fer, c’est pour guider l’œil sur le point
 qu’on veut frapper, aussi l’appelle-t-on le _guidon_. Plus on veut atteindre
-loin, plus il faut jeter la balle en l’air, comme une pierre; il faut hausser
+loin, plus il faut jeter la balle en l’air, comme une pierre ; il faut hausser
 l’arme pour cela, et, selon la distance, voilà une machine qui calcule combien
 il faut hausser, c’est la _hausse_… et ainsi de tout. Un cheval échappé passe
  : « De quelle couleur est-il ? Alezan, pas jaune, imbécile ! » et il le
@@ -150,7 +150,7 @@ Donc ici, au contraire, grande progression et ne passer à une notion que
 lorsque la précédente est ancrée ; on leur fourre tout à la fois et au bout de
 six mois ils ne savent rien.  
 
-1. D’abord, l’esprit militaire, les noms et les grades, les marques de respect;
+1. D’abord, l’esprit militaire, les noms et les grades, les marques de respect ;
 _leur en faire comprendre l’esprit_ et alors ils écouteront spontanément,
 virilement, toujours et non pas comme une formalité assommante.  
 Que voit-on ? L’officier coudoie l’homme, celui-ci fait effort pour se souvenir
