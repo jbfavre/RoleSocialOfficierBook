@@ -52,11 +52,11 @@ endif
 	@$(pandoc_bin) \
 		$(pandoc_config) \
 		-t epub \
-		--toc --toc-depth=1 \
+		--toc --toc-depth=2 \
 		--template=$(templates_dir)/template.epub \
 		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
 		--epub-metadata=$(make_dir)/epub.metadata.fr.xml \
-		--epub-chapter-level=1 \
+		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@) \
 		./metadata.md \
@@ -64,11 +64,11 @@ endif
 	@$(pandoc_bin) \
 		$(pandoc_config) \
 		-t epub3 \
-		--toc --toc-depth=1 \
+		--toc --toc-depth=2 \
 		--template=$(templates_dir)/template.epub3 \
 		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
 		--epub-metadata=$(make_dir)/epub.metadata.fr.xml \
-		--epub-chapter-level=1 \
+		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@)3.epub \
 		./metadata.md \
