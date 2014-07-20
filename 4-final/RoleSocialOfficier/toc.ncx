@@ -8,12 +8,12 @@
     <meta name="cover" content="cover-image" />
   </head>
   <docTitle>
-    <text>Du rôle social de l'officier</text>
+    <text>Du rôle social de l'officier et autres textes de Lyautey</text>
   </docTitle>
   <navMap>
     <navPoint id="navPoint-0">
       <navLabel>
-        <text>Du rôle social de l'officier</text>
+        <text>Du rôle social de l'officier et autres textes de Lyautey</text>
       </navLabel>
       <content src="title_page.xhtml" />
     </navPoint>

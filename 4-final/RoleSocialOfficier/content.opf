@@ -3,13 +3,13 @@
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:identifier id="epub-id-1">ISBN</dc:identifier>
     <dc:title id="epub-title-1">Du rôle social de l'officier</dc:title>
-    <dc:title id="epub-title-2">Du rôle social de l'officier</dc:title>
+    <dc:title id="epub-title-2">Du rôle social de l'officier et autres textes de Lyautey</dc:title>
     <dc:date>1881</dc:date>
     <dc:language>french</dc:language>
     <dc:creator id="epub-creator-1" opf:role="aut">Hubert Lyautey, maréchal de France</dc:creator>
-    <dc:creator id="epub-creator-2">Maréchal Hubert Lyautey</dc:creator>
+    <dc:creator id="epub-creator-2">Jean Baptiste Favre</dc:creator>
     <dc:subject>histoire</dc:subject>
-    <dc:description>et autres textes du maréchal Lyautey. Préface du général Juin</dc:description>
+    <dc:description>Du rôle social de l'officier et autres textes du maréchal Lyautey. Préface du général Juin</dc:description>
     <dc:publisher>Tooptee Édition</dc:publisher>
     <dc:source>http://bit.ly/RoleSocialOfficier</dc:source>
     <dc:rights>Public Domain</dc:rights>
@@ -43,7 +43,7 @@
     <itemref idref="ch005_xhtml" />
   </spine>
   <guide>
-    <reference type="toc" title="Du rôle social de l'officier" href="nav.xhtml" />
+    <reference type="toc" title="Du rôle social de l'officier et autres textes de Lyautey" href="nav.xhtml" />
     <reference type="cover" title="Cover" href="cover.xhtml" />
   </guide>
 </package>
