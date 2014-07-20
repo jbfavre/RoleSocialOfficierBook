@@ -460,8 +460,7 @@ inconnus, au point de vue d’un passé irrémédiablement mort. – Prendre son
 de l’abandon du « vieux bateau » sur lequel on a fait sa première traversée et
 dont on porte encore l’enseigne, pour se mettre énergiquement, avec les jeunes,
 à la construction du bâtiment, aux engins inconnus de votre jeunesse, qui
-portera les générations nouvelles, qu’y a-t-il de plus rare et de plus difficile
-?  
+portera les générations nouvelles, qu’y a-t-il de plus rare et de plus difficile ?  
 Nous autres, anciens, nous sommes mal disposés à juger la nouvelle armée avec
 équité. L’ancienne, avec ses vieux cadres, sa longue durée de service, marchait
 pour ainsi dire toute seule : dans la nouvelle, l’instruction de la troupe si

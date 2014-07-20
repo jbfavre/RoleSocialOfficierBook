@@ -698,14 +698,13 @@ On comprendra sans qu’il soit besoin d’insister.
 
 Croit-on qu’il faille nulle part une plus grande dépense d’énergie,
 d’endurance, d’autorité, qu’il n’en faut à l’officier chargé de la construction
-d’une route en pays sauvage? Il passe des mois, des années parfois, dans des
+d’une route en pays sauvage ? Il passe des mois, des années parfois, dans des
 abris improvisés, miné par la fièvre, compagne inséparable de tels travaux,
 allant d’un chantier à l’autre, n’obtenant qu’à force d’énergie, d’exemple, de
 volonté imposée, le rendement maximum de son personnel. Croit-on qu’il ne
 faille pas plus d’autorité, de sang-froid, de jugement, de fermeté d’âme, pour
 maintenir dans la soumission, sans tirer un coup de fusil, une population
-hostile et frémissante, que pour la réduire à coups de canon une fois soulevée
-?  
+hostile et frémissante, que pour la réduire à coups de canon une fois soulevée ?  
 Qu’on me permette d’évoquer à ce sujet le souvenir d’un commandant d’infanterie
 de marine. Chargé, il y a un an, de soumettre une région sakhalave insurgée, il
 s’était fait une loi absolue d’épargner, de pacifier, de ramener cette
