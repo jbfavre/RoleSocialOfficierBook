@@ -83,31 +83,6 @@ d’emploi exclut autant que possible [^2-1] la _colonne_ proprement dite et y
 substitue la méthode d’_occupation progressive_. Cette méthode peut se formuler
 ainsi :
 
-[^2-1]: Nous disons « autant que possible » : car il doit être formellement
-entendu qu’il n’y a ici rien d’absolu. – Il est évident qu’il y a nombre de cas
-dans les guerres coloniales où l’expédition militaire s’impose, sous sa forme
-classique et traditionnelle : au début d’une conquête, quand il faut atteindre
-avant tout un objectif précis, ruiner d’un coup la puissance matérielle et
-morale de l’adversaire – aux Pyramides, à Alger, à Denghil-Tepé, à Abomey ;
-– dans la période suivante, lorsqu’il faut atteindre et frapper certains chefs
-irréductibles, tels Abd-el-Kader, Schamyl, Samory. – C’est à la progression
-normale de l’occupation dans les hinterlands coloniaux, après le premier coup
-de force presque toujours nécessaire, que s’applique la méthode qui fait
-l’objet de cette étude. – Et quand l’expédition militaire proprement dite
-s’impose, c’est avec toutes les ressources de la tactique et de la science
-modernes, après la plus minutieuse préparation, avec la dernière vigueur,
-qu’elle doit être menée. – C’est la meilleure manière d’économiser le temps,
-les hommes, l’argent. Il est essentiel qu’il n’y ait sur ce point aucun
-malentendu. Du reste, puisque c’est de la méthode appliquée spécialement par le
-général Galliéni pour l’occupation progressive des pays confiés à son
-commandement qu’il s’agit ici, ce serait méconnaître singulièrement une part
-essentielle de son œuvre que d’oublier, que, chaque fois qu’il l’a fallu, au
-Soudan, au Tonkin, en face de l’insurrection de Madagascar, il a débuté par de
-vraies opérations, par des colonnes proprement dites qui ont été d’autant plus
-courtes et efficaces qu’elles ont été plus scientifiquement combinées, plus
-puissamment organisées, plus militairement menées. Et le cas échéant, c’est à
-cette _ultima ration_ qu’il faut recourir sans hésiter. Nous y reviendrons.
-
 > L’occupation militaire consiste moins en opérations militaires qu’en une
   organisation qui « marche ».
 
@@ -505,18 +480,6 @@ désertes, ont été transformés en villages militaires avec concession de terr
 en toute propriété, afin d’y créer des noyaux de repeuplement et des centres de
 ressources [^2-2].
 
-[^2-2]: Décision du général Galliéni, du 20 janvier 1898, affectant une
-compagnie de tirailleurs malgaches à la route de Majunga :
-
-    > …Considérant qu’il est utile de repeupler une route d’étapes importante en
-      y créant des ressources pour les voyageurs et que cet essai de colonisation
-      militaire, déjà expérimentée avec succès dans d’autres colonies françaises et
-      étrangères, est particulièrement intéressant au point de vue du repeuplement
-      des parties actuellement désertes de l’île ; Considérant que cette
-      organisation, en créant des intérêts à la troupe contribue à l’amélioration
-      de son état physique et moral dans des régions éloignées de tout centre de
-      population… décide…
-
 On s’élève souvent contre la charge onéreuse que présente pour la métropole
 l’entretien des corps d’occupation. On admet d’ailleurs que le moment ne semble
 pas précisément favorable à leur réduction. L’utilisation coloniale de ces
@@ -783,3 +746,40 @@ ils sont tous des hommes de devoir actif et précis. Et s’il n’y avait pas t
 de raisons d’un autre ordre, ç’en serait déjà une pour donner sa foi à l’œuvre
 coloniale, cette incomparable pépinière d’énergies et de volontés qui ne
 peuvent pas être un capital perdu.
+
+[^2-1]: Nous disons « autant que possible » : car il doit être formellement
+entendu qu’il n’y a ici rien d’absolu. – Il est évident qu’il y a nombre de cas
+dans les guerres coloniales où l’expédition militaire s’impose, sous sa forme
+classique et traditionnelle : au début d’une conquête, quand il faut atteindre
+avant tout un objectif précis, ruiner d’un coup la puissance matérielle et
+morale de l’adversaire – aux Pyramides, à Alger, à Denghil-Tepé, à Abomey ;
+– dans la période suivante, lorsqu’il faut atteindre et frapper certains chefs
+irréductibles, tels Abd-el-Kader, Schamyl, Samory. – C’est à la progression
+normale de l’occupation dans les hinterlands coloniaux, après le premier coup
+de force presque toujours nécessaire, que s’applique la méthode qui fait
+l’objet de cette étude. – Et quand l’expédition militaire proprement dite
+s’impose, c’est avec toutes les ressources de la tactique et de la science
+modernes, après la plus minutieuse préparation, avec la dernière vigueur,
+qu’elle doit être menée. – C’est la meilleure manière d’économiser le temps,
+les hommes, l’argent. Il est essentiel qu’il n’y ait sur ce point aucun
+malentendu. Du reste, puisque c’est de la méthode appliquée spécialement par le
+général Galliéni pour l’occupation progressive des pays confiés à son
+commandement qu’il s’agit ici, ce serait méconnaître singulièrement une part
+essentielle de son œuvre que d’oublier, que, chaque fois qu’il l’a fallu, au
+Soudan, au Tonkin, en face de l’insurrection de Madagascar, il a débuté par de
+vraies opérations, par des colonnes proprement dites qui ont été d’autant plus
+courtes et efficaces qu’elles ont été plus scientifiquement combinées, plus
+puissamment organisées, plus militairement menées. Et le cas échéant, c’est à
+cette _ultima ration_ qu’il faut recourir sans hésiter. Nous y reviendrons.
+
+[^2-2]: Décision du général Galliéni, du 20 janvier 1898, affectant une
+compagnie de tirailleurs malgaches à la route de Majunga :
+
+    > …Considérant qu’il est utile de repeupler une route d’étapes importante en
+      y créant des ressources pour les voyageurs et que cet essai de colonisation
+      militaire, déjà expérimentée avec succès dans d’autres colonies françaises et
+      étrangères, est particulièrement intéressant au point de vue du repeuplement
+      des parties actuellement désertes de l’île ; Considérant que cette
+      organisation, en créant des intérêts à la troupe contribue à l’amélioration
+      de son état physique et moral dans des régions éloignées de tout centre de
+      population… décide…
