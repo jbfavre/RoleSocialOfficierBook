@@ -140,7 +140,7 @@ réaction s’est produite en faveur des exercices du corps, ni quelle large pla
 ils ont prise dans les préoccupations des maîtres, mais c’est là un mouvement
 trop récent encore pour qu’il ne reste pas quelque chose des anciens préjugés.  
 C’est aussi la légende, plus répandue qu’on ne pense dans certains milieux, qui
-fait de tout officier un « traîneur de sabre» et un « soudard » inapte à toute
+fait de tout officier un « traîneur de sabre » et un « soudard » inapte à toute
 conception élevée de l’ordre intellectuel et moral, légende d’ailleurs aussi
 soigneusement que criminellement entretenue par la plume et le crayon, et
 odieusement personnifiée dans le type populaire du « colonel Ramollot ».  
