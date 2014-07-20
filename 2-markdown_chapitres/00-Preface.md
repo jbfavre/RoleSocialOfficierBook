@@ -1,6 +1,6 @@
 # Préface du général Juin
 
-1891 – Lyautey est depuis deux ans capitaine, commandant le 1^er^ escadron du 4^ème^
+1891 – Lyautey est depuis deux ans capitaine, commandant le 1^er^ escadron du 4^ème^
 chasseurs à cheval à Saint-Germain-en-Laye. Il a trente-six ans. C’est l’époque
 du *Ralliement*. Avec sa flamme habituelle, il se mêle au mouvement d’union, à
 cette « Période de bonnes volontés » dont le pape Léon XIII vient de donner le
@@ -39,7 +39,7 @@ Je viens de le relire. Une foi ardente s’en dégage, sous le style volontairem
 froid et contenu. J’évoque, à mon tour, la silhouette mince du capitaine de
 cavalerie Hubert Lyautey, « le sabre au côté et la main posée sur un livre ».
 C’est déjà le Lyautey avide d’action et tout frémissant d’idées et d’espoirs
-généreux que je devais rencontrer plus tard au Maroc – mais un Lyautey encore au
+généreux que je devais rencontrer plus tard au Maroc – mais un Lyautey encore au
 stade des virtualités et en quête de son destin.  
 Les directives données par Lyautey ont-elles été suivies ? Ont-elles conservé
 leur valeur ? Quels résultats, quels fruits ont-elles donnés ? Telle est la
@@ -288,8 +288,8 @@ Cet appel qu’il adressait particulièrement à ses pairs, il a été entendu e
 compris à l’intérieur de l’armée, en vue de l’utilisation de l’armée. Mais
 Lyautey avait demandé davantage. Il aurait voulu que le bénéfice de l’éducation
 reçue au régiment se prolongeât au delà du service militaire. C’est pourquoi il
-avait proposé aux officiers – agents de l’État investis d’une mission très
-spécialisée – un programme d’action morale universelle dépassant largement leur
+avait proposé aux officiers – agents de l’État investis d’une mission très
+spécialisée – un programme d’action morale universelle dépassant largement leur
 fonction militaire.
 
 Il était inévitable qu’une telle doctrine parût audacieuse et heurtât les
