@@ -12,7 +12,7 @@ portrait « L’épée au côté, la main posée sur un livre », il envie c
 capitaine. Un beau guerrier, songe-t-il, mais sans doute éclairé et instruit, et
 qui, sûrement, employait ses loisirs, entre deux combats, à deviser des affaires
 de la République. À tout instant, sous sa plume, reviennent les phrases qui
-témoignent de sa hantise; rapprocher les êtres, les unir au sein de la société.  
+témoignent de sa hantise ; rapprocher les êtres, les unir au sein de la société.  
 À Saint-Germain, le contact avec la troupe, les responsabilités du commandement
 réveillent et affermissent sa conviction : l’officier a une autre mission à
 remplir que celle d’enseigner le tir et l’équitation à des hommes dont il ignore
@@ -85,7 +85,7 @@ manqué au rendez-vous sur les champs de bataille, preuve qu’elles n’étaien
 point absentes au quartier ou à la caserne.  
 De purs visages, un Péguy, un Ernest Psichari, un Guynemer, tant de jeunes
 existences fauchées une chanson aux lèvres, un cher espoir au cœur, une grande
-idée en tête; des gens venus de tous les horizons, rapprochés par la misère et
+idée en tête ; des gens venus de tous les horizons, rapprochés par la misère et
 la gloire dans une camaraderie totale, plus sainte que bien des amitiés, voilà
 le bilan de cet esprit de compréhension tolérante qui fut la parure de notre
 armée, durant les longs jours d’épreuve comme au soir de la victoire.
@@ -255,7 +255,7 @@ de la mission, d’intérêt général celle-là, que leur assignait Lyautey :
 l’état de guerre haineuse et violente qui sépare stérilement les enfants du même
 sol, de parti à parti, de classe à classe, substituer la recherche pacifique et
 féconde des problèmes posés par la révolution économique et industrielle de ce
-temps; marcher; non plus la revendication ou la répression au poing, mais la
+temps ; marcher ; non plus la revendication ou la répression au poing, mais la
 main dans la main, dans la large voie du progrès social… Question non pas
 vieille comme le monde*, ajoutait-il, *mais posée d’hier, dans son acuité* ».
 
