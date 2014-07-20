@@ -83,7 +83,7 @@ d’emploi exclut autant que possible [^2-1] la _colonne_ proprement dite et y
 substitue la méthode d’_occupation progressive_. Cette méthode peut se formuler
 ainsi :
 
-[^2-1] : Nous disons « autant que possible » : car il doit être formellement
+[^2-1]: Nous disons « autant que possible » : car il doit être formellement
 entendu qu’il n’y a ici rien d’absolu. – Il est évident qu’il y a nombre de cas
 dans les guerres coloniales où l’expédition militaire s’impose, sous sa forme
 classique et traditionnelle : au début d’une conquête, quand il faut atteindre
@@ -495,7 +495,7 @@ désertes, ont été transformés en villages militaires avec concession de terr
 en toute propriété, afin d’y créer des noyaux de repeuplement et des centres de
 ressources [^2-2].
 
-[^2-2] : Décision du général Galliéni, du 20 janvier 1898, affectant une
+[^2-2]: Décision du général Galliéni, du 20 janvier 1898, affectant une
 compagnie de tirailleurs malgaches à la route de Majunga :
 
     > …Considérant qu’il est utile de repeupler une route d’étapes importante en
