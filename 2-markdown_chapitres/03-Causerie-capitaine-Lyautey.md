@@ -33,7 +33,7 @@ pas gymnastique, rigolants, alertes et puis, arrivés au guide, les hommes se
 reformant par deux d’eux-mêmes, sveltement, sans qu’on les prenne par le bras,
 la tête continuant à marcher allègrement, la queue serrant sans marquer
 lourdement le pas. Perdons ces allures de collégiens allant à l’étude. Pas de
-prussianisme, au nom du ciel! Restons le petit troupier français, alerte et
+prussianisme, au nom du ciel ! Restons le petit troupier français, alerte et
 joyeux.
 
 _Désosser la recrue, à pied, à cheval_. – Cette méthode, on la transportera à
@@ -85,8 +85,8 @@ sanction, un summum, comme ce quelque chose d’anormal qu’est le galop pour l
 neuf dixièmes des cavaliers français.  
 Ce ne sera plus cette allure exceptionnelle, affolée, ahurie, cramponnée, mais
 ce sera usuel, léger, gai, descendu ; le temps de galop ? mais que ce soit, dès
-le premier jour, le plaisir, le côté « rigolade » du travail, et le saut aussi
-! Avec vos hommes désossés par une voltige préliminaire, endiablée, et par
+le premier jour, le plaisir, le côté « rigolade » du travail, et le saut aussi !
+Avec vos hommes désossés par une voltige préliminaire, endiablée, et par
 conséquent assis à cheval et sentant jouer l’articulation du rein, vous pourrez
 si vite enlever l’obstacle en jouant.  
 D’aussi bonne heure aussi, la conduite à une main, qu’on recule à tort si tard,

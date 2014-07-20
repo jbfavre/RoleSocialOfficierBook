@@ -262,7 +262,7 @@ conquiert n’est directement intéressé a sa préservation_.
 
 Mais, si au contraire, toute troupe rejetée dans un pays neuf est celle qui
 doit y séjourner, y habiter, le coloniser ; si son chef est celui qui doit le
-susciter, quelle différence! Et nous aboutissons alors à cette formule qui,
+susciter, quelle différence ! Et nous aboutissons alors à cette formule qui,
 prenant une bien autre portée, ne s’applique plus seulement à des actions de
 détail, mais peut s’appliquer à toute guerre de conquête coloniale. « Une
 expédition coloniale devrait toujours être dirigée par le chef désigné pour
@@ -412,7 +412,7 @@ humeur.
 Ah ! cette idée audacieuse de la dispersion de nos hommes à travers les
 populations indigènes, tolérée, que dis-je préconisée, ordonnée par le général
 Galliéni, que n’en avons-nous pas entendu dire par les gardiens des rites
-sacrés!
+sacrés !
 
 Or, les faits sont là.
 
@@ -596,7 +596,7 @@ nature, avait été vouée à cette grande œuvre. et maintenant, à cette même
 où il n’y avait jadis que quelques huttes misérables, il y avait une ville et
 un port, et les plus grands bateaux suivaient ce bras du fleuve que
 franchissaient seules autrefois des barques de faible tonnage, et je regardais,
-- avec quelle émotion! – cet homme, vieillard aujourd’hui, qui pouvait
+- avec quelle émotion ! – cet homme, vieillard aujourd’hui, qui pouvait
 s’endormir, sa bonne tâche accomplie, après avoir appelé à la vie ce grand
 fleuve inutilisé depuis l’origine du monde, l’avoir _délié_ pour ainsi dire, -
 et il me semblait qu’il ne pouvait y avoir de vie plus noblement remplie.  
@@ -653,10 +653,10 @@ pleine formation, et s’y est donné corps et âme, il est plein de son œuvre,
 ne demande qu’à la poursuivre. Le tour prochain l’enverra faire du service de
 place à la Martinique ou à la Réunion. Cette instabilité est aujourd’hui une
 des choses les plus décourageantes, aussi bien pour l’officier voué à son
-œuvre, que pour ses chefs. Ah! je connais l’objection : c’est qu’il ne faut pas
+œuvre, que pour ses chefs. Ah ! je connais l’objection : c’est qu’il ne faut pas
 s’user aux colonies, que trois ans représentent le maximum de temps pour un
 rendement utile, et qu’après ce délai, il est nécessaire de venir se retremper
-dans la métropole. Soit! Mais alors pourquoi ne pas introduire dans l’armée
+dans la métropole. Soit ! Mais alors pourquoi ne pas introduire dans l’armée
 coloniale, comme il a lieu pour les fonctionnaires civils, le droit au congé
 administratif pendant lequel on reste titulaire de son poste, où l’on est
 assuré de retourner, après s’être revivifié à l’air de France, après aussi y

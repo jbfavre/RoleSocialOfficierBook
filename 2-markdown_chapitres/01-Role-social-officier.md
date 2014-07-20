@@ -61,7 +61,7 @@ contre la parole des dirigeants qu’inspire aux travailleurs l’opposition
 apparente de leurs intérêts matériels.  
 Sans nul doute, il y a là un mouvement, un souffle de dévouement et de
 générosité. Il semble que cette génération prenne conscience du grand rôle
-qu’elle pourrait remplir. Et quel rôle! À l’état de guerre haineuse et violente,
+qu’elle pourrait remplir. Et quel rôle ! À l’état de guerre haineuse et violente,
 qui sépare stérilement les enfants du même sol, de parti à parti, de classe à
 classe, substituer la recherche pacifique et féconde des problèmes posés par la
 révolution industrielle et économique de ce temps : marcher, non plus la
@@ -413,9 +413,9 @@ _Au point de vue militaire_, il nous semble ressortir suffisamment de ce qui
 précède que cette prise morale de la troupe est devenue une nécessité moderne.
 De la brièveté du temps de service et de l’espacement croissant des guerres, il
 résulte que, lors de la prochaine lutte, tout soldat verra le feu pour la
-première fois. Et quel feu! Le feu le plus meurtrier lancé d’une distance
+première fois. Et quel feu ! Le feu le plus meurtrier lancé d’une distance
 inconnue par une main invisible, – la guerre la plus terrible sans
-aguerrissement préparatoire. Ah! devant une telle violence faite à tous les
+aguerrissement préparatoire. Ah ! devant une telle violence faite à tous les
 instincts naturels, l’instruction professionnelle, la discipline matérielle, les
 moyens répressifs feront triste figure si l’officier n’a pas d’autre secret au
 service de son autorité et si son regard, sa parole, son cœur n’ont pas su, dès
@@ -512,7 +512,7 @@ premiers instructeurs de l’école, et qu’on reconnaît à travers les grades
 générations formées par tel ou tel.  
 Et si, des instructeurs subalternes, on remonte aux chefs des grandes écoles
 militaires, combien leur choix ne doit-il pas davantage s’inspirer de cet
-esprit! Mais les choisir ne suffit pas : la condition première de l’efficacité
+esprit ! Mais les choisir ne suffit pas : la condition première de l’efficacité
 de leur action, toute d’expérience et de durée, est de donner à leurs fonctions
 une stabilité qu’elles n’ont pas. Les déplacements auxquels ils sont soumis
 résultent, le plus souvent, de l’avancement que comporte leur mérite. Pour- quoi
