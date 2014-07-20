@@ -1,6 +1,6 @@
-# Instruction du colonel Lyautey aux officiers du 14^ème^ Hussards
+## Instruction du colonel Lyautey aux officiers du 14^ème^ Hussards
 
-## Caractère général à donner à l’instruction du régiment
+### Caractère général à donner à l’instruction du régiment
 
 Sans entrer dans aucune des prescriptions de détail qui auront leur place au
 cours de cette instruction et qui sont d’ailleurs données par les règlements,

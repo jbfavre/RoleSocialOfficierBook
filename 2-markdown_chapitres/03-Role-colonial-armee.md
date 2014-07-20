@@ -1,4 +1,4 @@
-# Du rôle colonial de l’armée
+## Du rôle colonial de l’armée
 
 Le titre de cette étude : _Du rôle colonial de l’armée_, éveillera peut-être la
 pensée qu’il s’agit d’un plaidoyer exclusif en faveur du régime militaire aux
@@ -74,7 +74,7 @@ moindre « esprit de bouton », d’exposer à grands traits la façon dont 
 général Galliéni a entendu et appliqué, après d’illustres prédécesseurs dont il
 a développé les principes et les méthodes, l’utilisation coloniale de l’armée.
 
-## 1
+### 1
 
 Voyons d’abord dans ses grandes lignes l’emploi de la force armée pour la
 _conquête_, tel que l’entend, avec le général Galliéni et quelques-uns de nos
@@ -317,7 +317,7 @@ Et pour terminer ces citations par cette dernière qui en résume l’esprit :
 > _Nos administrateurs et officiers doivent défendre au nom du bon sens les
 intérêts qui leur sont confiés et non les combattre au nom du règlement_.
 
-## 2
+### 2
 
 Voilà pour la première période : conquête, occupation, pacification.  
 Voyons ce que devient la méthode, en quoi consiste le rôle colonial de l’armée
@@ -585,7 +585,7 @@ qui a trempé ses lèvres à cette coupe en garde à jamais le goût ! Quel pl
 noble emploi pour la force armée, avec celui de défendre le sol natal, que de
 préparer, d’assurer et de développer de telles conquêtes ?
 
-## 3
+### 3
 
 Mais pour une telle œuvre, il faut une _armée coloniale_, qui soit vraiment
 une _armée coloniale_ et non pas seulement de l’_armée aux colonies_, ce qui

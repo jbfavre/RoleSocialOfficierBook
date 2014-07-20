@@ -1,4 +1,4 @@
-# Du rôle social de l’officier dans le service militaire universel
+## Du rôle social de l’officier dans le service militaire universel
 
 ![Lyautey à Madagascar (1899)](../3-images/Lyautey_Madagascar_1899.jpg)
 
