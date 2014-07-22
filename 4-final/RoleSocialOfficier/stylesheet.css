@@ -29,6 +29,7 @@ body {
 #toc-title{
   font-size: 2em;}
 .chapter {
+  text-align:center;
   padding-top:0;
   display:block;}
 .chapterHeader {
