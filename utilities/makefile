@@ -1,3 +1,4 @@
+SHELL := /bin/bash
 VERSION=0.5
 
 PANDOC := $(shell pandoc --version 2>/dev/null)
@@ -14,70 +15,65 @@ vmargin=3.5cm
 
 # Common options for pandoc's calls
 make_dir=$(shell pwd)
-templates_dir=$(make_dir)/epub
-outputdir=$(make_dir)/output
-utilsdir=$(make_dir)/epub
-img_dir=$(make_dir)/../3-images
-pages_dir=$(make_dir)/../2-markdown_chapitres
+templates_dir=$(make_dir)/templates.epub
+outputdir=$(make_dir)/../output
+epubdir=$(make_dir)/../epub
+utilsdir=$(make_dir)/templates.epub
+img_dir=$(make_dir)/../images
+pages_dir=$(make_dir)/../bookmd
 
 pandoc_config= \
-	$(pandoc_metadata) \
 	-V geometry:hmargin=3cm \
 	-V geometry:vmargin=3.5cm \
 	--listings \
 	--no-highlight
 
 %.check:
-	@echo -n "Recherche de l'utilitaire pandoc... "
+	@echo -n "Searching pandoc... "
 ifdef PANDOC
 	@which pandoc
 else
 	@echo "NOT FOUND"
 	@exit 1
 endif
-	@echo -n "Recherche de l'utilitaire unzip... "
+	@echo -n "Searching unzip... "
 ifdef UNZIP
 	@which unzip
 else
 	@echo "NOT FOUND"
 	@exit 1
 endif
-	@echo "Préparation du répertoire de sortie..."
+	@echo "Preparing build environment..."
 	@mkdir -p $(outputdir)
+	@mkdir -p $(epubdir)
 	@rm -rf $(outputdir)/*
-	@$(eval pandoc_metadata=$(shell /usr/bin/awk -f $(utilsdir)/metadata.awk metadata.txt) )
+	@rm -rf $(epubdir)/*
 
 %.epub:
-	@echo "Génération de l'epub... "
-	@$(pandoc_bin) \
-		$(pandoc_config) \
-		-t epub \
-		--toc --toc-depth=2 \
-		--template=$(templates_dir)/template.epub \
-		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-metadata=$(make_dir)/epub.metadata.fr.xml \
-		--epub-chapter-level=2 \
-		--epub-cover-image=$(img_dir)/cover.jpg \
-		-o $(outputdir)/$(@) \
-		./metadata.md \
-		$(pages_dir)/*.md
+	@echo "Generating epub... "
 	@$(pandoc_bin) \
 		$(pandoc_config) \
 		-t epub3 \
 		--toc --toc-depth=2 \
 		--template=$(templates_dir)/template.epub3 \
 		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-metadata=$(make_dir)/epub.metadata.fr.xml \
 		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
-		-o $(outputdir)/$(@)3.epub \
-		./metadata.md \
-		$(pages_dir)/*.md
-	@echo "Extraction de l'epub..."
+		-o $(outputdir)/$(patsubst %.epub,%,$(@)).3.epub \
+		$(pages_dir)/metadata.md \
+		$(pages_dir)/01-chapitre-*.md
+	@echo "Extracting epub..."
+	@mkdir -p $(epubdir)/$(patsubst %.epub,%,$(@)).3
 	@$(unzip_bin) -qq \
-		-d $(outputdir)/$(patsubst %.epub,%,$(@)) \
-		$(outputdir)/$(@)
-#		ch*.xhtml images*
+		-d $(epubdir)/$(patsubst %.epub,%,$(@)).3 \
+		$(outputdir)/$(patsubst %.epub,%,$(@)).3.epub
+	@echo "Adding preface"
+	@$(pandoc_bin) -t html \
+		$(pages_dir)/preface.md > $(epubdir)/$(patsubst %.epub,%,$(@)).3/preface.xhtml
+	@echo "Customizing epub..."
+	@./bookscanner_customize_ebook.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3
+	@echo "Rebuilding epub..."
+	@./bookscanner_regenerate_epub.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3 $(outputdir)/$(patsubst %.epub,%,$(@)).3.epub
 
 %.all: | %.epub
 	@true
