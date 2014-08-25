@@ -5,7 +5,7 @@
     <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">15</meta>
     <dc:title id="epub-title-1">Du rôle social de l’officier</dc:title>
     <meta refines="#epub-title-1" property="title-type">main</meta>
-    <dc:date>2014-08-25T20:22:09Z</dc:date>
+    <dc:date>2014-08-25T20:24:56Z</dc:date>
     <dc:language>fr-FR</dc:language>
     <dc:creator id="epub-creator-1">Hubert Lyautey</dc:creator>
     <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
@@ -29,7 +29,7 @@ compléter le texte initial.</dc:description>
     <dc:publisher>Tooptee Edition</dc:publisher>
     <dc:rights>© 2014 Tooptee Edition, Public Domain</dc:rights>
     <meta name="cover" content="cover-image" />
-    <meta property="dcterms:modified">2014-08-25T20:22:09Z</meta>
+    <meta property="dcterms:modified">2014-08-25T20:24:56Z</meta>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
@@ -44,6 +44,7 @@ compléter le texte initial.</dc:description>
     <item id="ch004_xhtml" href="ch004.xhtml" media-type="application/xhtml+xml" />
     <item id="ch005_xhtml" href="ch005.xhtml" media-type="application/xhtml+xml" />
     <item id="ch006_xhtml" href="ch006.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch007_xhtml" href="ch007.xhtml" media-type="application/xhtml+xml" />
     <item properties="cover-image" id="cover-image_jpg" href="cover-image.jpg" media-type="image/jpeg" />
     <item id="file0_jpg" href="media/file0.jpg" media-type="image/jpeg" />
     <item id="file1_jpg" href="media/file1.jpg" media-type="image/jpeg" />
@@ -59,6 +60,7 @@ compléter le texte initial.</dc:description>
     <itemref idref="ch004_xhtml" />
     <itemref idref="ch005_xhtml" />
     <itemref idref="ch006_xhtml" />
+    <itemref idref="ch007_xhtml" />
   </spine>
   <guide>
     <reference type="toc" title="Du rôle social de l’officier" href="nav.xhtml" />
