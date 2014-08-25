@@ -1,6 +1,6 @@
-## Causerie du capitaine Lyautey aux cadres du 1^er^ escadron du 4^ème^ Chasseurs
+# Causerie du capitaine Lyautey aux cadres du 1^er^ escadron du 4^ème^ Chasseurs
 
-### De la méthode d’instruction
+## De la méthode d’instruction
 
 Les premiers caractères qu’il est indispensable de donner à l’instruction c’est
 l’allant, l’entrain, l’intérêt, la _gaîté_.

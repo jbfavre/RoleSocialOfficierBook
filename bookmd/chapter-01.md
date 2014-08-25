@@ -1,4 +1,4 @@
-## Préface du général Juin
+# Préface du général Juin
 
 1891 – Lyautey est depuis deux ans capitaine, commandant le 1^er^ escadron du 4^ème^
 chasseurs à cheval à Saint-Germain-en-Laye. Il a trente-six ans. C’est l’époque
@@ -394,4 +394,4 @@ salut dans la paix traversée d’inquiétude où nous entrons.
 
 Paris 15 mars 1946 A. Juin
 
-![Signature du général Juin](../3-images/signature_preface.jpg)
+![Signature du général Juin](../images/signature_preface.jpg)

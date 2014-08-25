@@ -38,3 +38,4 @@ description: Essai du capitaine Lyautey à propos de l’aspect social du rôle
              de l’officier. Préface du général Juin en 1946. Deux autres
              textes, des ordres du jour de Lyautey lorsqu’il commandait,
              viennent prolonger et compléter le texte initial.
+---
