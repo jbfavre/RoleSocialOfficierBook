@@ -61,7 +61,7 @@ endif
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(patsubst %.epub,%,$(@)).3.epub \
 		$(pages_dir)/metadata.md \
-		$(pages_dir)/01-chapitre-*.md
+		$(pages_dir)/chapter-*.md
 	@echo "Extracting epub..."
 	@mkdir -p $(epubdir)/$(patsubst %.epub,%,$(@)).3
 	@$(unzip_bin) -qq \
